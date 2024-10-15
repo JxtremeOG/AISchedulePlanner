@@ -1,0 +1,134 @@
+{
+    "EVGD 200": {
+        "shortName": "EVGD 200",
+        "fullName": "Introduction to Environmental Graphic Design",
+        "courseCredits": "4.0",
+        "courseDesc": "This course is an introduction to the Environmental Graphic Design specialty including wayfinding systems, architectural graphics, signage, exhibit design, and mapped and themed environments.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "VSCM 230 [Min Grade D] and VSCM 240 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD 220": {
+        "shortName": "EVGD 220",
+        "fullName": "Wayfinding",
+        "courseCredits": "4.0",
+        "courseDesc": "This course explores the discipline of wayfinding in an urban environment through the use of visual clues and directional hierarchy, including typography, symbols, and color.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD 320": {
+        "shortName": "EVGD 320",
+        "fullName": "Exhibit Design",
+        "courseCredits": "4.0",
+        "courseDesc": "This exploration of exhibit design focuses on communicating a narrative visually through the design of space, graphics, objects, and interactivity.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "VSCM 230 [Min Grade D] and VSCM 240 [Min Grade D] and EVGD 200 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD 421": {
+        "shortName": "EVGD 421",
+        "fullName": "Environmental Branding",
+        "courseCredits": "4.0",
+        "courseDesc": "This course explores the marketing power of a branded identity when it is visually and spatially applied to a retail environment.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "EVGD 320 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD I199": {
+        "shortName": "EVGD I199",
+        "fullName": "Independent Study in EVGD",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD I299": {
+        "shortName": "EVGD I299",
+        "fullName": "Independent Study in EVGD",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD I399": {
+        "shortName": "EVGD I399",
+        "fullName": "Independent Study in EVGD",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD I499": {
+        "shortName": "EVGD I499",
+        "fullName": "Independent Study in EVGD",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD T180": {
+        "shortName": "EVGD T180",
+        "fullName": "Special Topics in Environmental Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD T280": {
+        "shortName": "EVGD T280",
+        "fullName": "Special Topics in Environmental Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD T380": {
+        "shortName": "EVGD T380",
+        "fullName": "Special Topics in Environmental Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EVGD T480": {
+        "shortName": "EVGD T480",
+        "fullName": "Special Topics in Environmental Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

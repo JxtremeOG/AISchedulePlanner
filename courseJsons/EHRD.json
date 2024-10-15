@@ -1,0 +1,24 @@
+{
+    "EHRD 205": {
+        "shortName": "EHRD 205",
+        "fullName": "Organizational Learning & Strategy",
+        "courseCredits": "3.0",
+        "courseDesc": "The purpose of this course is to help learning professionals understand how to align learning functions with strategic goals of the organization in order to support leadership functions. Students will develop an understanding of learning in, by, and across organizations, explore barriers to change, and discuss and apply specific tools and processes to facilitate and sustain change and tighten the alignment of organizational learning and strategy.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EHRD 460": {
+        "shortName": "EHRD 460",
+        "fullName": "Principles of Adult Learning",
+        "courseCredits": "3.0",
+        "courseDesc": "This course explores in-depth the analysis of relevant theories relating to the contemporary application of adult learner materials and methods. Many adult education theories and practices are explored to provide the participants with a broad understanding of Andragogy (the art and science of teaching adults) and how it relates to the field.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

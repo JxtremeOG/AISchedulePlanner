@@ -1,0 +1,13 @@
+{
+    "NEUS 201": {
+        "shortName": "NEUS 201",
+        "fullName": "Academics & Career: Neuroscience",
+        "courseCredits": "1.0",
+        "courseDesc": "This course prepares students for their post-college future in neuroscience. Through developing a portfolio of work, creating reflections on the undergraduate experience and coop, learning about job and graduate school opportunities, and preparing for the senior year, students prepare for graduation and beyond.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

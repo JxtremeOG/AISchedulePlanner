@@ -1,0 +1,101 @@
+{
+    "CI 101": {
+        "shortName": "CI 101",
+        "fullName": "Computing and Informatics Design I",
+        "courseCredits": "2.0",
+        "courseDesc": "Introduces computing and informatics through a combination of lectures and hands-on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low-level software and implementation issues to high-level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 102": {
+        "shortName": "CI 102",
+        "fullName": "Computing and Informatics Design II",
+        "courseCredits": "2.0",
+        "courseDesc": "Introduces computing and informatics through a combination of lectures and hands on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low level software and implementation issues to high level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 103": {
+        "shortName": "CI 103",
+        "fullName": "Computing and Informatics Design III",
+        "courseCredits": "2.0",
+        "courseDesc": "FollowsCI\u00a0102in the Computing & Informatics design sequence. Introduces computing and informatics through a combination of lectures and hands-on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low-level software and implementation issues to high-level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CI 102 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 120": {
+        "shortName": "CI 120",
+        "fullName": "CCI Transfer Student Seminar",
+        "courseCredits": "2.0",
+        "courseDesc": "Introduces students to the academic and co-curricular aspects of university life. Includes academic functions such as reflection papers, reading, and study skills, as well as co-curricular functions such as campus resources, activities, and social programs. Aids in the transition to student life at Drexel and is designed to help each student achieve academic and personal success through academic and career exploration.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 489": {
+        "shortName": "CI 489",
+        "fullName": "Seminar in Computing and Informatics",
+        "courseCredits": "1.0-3.0",
+        "courseDesc": "This seminar in Computing and Informatics allows for enrichment discussion and laboratory experimentation in selected topics for a cohort of students.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 490": {
+        "shortName": "CI 490",
+        "fullName": "Undergraduate Research Experience in Computing and Informatics",
+        "courseCredits": "1.0-6.0",
+        "courseDesc": "This research seminar in Computing and Informatics supports and enriches undergraduate research projects with a cohort experience practicing research talks, writing a research paper in Computing and Informatics, and conducting experiments.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 491": {
+        "shortName": "CI 491",
+        "fullName": "Senior Project I",
+        "courseCredits": "3.0",
+        "courseDesc": "Part of a multi-term capstone experience involving in-depth study and application of computing and informatics. Students work in teams to develop a significant product. Requires use of a development process that includes planning, specification, design, implementation, evaluation, and documentation.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "INFO 442 [Min Grade D] or SE 310 [Min Grade D] or (INFO 324 [Min Grade D] and INFO 355 [Min Grade D])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 492": {
+        "shortName": "CI 492",
+        "fullName": "Senior Project II",
+        "courseCredits": "3.0",
+        "courseDesc": "Part of a multi-term capstone experience involving in-depth study and application of computing and informatics. Students work in teams to develop a significant product. Requires use of a development process that includes planning, specification, design, implementation, evaluation, and documentation.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CI 491 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CI 493": {
+        "shortName": "CI 493",
+        "fullName": "Senior Project III",
+        "courseCredits": "3.0",
+        "courseDesc": "Part of a multi-term capstone experience involving in-depth study and application of computing and informatics. Students work in teams to develop a significant product. Requires use of a development process that includes planning, specification, design, implementation, evaluation, and documentation.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CI 492 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    }
+}

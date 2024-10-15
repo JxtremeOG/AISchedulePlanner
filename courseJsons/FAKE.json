@@ -1,0 +1,24 @@
+{
+    "FAKE 000": {
+        "shortName": "FAKE 000",
+        "fullName": "Place holder for AP classes",
+        "courseCredits": "0.0",
+        "courseDesc": "",
+        "courseDepartment": "",
+        "repeatStatus": "",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "FAKE 001": {
+        "shortName": "FAKE 001",
+        "fullName": "Place holder for non existent classes", 
+        "courseCredits": "0.0",
+        "courseDesc": "",
+        "courseDepartment": "",
+        "repeatStatus": "",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "LING 101": {
+        "shortName": "LING 101",
+        "fullName": "Introduction to Linguistics",
+        "courseCredits": "0.0-3.0",
+        "courseDesc": "Introduces major topics in the study of language, including language acquisition, language change, the social use of language, and the analysis of discourse, and teaches basic techniques in linguistic analysis through the use of a wide variety of language data.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LING 102": {
+        "shortName": "LING 102",
+        "fullName": "Language and Society",
+        "courseCredits": "3.0",
+        "courseDesc": "Develops understanding of how language is involved with relations of class, ethnicity, gender and aesthetics in society. The course covers the social investigation of language use, politeness in languages, different varieties of English dialects, slang, and rap, bilingualism and languages in immigrant communities, and language planning.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LING T180": {
+        "shortName": "LING T180",
+        "fullName": "Special Topics in Linguistics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LING T280": {
+        "shortName": "LING T280",
+        "fullName": "Special Topics in Linguistics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LING T380": {
+        "shortName": "LING T380",
+        "fullName": "Special Topics in Linguistics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LING T480": {
+        "shortName": "LING T480",
+        "fullName": "Special Topics in Linguistics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

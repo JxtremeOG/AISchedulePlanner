@@ -1,0 +1,178 @@
+{
+    "GSTD 100": {
+        "shortName": "GSTD 100",
+        "fullName": "Strategies for Academic Success",
+        "courseCredits": "1.0",
+        "courseDesc": "This course explores the learning process to assist students in achieving academic success. Self-assessments, personal reflection, and relevant electronic resources are used to foster students\u2019 development as self-directed learners. Topics include: study skills, learning strategies, personal development, academic planning and tracking, visioning, and goal setting. The goal of this course is to help improve students\u2019 efficacy in the areas of academic self-management, self-direction, and resource utilization.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 111": {
+        "shortName": "GSTD 111",
+        "fullName": "Boots to Books: Transitioning from Active Duty to Academia",
+        "courseCredits": "3.0",
+        "courseDesc": "This course prepares veteran undergraduate students for the transition, expectations and challenges of transitioning to college life. This course explores the learning process to assist students in achieving academic success. Self-assessments, personal reflection, and relevant electronic resources are used to foster students' development as self-directed learners. Topics include study skills, learning strategies, personal development, academic planning and tracking, wellness, university and veteran resources, visioning and goal setting. The purpose of this course is to help improve students' efficacy in the areas of academic self-management, self-direction, wellness and resource utilization.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 200": {
+        "shortName": "GSTD 200",
+        "fullName": "Lifelong Learning Theory & Practice",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduces theories and practical skills necessary for successful learning in a variety of environments. Covers self-efficacy development, autonomous learning, critical thinking, critical reading, learning to learn, effective researching and writing, goal setting theories, and practical strategies necessary to support learning in university, career, and personal contexts.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 201": {
+        "shortName": "GSTD 201",
+        "fullName": "Professional Applications of Emotional Intelligence",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will examine emotional intelligence as applied through interpersonal communication. Particular emphasis will be placed on emotional intelligence in the workplace and in leadership. The main objective is to make students aware that intelligence and technological expertise are not enough to be successful in the workplace.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 302": {
+        "shortName": "GSTD 302",
+        "fullName": "Customer Service Theory & Practice",
+        "courseCredits": "3.0",
+        "courseDesc": "This course focuses on the theory of customer service and the practices that \"best in class\" companies apply to differentiate themselves from the competition. The course includes practical information and activities designed to teach students how to respond to customers, resolve problems, and provide quality customer service.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 303": {
+        "shortName": "GSTD 303",
+        "fullName": "Client Relations Management",
+        "courseCredits": "3.0",
+        "courseDesc": "This course introduces the skills that facilitate and enhance client relations management. Topics covered include building a trusting relationship, evaluating and managing expectations and needs, managing conflict, understanding the client's perspective, customer life cycle, consulting, serving public sector versus private sector clients, managing client relations managers, and ethical issues.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 360": {
+        "shortName": "GSTD 360",
+        "fullName": "Applied Organizational Research",
+        "courseCredits": "3.0",
+        "courseDesc": "This course presents a systematic approach to managerial methods of conducting organizational research and analysis. Students will undergo the management research process of specifying the problem; translating the problem into specific research questions; designing the data collection methodology; collecting, analyzing and interpreting data; and reporting the research results and recommendations.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD 491": {
+        "shortName": "GSTD 491",
+        "fullName": "Senior Project in General Studies",
+        "courseCredits": "3.0",
+        "courseDesc": "The senior project covers planning and execution of a capstone project that integrates the academic and practical knowledge acquired in the student\u2019s course of study. Students will complete a research proposal, a research project or an integrative portfolio.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD I199": {
+        "shortName": "GSTD I199",
+        "fullName": "Independent Study in General Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD I299": {
+        "shortName": "GSTD I299",
+        "fullName": "Independent Study in General Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD I399": {
+        "shortName": "GSTD I399",
+        "fullName": "Independent Study in General Studies",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD I499": {
+        "shortName": "GSTD I499",
+        "fullName": "Independent Study in General Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD T180": {
+        "shortName": "GSTD T180",
+        "fullName": "Special Topics in General Studies",
+        "courseCredits": "1.0-4.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated 11 times for 12 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD T280": {
+        "shortName": "GSTD T280",
+        "fullName": "Special Topics in General Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD T380": {
+        "shortName": "GSTD T380",
+        "fullName": "Special Topics in General Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GSTD T480": {
+        "shortName": "GSTD T480",
+        "fullName": "Special Topics in General Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

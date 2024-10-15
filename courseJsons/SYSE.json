@@ -1,0 +1,24 @@
+{
+    "SYSE 401": {
+        "shortName": "SYSE 401",
+        "fullName": "Introduction to Systems Engineering",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is an introduction to systems engineering. Systems engineering covers a higher level system concept, applying well tested engineering practices to address the processes which are critical to most large engineering efforts, and optimizing them for effectiveness and financial success. This course covers the complete system engineering process, touching on the many facets of engineering systems from needs and requirements generation to production to system operation. Students will learn to apply the systems processes and acquire skills to integrate user needs, manage requirements, conduct technological evaluation and build elaborate systems architectures.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "EET 311 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SYSE 488": {
+        "shortName": "SYSE 488",
+        "fullName": "Systems Engineering Analysis",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduces multiple System Engineering Analysis practices used to execute systems engineering processes. Provides foundation to execute, monitor, and manage the traditional practices and also develops ability to modify and establish new practices based on this massive foundation. Instills confidence so student can contribute, lead, monitor or manage any systems effort.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "SYSE 401 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "CIVC 100": {
+        "shortName": "CIVC 100",
+        "fullName": "Foundations of Civic Engagement",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is designed to help students develop skills as active participants in a pluralistic democratic society through direct service, education, and reflection opportunities. It will cover key concepts and frameworks for understanding civic engagement, including: models of civic life through American history; critiques of philanthropy, volunteerism, community service, public service, and political activism; and university-community relations.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC 101": {
+        "shortName": "CIVC 101",
+        "fullName": "Introduction to Civic Engagement",
+        "courseCredits": "1.0",
+        "courseDesc": "In this course, students will explore what it means to be a responsible, socially-conscious citizen of Philadelphia and the world. Students will explore the broad definition of civic engagement and critically examine concepts of identity, community, and systems to better understand social issues and build a foundation for making social change through civic engagement. As a community-engaged learning course, students will combine classroom learning with volunteerism and other interactions with community. Throughout the course, students will participate in reflective activities to tie together their learning and engagement and provide tools to advance their knowledge and practice beyond the course.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC 200": {
+        "shortName": "CIVC 200",
+        "fullName": "Active Citizenship and Community-Based Learning",
+        "courseCredits": "3.0",
+        "courseDesc": "By exploring the conceptions of active citizenship and taking part in civic engagement activities, this course will examine issues regarding community-based learning experiences for today's university students.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CIVC 100 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC 201": {
+        "shortName": "CIVC 201",
+        "fullName": "Civic Engagement Leadership",
+        "courseCredits": "3.0",
+        "courseDesc": "This course provides experiential learning in community settings as students observe, define, analyze, and practice leadership skills.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CIVC 100 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC 202": {
+        "shortName": "CIVC 202",
+        "fullName": "University-Community Partnerships",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will examine the university as a social institution and community actor.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CIVC 100 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC 490": {
+        "shortName": "CIVC 490",
+        "fullName": "Capstone Project in Civic Engagement",
+        "courseCredits": "3.0",
+        "courseDesc": "Under faculty supervision, students plan and execute a term project that integrates the academic and community-based knowledge acquired in their curriculum. Students define an issue and set learning objectives relevant to the project, develop a plan for implementation, and complete the term project.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC I199": {
+        "shortName": "CIVC I199",
+        "fullName": "Independent Study in Civic Engagement",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC I299": {
+        "shortName": "CIVC I299",
+        "fullName": "Independent Study in Civic Engagement",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC I399": {
+        "shortName": "CIVC I399",
+        "fullName": "Independent Study in Civic Engagement",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC I499": {
+        "shortName": "CIVC I499",
+        "fullName": "Independent Study in Civic Engagement",
+        "courseCredits": "1.0-3.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC T180": {
+        "shortName": "CIVC T180",
+        "fullName": "Special Topics in Civic Engagement",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC T280": {
+        "shortName": "CIVC T280",
+        "fullName": "Special Topics in Civic Engagement",
+        "courseCredits": "3.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated 2 times for 6 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC T380": {
+        "shortName": "CIVC T380",
+        "fullName": "Special Topics in Civic Engagement",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIVC T480": {
+        "shortName": "CIVC T480",
+        "fullName": "Special Topics in Civic Engagement",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Center for Civic Engagement",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

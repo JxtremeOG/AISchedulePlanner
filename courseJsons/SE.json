@@ -1,0 +1,167 @@
+{
+    "SE 181": {
+        "shortName": "SE 181",
+        "fullName": "Introduction to Software Engineering and Development",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduces advanced software development fundamentals including memory management, typing and scoping, datastores, software testing, and security, as well as user-centric design and user experience. This course will be taught using a specified programming language of instruction.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 172 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 201": {
+        "shortName": "SE 201",
+        "fullName": "Introduction to Software Engineering and Development",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduces advanced software development fundamentals including memory management, typing and scoping, datastores and software testing. This course will be taught using a specified programming language of instruction.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 172 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 210": {
+        "shortName": "SE 210",
+        "fullName": "Software Specification and Design I",
+        "courseCredits": "3.0",
+        "courseDesc": "Study of the principles, practices, and techniques used to gather system requirements and document them in a requirements specification. Includes techniques for requirements discovery such as user interviews and prototyping. Introduces approaches for organizing and expressing software requirements in a requirements specification.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 172 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 211": {
+        "shortName": "SE 211",
+        "fullName": "Software Specification and Design II",
+        "courseCredits": "3.0",
+        "courseDesc": "Continues study of requirements with increasing emphasis on converting requirements into a software system design. Presents alternate approaches, techniques for evaluating specifications, specification and design tools, and use of specifications to develop system-level tests.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "SE 210 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 310": {
+        "shortName": "SE 310",
+        "fullName": "Software Architecture I",
+        "courseCredits": "3.0",
+        "courseDesc": "Study of the principles and practices of object-oriented design with an emphasis on object relationships, loose coupling, and design patterns.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 265 [Min Grade C] and CS 260 [Min Grade C] and (SE 181 [Min Grade C] or SE 201 [Min Grade C])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 311": {
+        "shortName": "SE 311",
+        "fullName": "Software Architecture II",
+        "courseCredits": "3.0",
+        "courseDesc": "Continues discussion of software architecture with a focus on micro-level architecture including patterns, frameworks, and component-based software engineering, and commercial off-the-shelf software.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "SE 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 320": {
+        "shortName": "SE 320",
+        "fullName": "Software Verification and Validation",
+        "courseCredits": "3.0",
+        "courseDesc": "Presents theory and practice of software testing. Covers structural testing including such topics as path testing, dataflow testing, logic based testing, syntax testing, program slicing, mutation testing, fault injection, program perturbation, and testing tools. Discusses techniques for test construction and test suite evaluation, and validation against requirements and design models. Also covers methods of inspection and review at various phases of the software lifecycle.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 260 [Min Grade C] and (SE 181 [Min Grade C] or SE 201 [Min Grade C])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 410": {
+        "shortName": "SE 410",
+        "fullName": "Software Evolution",
+        "courseCredits": "3.0",
+        "courseDesc": "Covers issues related to change in software systems. Addresses principles and techniques of corrective software maintenance, software enhancements, and software product family. Introduces students to issues of change in large software systems including configuration control, change and product management.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 260 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE 420": {
+        "shortName": "SE 420",
+        "fullName": "Open Source Software Engineering",
+        "courseCredits": "3.0",
+        "courseDesc": "Explores tools, techniques, process, and culture of free and open source software (FOSS) projects. Addresses open source project evaluation, business models, and FOSS as a source of software engineering innovation. Includes student participation in an existing humanitarian FOSS project. Introduces concepts of computing for social good.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 260 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE I199": {
+        "shortName": "SE I199",
+        "fullName": "Independent Study in SE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE I299": {
+        "shortName": "SE I299",
+        "fullName": "Independent Study in SE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE I399": {
+        "shortName": "SE I399",
+        "fullName": "Independent Study in SE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE I499": {
+        "shortName": "SE I499",
+        "fullName": "Independent Study in SE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE T280": {
+        "shortName": "SE T280",
+        "fullName": "Special Topics in Software Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "SE T480": {
+        "shortName": "SE T480",
+        "fullName": "Special Topics in Software Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Computing and Informatics",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

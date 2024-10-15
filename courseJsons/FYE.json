@@ -1,0 +1,57 @@
+{
+    "FYE 102": {
+        "shortName": "FYE 102",
+        "fullName": "Academic Exploration and Planning",
+        "courseCredits": "2.0",
+        "courseDesc": "This course is designed to introduce students to career planning and work environments outside the classroom. Through active involvement in this class, students will begin assessing career paths as well as preparing for appropriate and constructive participation in workplace and community cultures. Students will examine published literature and learn from accomplished professionals to better understand the conventions, challenges, and expectations of the working world.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "FYE 103": {
+        "shortName": "FYE 103",
+        "fullName": "Career Exploration and Planning",
+        "courseCredits": "2.0",
+        "courseDesc": "This course is designed to introduce students to career planning and work environments outside the classroom. Through active involvement in this class, students will begin assessing career paths as well as preparing for appropriate and constructive participation in workplace and community cultures. Students will examine published literature and learn from accomplished professionals to better understand the conventions, challenges, and expectations of the working world.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "FYE 113": {
+        "shortName": "FYE 113",
+        "fullName": "Academic and Career Exploration",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is designed to help students explore, discover, and refine academic and career interests and goals. Through active involvement in this class, students will explore campus culture, Drexel\u2019s academic offerings, the role of academics and interests outside of the classroom and the philosophies of a college education, its roles, and its purposes. Students will also make progress towards establishing and refining academic and career goals.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "FYE 211": {
+        "shortName": "FYE 211",
+        "fullName": "FYES Peer Leadership Practicum",
+        "courseCredits": "1.0",
+        "courseDesc": "The goal of this course is to prepare students for being leaders by serving as mentors to first-year students to help them succeed as part of the First-Year Exploratory Studies (FYES) Program and support the program outcomes of FYES. This course covers the fundamental skills students will need to be supportive resources to first year students. This seminar will focus on developing the necessary leadership and communication skills that will be useful in their mentoring role as well as in other settings.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "FYE T280": {
+        "shortName": "FYE T280",
+        "fullName": "Special Topics in First-Year Exploratory Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Specific topics and foci for this course will be decided upon by faculty and will vary from term to term.",
+        "courseDepartment": "GC-3690",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

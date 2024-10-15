@@ -1,0 +1,178 @@
+{
+    "PROJ 401": {
+        "shortName": "PROJ 401",
+        "fullName": "Introduction to Project Management",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an introduction the discipline of project management. Students will acquire the foundation for understanding successful initiation, planning, execution, monitoring, control, and closure of projects. The course highlights applications of project management in public and private sectors.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 402": {
+        "shortName": "PROJ 402",
+        "fullName": "Essentials of Project Planning & Scheduling",
+        "courseCredits": "4.0",
+        "courseDesc": "This course will prepare students to apply relevant concepts in project planning, scheduling and control. Project scheduling methods are covered including: bar (Gantt) charts, network diagrams, critical path method, three-point estimates, critical chain concepts, resource allocation, resource leveling, and earned value management.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 403": {
+        "shortName": "PROJ 403",
+        "fullName": "Essentials of Project Leadership and Teamwork",
+        "courseCredits": "4.0",
+        "courseDesc": "This course examines the organizational environment required for building and maintaining successful project teams. Students learn how project managers use human resources effectively through good oversight, wise leadership, and meaningful communications. In addition to learning about key theories of leadership and teamwork, the course provides practical insights. Students are challenged to examine their own traits, behaviors, aptitudes, and attitudes for the purposes of improving project leadership and teamwork.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 410": {
+        "shortName": "PROJ 410",
+        "fullName": "Essentials of Project Quality Management",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will examine basic quality concepts, tools, and techniques, and explore the sub-processes of quality management: quality planning, quality assurance, and quality control as they relate to project management.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 415": {
+        "shortName": "PROJ 415",
+        "fullName": "Essentials of Project Estimation & Cost Management",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will provide an overview of basic project financial and economic principles involved in managing projects. It is intended to familiarize project team members and managers with relevant methods, tools, and techniques in project cost estimation, budgeting, cost forecasting, and cost control.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 420": {
+        "shortName": "PROJ 420",
+        "fullName": "Essentials of Project Risk Assessment & Management",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will examine the major risk factors throughout various phases of the project life cycle. It considers the overall project planning process, describes key concepts of project risk planning, highlights relevant tools and techniques for risk identification, explores the use of risk assessment methods, and emphasizes risk and opportunity response strategies.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 430": {
+        "shortName": "PROJ 430",
+        "fullName": "Essentials of Managing Multiple Projects",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will examine the management principles, tools, and techniques required to manage multiple projects. Emphasis is placed on functions of the project management office (PMO) and practices of project and program portfolio management.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ 435": {
+        "shortName": "PROJ 435",
+        "fullName": "Essentials of International Project Management",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will examine the adaptation of project management principles and methods when operating in an international environment. It investigates cultural, legal, ethical, and financial factors in the context of managing international projects.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PROJ 301 [Min Grade C] or PROJ 401 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ I199": {
+        "shortName": "PROJ I199",
+        "fullName": "Independent Study in Project Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ I299": {
+        "shortName": "PROJ I299",
+        "fullName": "Independent Study in Project Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ I399": {
+        "shortName": "PROJ I399",
+        "fullName": "Independent Study in Project Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ I499": {
+        "shortName": "PROJ I499",
+        "fullName": "Independent Study in Project Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ T180": {
+        "shortName": "PROJ T180",
+        "fullName": "Special Topics in PROJ",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ T280": {
+        "shortName": "PROJ T280",
+        "fullName": "Special Topics in PROJ",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ T380": {
+        "shortName": "PROJ T380",
+        "fullName": "Special Topics in PROJ",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PROJ T480": {
+        "shortName": "PROJ T480",
+        "fullName": "Special Topics in PROJ",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

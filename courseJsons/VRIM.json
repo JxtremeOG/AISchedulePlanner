@@ -1,0 +1,200 @@
+{
+    "VRIM 100": {
+        "shortName": "VRIM 100",
+        "fullName": "Digital Tools for Immersive Media",
+        "courseCredits": "3.0",
+        "courseDesc": "Students will learn fundamentals of digital tools used for creating Immersive Media including Virtual Reality (VR) and Augmented Reality (AR) content. Tools introduced include pixel based image manipulation tools (such as Photoshop), video and animation compositing tools (such as Nuke), 3D CGI tools (such as Maya) and immersive 3d interactive engines (such as Unreal Engine).",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 110": {
+        "shortName": "VRIM 110",
+        "fullName": "Digital Imaging for Immersive Media",
+        "courseCredits": "3.0",
+        "courseDesc": "Students learn foundational image acquisition, lighting and processing techniques and principles utilized for creating Immersive Media including Virtual Reality (VR) and Augmented Reality (AR) content. Topics covered include digital still and video imaging and lighting fundamentals and image processing.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ANIM 100 [Min Grade D] or DIGM 100 [Min Grade D] or VRIM 100 [Min Grade D] or PHTO 141 [Min Grade D] or VSCM 200 [Min Grade D] or FMVD 110 [Min Grade D] or VSST 104 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 120": {
+        "shortName": "VRIM 120",
+        "fullName": "Immersive Production Lab I",
+        "courseCredits": "3.0",
+        "courseDesc": "Students learn to integrate principles of color, design, story telling, three dimensional layout, and a users\u2019 sense of presence within Immersive Media by working in small teams to iterate through a number of design and production projects, producing a variety of prototype immersive experiences using readily available components and assets.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 215": {
+        "shortName": "VRIM 215",
+        "fullName": "History of Immersive Media",
+        "courseCredits": "3.0",
+        "courseDesc": "Students learn the pre-cursors to modern Immersive Media forms and the evolution of the art spanning centuries of aesthetic, social and technological development. Concepts in 2D, 3D, VR, AR, Fulldome and other forms of Immersive Media will be covered.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 220": {
+        "shortName": "VRIM 220",
+        "fullName": "Immersive Production Lab II",
+        "courseCredits": "3.0",
+        "courseDesc": "Students learn to integrate principles of color, design, story telling, three dimensional layout, and a users\u2019 sense of presence within Immersive Media by working in small teams to iterate through a number of design and production projects, producing a variety of prototype immersive experiences by implementing their own custom created assets.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 250": {
+        "shortName": "VRIM 250",
+        "fullName": "Professional Practices for Immersive Media",
+        "courseCredits": "3.0",
+        "courseDesc": "Provides a professional orientation to the Immersive Media industry through an exploration of a variety of projects and studies. In addition to lecture and discussions, students learn to take active part in role plays and presentations to achieve an understanding of the importance of team building, team work, and team management in all phases of animation and visual effects productions from proposals to final delivery, as well as personal development and promotion through personal learning, development of work demonstration materials.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "VRIM 120 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 310": {
+        "shortName": "VRIM 310",
+        "fullName": "Immersive Media Workshop I",
+        "courseCredits": "3.0",
+        "courseDesc": "This course examines the roles of the executive producer and the development team in taking an Immersive Media project from concept to design document through prototype while maintaining close connection to story and communication. Students will work in small teams to research and plan a production effort that results in a pre-production prototype.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 320": {
+        "shortName": "VRIM 320",
+        "fullName": "Immersive Media Workshop II",
+        "courseCredits": "3.0",
+        "courseDesc": "This course provides an environment in which the pre-production ofVRIM\u00a0310Immersive Media Workshop I can be taken through a full production effort. Students work in small teams to bring a selected prototype to completion.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 388": {
+        "shortName": "VRIM 388",
+        "fullName": "Motion Capture I",
+        "courseCredits": "3.0",
+        "courseDesc": "Students learn to use motion capture systems for full-body, human performance capture as well as the processing and use of the resulting data in character animation and real-time/game engine applications.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM 488": {
+        "shortName": "VRIM 488",
+        "fullName": "Motion Capture II",
+        "courseCredits": "3.0",
+        "courseDesc": "Students learn to use advanced motion capture systems and the data output from these systems. This course combines the use of full-body capture along with facial performance capture as well as the processing and use of the resulting data in character animation and real-time/game engine applications.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "VRIM 388 [Min Grade B]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM I199": {
+        "shortName": "VRIM I199",
+        "fullName": "Independent Study in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM I299": {
+        "shortName": "VRIM I299",
+        "fullName": "Independent Study in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM I399": {
+        "shortName": "VRIM I399",
+        "fullName": "Independent Study in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM I499": {
+        "shortName": "VRIM I499",
+        "fullName": "Independent Study in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM T180": {
+        "shortName": "VRIM T180",
+        "fullName": "Special Topics in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM T280": {
+        "shortName": "VRIM T280",
+        "fullName": "Special Topics in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM T380": {
+        "shortName": "VRIM T380",
+        "fullName": "Special Topics in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "VRIM T480": {
+        "shortName": "VRIM T480",
+        "fullName": "Special Topics in Immersive Media",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

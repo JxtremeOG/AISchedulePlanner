@@ -1,0 +1,101 @@
+{
+    "BSAN 160": {
+        "shortName": "BSAN 160",
+        "fullName": "Business Analytics and Data Visualization",
+        "courseCredits": "4.0",
+        "courseDesc": "The field of business analytics is concerned with managing and analyzing complex, high-dimensional data to support business decisions and improve firm performance. Data visualization is emerging as an essential complement to business analytics that greatly facilitates managerial understanding and decisions. This course introduces state-of-the-art techniques for data management, analysis and visualization in business contexts. It will emphasize practical challenges involving complex, real-world data and include several case studies and hands-on exercises with leading data analysis and visualization software.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN 260": {
+        "shortName": "BSAN 260",
+        "fullName": "Introduction to Business Analytics",
+        "courseCredits": "4.0",
+        "courseDesc": "This course introduces mathematical models that can be used to improve decision- making within an organization. Topics will include analytical tools such as optimization, simulation, and Visual Basic for Applications (VBA) for problem solving and decision support in all areas of business, including supply chain networks, operations, finance, economics, and marketing. Students will make extensive use of Excel and several spreadsheet based add-ins to solve real business problems, improve business processes, and help make important business decisions.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN 261": {
+        "shortName": "BSAN 261",
+        "fullName": "Data Visualization for Business Analytics",
+        "courseCredits": "4.0",
+        "courseDesc": "Data visualization enables business analysts to understand and present deeper and better insights into their businesses. These insights allow for greater managerial understanding and improvement in the quality of business decisions. This course is designed for students learning to use data visualization in business analytics, regardless of their technical or analytical backgrounds. Students will learn the fundamentals of data visualizations and the strengths and weaknesses of various visualizations. They will progress to learning to use data visualization software to conduct basic data analytics within an organization to support decision making, strategy formulation and operational improvements.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "STAT 201 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN 360": {
+        "shortName": "BSAN 360",
+        "fullName": "Programming for Data Analytics",
+        "courseCredits": "4.0",
+        "courseDesc": "The mission of this course is to immerse students in the technical challenges associated with contemporary data analytics as applied to business processes and data-driven decision making. To achieve this mission, the course will introduce modules covering the state of the art in the areas of statistical programming as applied to data analysis for business problems.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "(STAT 202 [Min Grade C-] or STAT 206 [Min Grade C-]) and (BSAN 260 [Min Grade C-] or BUSN 260 [Min Grade C-] or BSAN 160 [Min Grade C-])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN 460": {
+        "shortName": "BSAN 460",
+        "fullName": "Business Analytics Senior Project",
+        "courseCredits": "4.0",
+        "courseDesc": "The senior project serves as a capstone for business analytics majors. The course provides an opportunity for students to develop a project that draws on their skills in the areas of data management, mathematical modeling, and statistical analysis to support data driven decision-making processes. Students often choose a project in the area of a second major (marketing, finance, etc.) and thus the project provides deeper insight into organizational decision-making in a functional area of business.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "(BSAN 160 [Min Grade C-] or BSAN 260 [Min Grade C-] or BUSN 260 [Min Grade C-]) and (BSAN 360 [Min Grade C-] or BUSN 360 [Min Grade C-]) and STAT 331 [Min Grade C-]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN T180": {
+        "shortName": "BSAN T180",
+        "fullName": "Special Topics in Business Analytics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN T280": {
+        "shortName": "BSAN T280",
+        "fullName": "Special Topics in Business Analytics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN T380": {
+        "shortName": "BSAN T380",
+        "fullName": "Special Topics in Business Analytics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BSAN T480": {
+        "shortName": "BSAN T480",
+        "fullName": "Special Topics in Business Analytics",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "HRMT 321": {
+        "shortName": "HRMT 321",
+        "fullName": "Staffing in Organizations",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an overview of the process by which managers make decisions about staffing. It is intended to be useful for line managers and for persons who seek professional careers in HR. The focus is on theories, research, policies, and practices concerning selection for effective utilization of human resources.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "HRMT 323 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT 323": {
+        "shortName": "HRMT 323",
+        "fullName": "Principles of Human Resource Administration",
+        "courseCredits": "4.0",
+        "courseDesc": "Covers the underlying principles of personnel administration used in organizations by personnel departments and often by line managers. Uses case studies and exercises to illustrate the practical implications of various principles.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ORGB 300 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT I199": {
+        "shortName": "HRMT I199",
+        "fullName": "Independent Study in HRMT",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT I299": {
+        "shortName": "HRMT I299",
+        "fullName": "Independent Study in HRMT",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT I399": {
+        "shortName": "HRMT I399",
+        "fullName": "Independent Study in HRMT",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT I499": {
+        "shortName": "HRMT I499",
+        "fullName": "Independent Study in HRMT",
+        "courseCredits": "1.0-4.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT T180": {
+        "shortName": "HRMT T180",
+        "fullName": "Special Topics in Human Resource Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT T280": {
+        "shortName": "HRMT T280",
+        "fullName": "Special Topics in Human Resource Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT T380": {
+        "shortName": "HRMT T380",
+        "fullName": "Special Topics in Human Resource Management",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HRMT T480": {
+        "shortName": "HRMT T480",
+        "fullName": "Special Topics in Human Resource Management",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "WMGD 421": {
+        "shortName": "WMGD 421",
+        "fullName": "Motion Graphics II",
+        "courseCredits": "4.0",
+        "courseDesc": "This course focuses on applying aesthetics and skills learned in the first level to real-world applications that emphasize the graphics design of moving images.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "VSCM 322 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD I199": {
+        "shortName": "WMGD I199",
+        "fullName": "Independent Study in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD I299": {
+        "shortName": "WMGD I299",
+        "fullName": "Independent Study in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD I399": {
+        "shortName": "WMGD I399",
+        "fullName": "Independent Study in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD I499": {
+        "shortName": "WMGD I499",
+        "fullName": "Independent Study in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD T180": {
+        "shortName": "WMGD T180",
+        "fullName": "Special Topics in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD T280": {
+        "shortName": "WMGD T280",
+        "fullName": "Special Topics in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD T380": {
+        "shortName": "WMGD T380",
+        "fullName": "Special Topics in Web & Motion Graphic Design",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WMGD T480": {
+        "shortName": "WMGD T480",
+        "fullName": "Special Topics in Web & Motion Graphic Design",
+        "courseCredits": "3.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated 3 times for 12 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

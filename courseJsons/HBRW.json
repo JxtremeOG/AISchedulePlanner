@@ -1,0 +1,145 @@
+{
+    "HBRW 101": {
+        "shortName": "HBRW 101",
+        "fullName": "Introduction to Hebrew I",
+        "courseCredits": "4.0",
+        "courseDesc": "The goal of this course is to provide a thorough foundation in the Hebrew language. Small class size provides intensive practice in speaking, writing and listening comprehension.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "APHX N",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW 102": {
+        "shortName": "HBRW 102",
+        "fullName": "Introduction to Hebrew II",
+        "courseCredits": "4.0",
+        "courseDesc": "The goal of this course is to provide a thorough foundation in the Hebrew language. Small class size provides intensive practice in speaking, writing and listening comprehension. ContinuesHBRW\u00a0101.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "HBRW 101 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW 103": {
+        "shortName": "HBRW 103",
+        "fullName": "Introduction to Hebrew III",
+        "courseCredits": "4.0",
+        "courseDesc": "The goal of this course is to provide a thorough foundation in the Hebrew language. Small class size provides intensive practice in speaking, writing and listening comprehension. ContinuesHBRW\u00a0102.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "HBRW 102 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW 201": {
+        "shortName": "HBRW 201",
+        "fullName": "Hebrew IV",
+        "courseCredits": "4.0",
+        "courseDesc": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onHBRW\u00a0103.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "HBRW 103 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW 202": {
+        "shortName": "HBRW 202",
+        "fullName": "Hebrew V",
+        "courseCredits": "4.0",
+        "courseDesc": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onHBRW\u00a0201.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "HBRW 201 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW I199": {
+        "shortName": "HBRW I199",
+        "fullName": "Independent Study in HBRW",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW I299": {
+        "shortName": "HBRW I299",
+        "fullName": "Independent Study in HBRW",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW I399": {
+        "shortName": "HBRW I399",
+        "fullName": "Independent Study in HBRW",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW I499": {
+        "shortName": "HBRW I499",
+        "fullName": "Independent Study in HBRW",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW T180": {
+        "shortName": "HBRW T180",
+        "fullName": "Special Topics in Hebrew",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW T280": {
+        "shortName": "HBRW T280",
+        "fullName": "Special Topics in Hebrew",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW T380": {
+        "shortName": "HBRW T380",
+        "fullName": "Special Topics in Hebrew",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HBRW T480": {
+        "shortName": "HBRW T480",
+        "fullName": "Special Topics in Hebrew",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

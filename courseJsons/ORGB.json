@@ -1,0 +1,156 @@
+{
+    "ORGB 300": {
+        "shortName": "ORGB 300",
+        "fullName": "Organizational Behavior",
+        "courseCredits": "4.0",
+        "courseDesc": "Provides conceptual understanding of various principles of management and organizational processes and the opportunity for skill-building in the areas of individual, interpersonal, and intergroup organizational behaviors.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB 320": {
+        "shortName": "ORGB 320",
+        "fullName": "Leadership: Theory and Practice",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides both a theoretical and practical understanding of leadership through theoretical and experiential learning. Course time will be devoted to lecture and course discussion that will teach students theories of leadership and hands-on activities that will demonstrate the practicality and applicability of these theories.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB 370": {
+        "shortName": "ORGB 370",
+        "fullName": "Dynamic Team Consulting",
+        "courseCredits": "4.0",
+        "courseDesc": "This course examines the fundamentals of collaboration by engaging students in real business issues and is uniquely designed to partner with business leaders from a local company. Over the course of the term, students will work in a team tasked with creating innovative solutions while learning how to be an effective team member and moderate effective teaming processes. This course will define conceptual and theoretical issues to effective teaming through guided debriefing sessions focusing on self-reflection and active learning. We will examine topics such as team design, culture, team processes, leadership, and emergent states to provide you with a set of principles to help you manage teamwork.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB 400": {
+        "shortName": "ORGB 400",
+        "fullName": "Team Development and Leadership",
+        "courseCredits": "4.0",
+        "courseDesc": "This course examines how team structures, member characteristics, and interpersonal processes influence the effectiveness of work teams, and the dynamics of interpersonal relationships within and across team boundaries. This course also examines forms and functions of team leadership to provide students with a set of general principles to help them lead teams in a range of situations. This course uses an experiential learning format; students will engage in a series of team activities, each of which will be followed by a debriefing.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB 420": {
+        "shortName": "ORGB 420",
+        "fullName": "Negotiations and Conflict Resolution",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides both a theoretical understanding of the central concepts in negotiation and conflict management through applied experience in these processes. Through classroom exercises, discussion, and personal reflection, students will improve their ability to negotiate and manage conflicts through gained confidence in these processes.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB 430": {
+        "shortName": "ORGB 430",
+        "fullName": "Strategic Career Development",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides a conceptual understanding of career management and a practical application of this material to the career decisions that students currently face and will face in the future. A blend of theory, case analysis, and self-assessments relate course concepts to effective techniques for managing a career at different phases of life.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB I199": {
+        "shortName": "ORGB I199",
+        "fullName": "Independent Study in ORGB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB I299": {
+        "shortName": "ORGB I299",
+        "fullName": "Independent Study in ORGB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB I399": {
+        "shortName": "ORGB I399",
+        "fullName": "Independent Study in ORGB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB I499": {
+        "shortName": "ORGB I499",
+        "fullName": "Independent Study in ORGB",
+        "courseCredits": "1.0-4.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB T180": {
+        "shortName": "ORGB T180",
+        "fullName": "Special Topics in ORGB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB T280": {
+        "shortName": "ORGB T280",
+        "fullName": "Special Topics in ORGB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB T380": {
+        "shortName": "ORGB T380",
+        "fullName": "Special Topics in ORGB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ORGB T480": {
+        "shortName": "ORGB T480",
+        "fullName": "Special Topics in ORGB",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

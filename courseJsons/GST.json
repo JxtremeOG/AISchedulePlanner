@@ -1,0 +1,233 @@
+{
+    "GST 100": {
+        "shortName": "GST 100",
+        "fullName": "Introduction to Cultural Diversity",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is an introduction to cultural diversity and its various manifestations in an increasingly connected world. We will use lectures, films, and discussions to examine and illustrate the relationship between humans and their sociocultural environments. Topics may include: cultural identity; race and racism; health and healing; human migration; and globalization.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 101": {
+        "shortName": "GST 101",
+        "fullName": "Becoming Global: Language and Cultural Context",
+        "courseCredits": "4.0",
+        "courseDesc": "This course teaches ways to approach linguistic and cultural immersion as both a way of life and as a way to pursue harmony and public good among local and global citizens. Material includes units on language acculturation as self-transformation, travel and life abroad, and (re)presentation, especially around the idea of language as a signifier of foreignness and belonging.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 102": {
+        "shortName": "GST 102",
+        "fullName": "Understanding Global: Markets and Governance",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduces Global Studies students to social scientific concepts and analyses of globalization. The course examines the relation between capitalist markets and the political, economic, social, and environmental dimensions of global integration. Topics include: colonialism, nation states, gender relations, immigration, labor, and ethnic conflicts among other topics.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 105": {
+        "shortName": "GST 105",
+        "fullName": "Introduction to Research in Global Studies",
+        "courseCredits": "4.0",
+        "courseDesc": "This course will introduce students to the main tools of research methods utilized in Global Studies and other social science fields. As different methodological approaches are used in Global Studies to address different research questions, the methodological focus of this course will vary from one term another. Students may be introduced to ethnography, qualitative methods, quantitative methods, survey design, or mixed methods approach. The course may be offered more than once a year with different research foci.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 200": {
+        "shortName": "GST 200",
+        "fullName": "Current Topics in Global Studies",
+        "courseCredits": "3.0-4.0",
+        "courseDesc": "This course will cover contemporary issues in Global Studies. The topics covered in this course will change from quarter to quarter and will often be offered in collaboration with other departments on campus.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 221": {
+        "shortName": "GST 221",
+        "fullName": "Introduction to Global Capital and Development",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an introduction to the politics of international economic relations, global capitalism, trade, and finance. The overall theme of the course is the process of globalization: what factors are leading to a single world economy tied together by technology, trade, and investment; and what factors are working to maintain a world of independent economic zones in competition. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 231": {
+        "shortName": "GST 231",
+        "fullName": "Introduction to Identities and Communities",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an introduction to the analysis of individual and collective identities, including issues of gender, sexual orientation, race, ethnicity, class, nationality, and religion. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 241": {
+        "shortName": "GST 241",
+        "fullName": "Introduction to Power and Resistance",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an introduction to the analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 251": {
+        "shortName": "GST 251",
+        "fullName": "Introduction to Global Media, Arts, and Cultures",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an introduction to the role of media in society, including sociolinguistics, gender, media studies, and communication. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 261": {
+        "shortName": "GST 261",
+        "fullName": "Introduction to Global Health and Sustainability",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an introduction to issues of health access, technology, and environmental sustainability. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 300": {
+        "shortName": "GST 300",
+        "fullName": "Advanced Topics in Global Studies",
+        "courseCredits": "3.0-4.0",
+        "courseDesc": "This course will cover contemporary issues in Global Studies. The topics covered in this course will change from quarter to quarter and will often be offered in collaboration with other departments on campus.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 321": {
+        "shortName": "GST 321",
+        "fullName": "Advanced Studies in Global Capital and Development",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an advanced analysis of the politics of international economic relations, global capitalism, trade, and finance. The overall theme of the course is the process of globalization: what factors are leading to a single world economy tied together by technology, trade, and investment; and what factors are working to maintain a world of independent economic zones in competition. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 331": {
+        "shortName": "GST 331",
+        "fullName": "Advanced Studies in Identities and Communities",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an advanced analysis of individual and collective identities, including issues of gender, sexual orientation, race, ethnicity, class, nationality, and religion. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 341": {
+        "shortName": "GST 341",
+        "fullName": "Advanced Studies in Power and Resistance",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an advanced analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 351": {
+        "shortName": "GST 351",
+        "fullName": "Advanced Studies in Global Media, Arts, and Cultures",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an advanced analysis of the role of media in society, including sociolinguistics, gender, media studies, and communication. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 361": {
+        "shortName": "GST 361",
+        "fullName": "Advanced Studies in Global Health and Sustainability",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides an advanced analysis to issues of health access, technology, and environmental sustainability. The content of this course may change every term it is offered and is repeatable for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST 400": {
+        "shortName": "GST 400",
+        "fullName": "Senior Project in Global Studies",
+        "courseCredits": "4.0",
+        "courseDesc": "This course is a project-based capstone that sums up the various experiences of Global Studies majors with their respective concentrations, languages, and preferred methodologies. Putting into practice what they have learned throughout their major, students will spend most of the 10 weeks working on a final project of their choice with approval and guidance from the instructor. The final outcome of this class should be a product (an academic paper, a website, a short film, an art exhibit, or similar) that students can potentially use to gain employment or acceptance into graduate school.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST I399": {
+        "shortName": "GST I399",
+        "fullName": "Independent Study in Global Studies",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 3 times for 48 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST T180": {
+        "shortName": "GST T180",
+        "fullName": "Special Topics in Global Studies",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 3 times for 48 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST T280": {
+        "shortName": "GST T280",
+        "fullName": "Special Topics in Global Studies",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 3 times for 48 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "GST T380": {
+        "shortName": "GST T380",
+        "fullName": "Special Topics in Global Studies",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 108 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

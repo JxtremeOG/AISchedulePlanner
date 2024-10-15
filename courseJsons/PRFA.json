@@ -1,0 +1,101 @@
+{
+    "PRFA 100": {
+        "shortName": "PRFA 100",
+        "fullName": "Community Arts Performance Practicum",
+        "courseCredits": "0-1",
+        "courseDesc": "Provides practical experience as a participant in a Department of Performing Arts community arts initiative. Includes involvement with off campus activities with community members under faculty supervision and direction.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA I199": {
+        "shortName": "PRFA I199",
+        "fullName": "Independent Study in Performing Arts",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA I299": {
+        "shortName": "PRFA I299",
+        "fullName": "Independent Study in Performing Arts",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA I399": {
+        "shortName": "PRFA I399",
+        "fullName": "Independent Study in Performing Arts",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA I499": {
+        "shortName": "PRFA I499",
+        "fullName": "Independent Study in Performing Arts",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA T180": {
+        "shortName": "PRFA T180",
+        "fullName": "Special Topics in Performing Arts",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA T280": {
+        "shortName": "PRFA T280",
+        "fullName": "Special Topics in Performing Arts",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA T380": {
+        "shortName": "PRFA T380",
+        "fullName": "Special Topics in Performing Arts",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PRFA T480": {
+        "shortName": "PRFA T480",
+        "fullName": "Special Topics in Performing Arts",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

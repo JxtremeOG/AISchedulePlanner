@@ -1,0 +1,90 @@
+{
+    "RETL I199": {
+        "shortName": "RETL I199",
+        "fullName": "Independent Study in RETL",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL I299": {
+        "shortName": "RETL I299",
+        "fullName": "Independent Study in Retail Leadership",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL I399": {
+        "shortName": "RETL I399",
+        "fullName": "Independent Study in Retail Leadership",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL I499": {
+        "shortName": "RETL I499",
+        "fullName": "Independent Study in Retail Leadership",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL T180": {
+        "shortName": "RETL T180",
+        "fullName": "Special Topics in Retail Leadership",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL T280": {
+        "shortName": "RETL T280",
+        "fullName": "Special Topics in Retail Leadership",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL T380": {
+        "shortName": "RETL T380",
+        "fullName": "Special Topics in Retail Leadership",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RETL T480": {
+        "shortName": "RETL T480",
+        "fullName": "Special Topics in Retail Leadership",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

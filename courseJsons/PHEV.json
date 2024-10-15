@@ -1,0 +1,24 @@
+{
+    "PHEV 145": {
+        "shortName": "PHEV 145",
+        "fullName": "Weather I: Climate and Global Change",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduction to the Earth's atmosphere and climate system including the structure and interaction of the components of this system. Students learn basic meteorological ideas and concepts. Special topics include weather satellite and Doppler radar imagery, daily weather discussions, the greenhouse effect and ozone depletion.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "PHEV 146": {
+        "shortName": "PHEV 146",
+        "fullName": "Weather II: Analysis and Forecasting",
+        "courseCredits": "4.0",
+        "courseDesc": "Course covers real problems of weather analysis and forecasting. Components focus on surface and upper-air weather maps, westerlies and the jet stream, mid-latitude cyclones, thunderstorms, tornadoes and hurricanes. Special topics include weather instruments and observations, atmospheric optics and climate analyses.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

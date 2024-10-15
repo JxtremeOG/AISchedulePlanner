@@ -1,0 +1,46 @@
+{
+    "TVPR 100": {
+        "shortName": "TVPR 100",
+        "fullName": "TV Studio: Basic Operations",
+        "courseCredits": "3.0",
+        "courseDesc": "This course will focus on developing operational skills for all studio production facilities including camera operations and composition, microphones and audio mixers, basic lighting, teleprompter, video switcher and graphics playback.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVPR 220": {
+        "shortName": "TVPR 220",
+        "fullName": "TV News Writing",
+        "courseCredits": "3.0",
+        "courseDesc": "This is a basic introduction to writing for television news broadcasts. Students will learn to conceptualize, confirm and write stories on deadline, and develop basic interviewing skills. Issue of journalistic ethics will be presented and discussed. Weekly story assignments will be given to augment classroom work.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVPR 236": {
+        "shortName": "TVPR 236",
+        "fullName": "Reality TV Production",
+        "courseCredits": "3.0",
+        "courseDesc": "This course gives students instruction and experience in doing Reality TV shows in the field.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated 2 times for 9 credits",
+        "prereqs": "(FMVD 110 [Min Grade D] and FMVD 115 [Min Grade D] and FMVD 120 [Min Grade D]) or (FMTV 110 [Min Grade D] and FMTV 115 [Min Grade D] and FMTV 120 [Min Grade D])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVPR 242": {
+        "shortName": "TVPR 242",
+        "fullName": "TV On-Camera Performance",
+        "courseCredits": "3.0",
+        "courseDesc": "Students will receive practical experience in all aspects of television performance, including anchoring, reporting, announcing, hosting, and acting. This class is designed specifically for those production students with little or no acting or on-camera experience, but who will benefit from a greater understanding of the performance process.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

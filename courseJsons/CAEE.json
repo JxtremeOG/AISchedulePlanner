@@ -1,0 +1,167 @@
+{
+    "CAEE 202": {
+        "shortName": "CAEE 202",
+        "fullName": "Introduction to Civil, Architectural & Environmental Engineering",
+        "courseCredits": "3.0",
+        "courseDesc": "This course introduces the planning, design, construction, operation, maintenance and documentation of engineering projects that are in unique social, topographic, environmental and geologic settings. The scope and principles of Civil, Architectural and Environmental engineering practice are each presented as well as the relationships between the three disciplines. The concepts are illustrated through laboratory projects, case studies, field trips and field measurement exercises. The course also addresses professional ethics, practice and licensure.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE 203": {
+        "shortName": "CAEE 203",
+        "fullName": "System Balances and Design in CAEE",
+        "courseCredits": "3.0",
+        "courseDesc": "Based on fundamental science and mathematics preparation, this course for students in Civil, Architectural and Environmental Engineering covers delineation of system boundaries, analysis of mass, energy and force balances that support system integration; life cycle and uncertainty analysis; and formulation of problem solutions using these balances.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MATH 122 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE 212": {
+        "shortName": "CAEE 212",
+        "fullName": "Geologic Principles for Infrastructure & Environmental Engineering",
+        "courseCredits": "4.0",
+        "courseDesc": "This course focuses on geological principles and their relationships to engineering properties and behavior of soil and rock materials. Topics include formation of minerals, igneous, sedimentary, and metamorphic rocks, plate tectonics, structural geology, rock mechanics, landforms and geological hazards. Labs focus on mineral and rock identification, map skills, and rock mechanics.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MATE 220 [Min Grade D] or ENGR 220 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE 231": {
+        "shortName": "CAEE 231",
+        "fullName": "Linear Engineering Systems",
+        "courseCredits": "3.0",
+        "courseDesc": "Provides an overview of systems and modeling; specifically using linear algebra as the model. Specific emphasis will be placed on developing models of engineering systems and the use of computational tools for solutions to the problems. The focus of the lab will be the use of MATLAB for the solution of contemporary engineering problems.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MATH 122 [Min Grade D]",
+        "coreqs": "EXAM 081",
+        "restrictions": null
+    },
+    "CAEE 232": {
+        "shortName": "CAEE 232",
+        "fullName": "Dynamic Engineering Systems",
+        "courseCredits": "3.0",
+        "courseDesc": "Provides an overview of dynamic systems and modeling; specifically using differential equations as the model. Specific emphasis will be placed on developing models of engineering systems and the use of computational tools for solutions to the problems. The focus of the lab will be the use of MATLAB for the solution of contemporary engineering problems. Laplace transforms will be introduced as a means to study systems and solutions to differential equations. Basic control laws will also be introduced.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CAEE 231 [Min Grade D] or ENGR 231 [Min Grade D]",
+        "coreqs": "EXAM 081",
+        "restrictions": null
+    },
+    "CAEE 301": {
+        "shortName": "CAEE 301",
+        "fullName": "Community-Based Design",
+        "courseCredits": "3.0",
+        "courseDesc": "This course evaluates the weight of evidence for community-based design practices as related to peacebuilding, conflict management and sustainable development. A case-study-based approach will enable students to study participatory theory, informed design and adaptive management.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE 361": {
+        "shortName": "CAEE 361",
+        "fullName": "Statistical Analysis of Engineering Systems",
+        "courseCredits": "3.0",
+        "courseDesc": "This class covers probability and statistics with applications to civil, architectural, and environmental engineering. Students will learn probability theory, distributions of random variables, and statistical hypothesis testing.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE I199": {
+        "shortName": "CAEE I199",
+        "fullName": "Independent Study in Civil, Architecture & Environmental Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE I299": {
+        "shortName": "CAEE I299",
+        "fullName": "Independent Study in Civil, Architecture & Environmental Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE I399": {
+        "shortName": "CAEE I399",
+        "fullName": "Independent Study in Civil, Architecture & Environmental Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE I499": {
+        "shortName": "CAEE I499",
+        "fullName": "Independent Study in Civil, Architecture & Environmental Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE T180": {
+        "shortName": "CAEE T180",
+        "fullName": "Special Topics in CAEE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE T280": {
+        "shortName": "CAEE T280",
+        "fullName": "Special Topics in CAEE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE T380": {
+        "shortName": "CAEE T380",
+        "fullName": "Special Topics in CAEE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CAEE T480": {
+        "shortName": "CAEE T480",
+        "fullName": "Special Topics in CAEE",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

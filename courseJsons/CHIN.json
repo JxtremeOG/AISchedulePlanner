@@ -1,0 +1,222 @@
+{
+    "CHIN 101": {
+        "shortName": "CHIN 101",
+        "fullName": "Chinese I",
+        "courseCredits": "4.0",
+        "courseDesc": "Introductory Mandarin Chinese. Includes listening, speaking, and reading, with individual audiolingual practice.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "APCX N or APWCH 0",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 102": {
+        "shortName": "CHIN 102",
+        "fullName": "Chinese II",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesCHIN\u00a0101.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CHIN 101 [Min Grade D] or APWCH 151",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 103": {
+        "shortName": "CHIN 103",
+        "fullName": "Chinese III",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesCHIN\u00a0102.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CHIN 102 [Min Grade D] or APWCH 251",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 201": {
+        "shortName": "CHIN 201",
+        "fullName": "Chinese IV",
+        "courseCredits": "4.0",
+        "courseDesc": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onCHIN\u00a0103.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CHIN 103 [Min Grade D] or APWCH 400",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 202": {
+        "shortName": "CHIN 202",
+        "fullName": "Chinese V",
+        "courseCredits": "4.0",
+        "courseDesc": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onCHIN\u00a0201.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CHIN 201 [Min Grade D] or APWCH 600",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 310": {
+        "shortName": "CHIN 310",
+        "fullName": "Advanced Writing and Speaking",
+        "courseCredits": "4.0",
+        "courseDesc": "Provides advanced practice in written and oral communication, including journalistic, professional, and creative writing. Examines contemporary cultural contexts through media and news. Taught in Chinese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CHIN 202 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 320": {
+        "shortName": "CHIN 320",
+        "fullName": "Introduction to Language for the Professions",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduction to communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in Chinese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 27 credits",
+        "prereqs": "CHIN 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 340": {
+        "shortName": "CHIN 340",
+        "fullName": "Introduction to Power and Resistance",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduction to the analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. Taught in Chinese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 27 credits",
+        "prereqs": "CHIN 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 350": {
+        "shortName": "CHIN 350",
+        "fullName": "Introduction to Language, Media, and Society",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduction to the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Chinese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 27 credits",
+        "prereqs": "CHIN 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 420": {
+        "shortName": "CHIN 420",
+        "fullName": "Advanced Topics in Language for the Professions",
+        "courseCredits": "3.0",
+        "courseDesc": "Advanced communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in Chinese. Topics will vary according to the instructor's expertise.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 27 credits",
+        "prereqs": "CHIN 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 440": {
+        "shortName": "CHIN 440",
+        "fullName": "Advanced Topics in Power and Resistance",
+        "courseCredits": "3.0",
+        "courseDesc": "Advanced analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. Taught in Chinese. Topics will vary according to the instructor's expertise.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 27 credits",
+        "prereqs": "CHIN 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN 450": {
+        "shortName": "CHIN 450",
+        "fullName": "Advanced Topics in Language, Media, and Society",
+        "courseCredits": "3.0",
+        "courseDesc": "Advanced analysis of the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Chinese. Topics will vary according to the instructor's expertise.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 27 credits",
+        "prereqs": "CHIN 310 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN I199": {
+        "shortName": "CHIN I199",
+        "fullName": "Independent Study in CHIN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN I299": {
+        "shortName": "CHIN I299",
+        "fullName": "Independent Study in CHIN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN I399": {
+        "shortName": "CHIN I399",
+        "fullName": "Independent Study in CHIN",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN I499": {
+        "shortName": "CHIN I499",
+        "fullName": "Independent Study in CHIN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN T180": {
+        "shortName": "CHIN T180",
+        "fullName": "Special Topics in Chinese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN T280": {
+        "shortName": "CHIN T280",
+        "fullName": "Special Topics in Chinese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN T380": {
+        "shortName": "CHIN T380",
+        "fullName": "Special Topics in Chinese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHIN T480": {
+        "shortName": "CHIN T480",
+        "fullName": "Special Topics in Chinese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,323 @@
+:root {
+  /* Background colors */
+  --primary-bg-color: #000000; /* Darker background color */
+  --secondary-bg-color: #181818; /* Slightly lighter dark background */
+  --tertiary-bg-color: #282828; /* Mid-tone background color */
+
+  /* Text colors */
+  --primary-text-color: #ffffff; /* White text */
+  --secondary-text-color: #b3b3b3; /* Light grey text */
+
+  /* Accent colors */
+  --accent-color: #a11db9; /* Spotify green */
+  --hover-color: #b81ed7; /* Lighter green for hover */
+
+  /* Border colors */
+  --primary-border-color: #333; /* Dark grey for borders */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-bg-color);
+  font-family: Arial, sans-serif;
+  color: var(--primary-text-color); /* Set primary text color */
+}
+
+.heading-buttons {
+  display: flex;
+  gap: 10px; /* Adjust the gap between the buttons */
+}
+
+.heading-buttons i {
+  cursor: pointer;
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between; /* Ensure space between the title and buttons */
+  width: 100%;
+  height: 40px;
+  background-color: var(--primary-bg-color);
+  position: fixed;
+  top: 0;
+  -webkit-app-region: drag;
+  color: var(--secondary-text-color); /* Secondary text color for title */
+}
+
+.title-bar {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.title-bar-buttons {
+  display: flex;
+}
+
+.top-button {
+  width: 45px;
+  height: 40px;
+  border: none;
+  outline: none;
+  background-color: var(--primary-bg-color);
+  transition: 0.2s;
+  cursor: pointer;
+  -webkit-app-region: no-drag;
+  display: flex;
+  align-items: center; /* Center align icons vertically */
+  justify-content: center; /* Center align icons horizontally */
+  color: var(--primary-text-color); /* Set icon color */
+}
+
+.top-button:hover {
+  background-color: var(--hover-color);
+}
+
+.top-button:active {
+  background-color: var(--accent-color);
+}
+
+.primary-container {
+  display: grid;
+  grid-template-areas: 
+    "terms search";
+  grid-template-columns: 9fr 2fr;
+  width: 100%;
+  height: calc(100% - 40px); /* Adjust height to account for the toolbar */
+  padding-top: 40px; /* Add padding to account for the fixed toolbar */
+  padding-left: 20px; /* Add padding to the left */
+  padding-right: 20px; /* Add padding to the right */
+  gap: 10px; /* Add gap between windows */
+}
+
+.term-div {
+  display: grid;
+  grid-template-areas: 
+    "term-info courses";
+  grid-template-columns: 1fr 9fr;
+  background-color: var(--tertiary-bg-color); /* Slightly lighter grey background */
+  border-radius: 8px; /* Slightly rounded corners */
+  color: var(--primary-text-color); /* Text color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Subtle shadow */
+  height: 150px;
+  overflow: hidden; /* Prevent elements from overflowing beyond this div */
+  margin-bottom: 20px; /* Add margin to the bottom of term-div */
+}
+
+.term-info {
+  grid-area: term-info; /* Place this in the term-info grid area */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #44475a; /* Appealing color (example: dark purple-gray) */
+  color: var(--primary-text-color); /* Keep text color consistent */
+  border-radius: 8px 0 0 8px; /* Ensure term-info has rounded corners on the left */
+}
+
+.term-info h3 {
+  text-align: center;
+  font-size: 28px; /* Change to the desired font size */
+  color: #fff;      /* Optional: Change the text color */
+}
+
+.term-info p {
+  text-align: end;
+  padding-right: 5px;
+  bottom: 10px; /* Position 10px from the bottom */
+  margin: 0;    /* Remove any default margin */
+  font-size: 14px; /* Set the font size to adjust it if necessary */
+  color: #b3b3b3; /* Optional: Set the color to match your style */
+}
+
+.courses-container {
+  grid-area: courses; /* Place this in the courses grid area */
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  gap: 10px; /* Adds space between the course divs */
+  overflow-x: auto; /* Allow horizontal scrolling if there are many courses */
+  overflow-y: hidden; /* Prevent vertical overflow */
+}
+
+.course-card {
+  background-color: var(--secondary-bg-color); /* Darker background for course cards */
+  padding: 10px;
+  border-radius: 8px;
+  flex-basis: 100px; /* Base height reduced for shorter course cards */
+  flex-grow: 1; /* Allow the card to grow if space allows */
+  flex-shrink: 1; /* Allow the card to shrink when there are many cards */
+  max-width: 150px; /* Maximum width limit */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  cursor: move;
+}
+
+.is-dragging {
+  scale: 1.05;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.25);
+  background: rgb(50,50,50);
+  color: white;
+}
+
+.course-name {
+  font-size: 18px; /* Make course name prominent */
+  color: #fff; /* White text for contrast */
+  margin: 0;
+}
+
+.course-credits {
+  font-size: 14px; /* Slightly smaller for credits */
+  color: #b3b3b3; /* Grey color for credits */
+  margin: 5px 0;
+}
+
+.status-icon {
+  font-size: 32px;
+  margin-top: 10px;
+}
+
+/* Optional: Style the icons based on status */
+.status-icon.checkmark {
+  color: green;
+}
+
+.status-icon.warning {
+  color: orange;
+}
+
+.status-icon.error {
+  color: red;
+}
+
+#terms-container {
+  grid-area: terms;
+  overflow-y: auto; /* Make the terms container scrollable */
+  padding: 10px;
+  height: calc(100vh - 60px); /* Adjust height to fill the available space */
+  scrollbar-width: thin; /* For Firefox, adjust the scrollbar width */
+  scrollbar-color: var(--accent-color) var(--secondary-bg-color); /* For Firefox, custom scrollbar color */
+}
+
+/* Custom scrollbar styling for WebKit (Chrome, Safari, Edge) */
+#terms-container::-webkit-scrollbar {
+  width: 10px; /* Set the width of the scrollbar */
+}
+
+#terms-container::-webkit-scrollbar-track {
+  background: var(--secondary-bg-color); /* Background color for the scrollbar track */
+}
+
+#terms-container::-webkit-scrollbar-thumb {
+  background-color: var(--accent-color); /* Scrollbar color */
+  border-radius: 10px; /* Rounded corners */
+  border: 2px solid var(--secondary-bg-color); /* Optional: Add border for better aesthetics */
+}
+
+#terms-container::-webkit-scrollbar-thumb:hover {
+  background-color: var(--hover-color); /* Change color when hovering over the scrollbar */
+}
+
+/* Style for the search container */
+#search-container {
+  grid-area: search; /* Position it in the 'search' part of the grid */
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Adds spacing between the search bar and results */
+  background-color: var(--secondary-bg-color);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+}
+
+#search-bar {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  height: 64px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  background-color: var(--tertiary-bg-color);
+  color: var(--primary-text-color);
+}
+
+#search-bar::placeholder {
+  color: var(--secondary-text-color); /* Placeholder text color */
+}
+
+#search-results {
+  flex-grow: 1; /* Allow the search results area to expand */
+  background-color: var(--tertiary-bg-color);
+  padding: 10px;
+  border-radius: 8px;
+  overflow-y: auto; /* Ensure vertical scrolling if content overflows */
+  max-height: 80vh; /* Restrict height so that it doesn’t overflow the screen */
+}
+
+/* Scrollbar styles for WebKit browsers */
+#search-results::-webkit-scrollbar {
+  width: 8px; /* Set width of scrollbar */
+}
+
+#search-results::-webkit-scrollbar-track {
+  background: var(--secondary-bg-color); /* Scrollbar track background */
+}
+
+#search-results::-webkit-scrollbar-thumb {
+  background-color: var(--accent-color); /* Scrollbar thumb color */
+  border-radius: 8px; /* Rounded corners for the scrollbar thumb */
+}
+
+#search-results::-webkit-scrollbar-thumb:hover {
+  background-color: var(--hover-color); /* Change color when hovering over scrollbar */
+}
+
+/* Adjust scrollbar styling for Firefox */
+#search-results {
+  scrollbar-width: thin; /* Set the width of the scrollbar */
+  scrollbar-color: var(--accent-color) var(--secondary-bg-color); /* Thumb and track color */
+}
+
+.search-result-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: var(--secondary-bg-color);
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.search-result-item:hover {
+  background-color: var(--hover-color);
+}
+
+.term-div.drag-over {
+  border: 2px dashed var(--accent-color); /* Visual indication for drag-over */
+}
+
+/* Adjust the scrollbar for search results */
+#search-results::-webkit-scrollbar {
+  width: 8px;
+}
+
+#search-results::-webkit-scrollbar-track {
+  background: var(--secondary-bg-color);
+}
+
+#search-results::-webkit-scrollbar-thumb {
+  background-color: var(--accent-color);
+  border-radius: 8px;
+}
+
+#search-results::-webkit-scrollbar-thumb:hover {
+  background-color: var(--hover-color);
+}

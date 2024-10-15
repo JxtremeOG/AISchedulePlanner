@@ -1,0 +1,57 @@
+{
+    "LANG 200": {
+        "shortName": "LANG 200",
+        "fullName": "Crossing the Bridge",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is designed for students who are experiencing the \"otherness\" of culturally diverse groups through living, studying or working abroad. Students will integrate and build on their intercultural experiences through a self-reflective process, and will become aware of the impact the students' own culture has on these experiences.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LANG T180": {
+        "shortName": "LANG T180",
+        "fullName": "Special Topics in Languages",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Provides opportunities in language study commonly not taught in the Modern Language Program. Course offers intensive language training and study of the historical, social and cultural imperatives of the country where the language is spoken. May be repeated for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LANG T280": {
+        "shortName": "LANG T280",
+        "fullName": "Special Topics in Languages",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LANG T380": {
+        "shortName": "LANG T380",
+        "fullName": "Special Topics in Languages",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "LANG T480": {
+        "shortName": "LANG T480",
+        "fullName": "Special Topics in Languages",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

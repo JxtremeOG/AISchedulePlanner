@@ -1,0 +1,35 @@
+{
+    "HUM 006": {
+        "shortName": "HUM 006",
+        "fullName": "Oral Communication Skills for Non-Native Speakers",
+        "courseCredits": "0.0",
+        "courseDesc": "Designed to help international members of the Drexel community improve their listening comprehension and oral communication skills in English. Provides participants with opportunities to make presentations and receive constructive feedback, with particular attention to grammar, pronunciation, and fluency problems. Especially recommended for international teaching assistants.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HUM 107": {
+        "shortName": "HUM 107",
+        "fullName": "Humanities and Communications II",
+        "courseCredits": "0.0-3.0",
+        "courseDesc": "Covers the research process. Continues work with critical analysis begun in hum 106. Requires students to apply research methodology as they write a critical review and a chemistry synthesis paper, and develop group proposals for their design projects. Also requires students to continue the study of literature begun in hum 106 and continue keeping journals.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "HUM 108": {
+        "shortName": "HUM 108",
+        "fullName": "Humanities and Communications III",
+        "courseCredits": "0.0-3.0",
+        "courseDesc": "Requires students to write a literary analysis of a play in production locally and discuss visual arts. Includes written and oral presentations of students' final engineering design projects. Coordinates readings in non-fiction with the course science component. Requires students to write a synthesis paper for biology and continue using journals as a means for reflection.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

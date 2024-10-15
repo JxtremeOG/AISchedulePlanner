@@ -1,0 +1,222 @@
+{
+    "BUSN 101": {
+        "shortName": "BUSN 101",
+        "fullName": "Foundations of Business I",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduces the fundamental structures and functions of business organizations and the opportunities for career advancement within such organizations. Develops relevant business skills for professional success, emphasizing teams, communication, and real-world examples.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 102": {
+        "shortName": "BUSN 102",
+        "fullName": "Foundations of Business II",
+        "courseCredits": "4.0",
+        "courseDesc": "Exposes students to the external environments (local, national, and international) within which business organizations operate. Continues to build on important managerial and communication issues.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "BUSN 101 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 103": {
+        "shortName": "BUSN 103",
+        "fullName": "Advanced First Year Business Seminar",
+        "courseCredits": "2.0",
+        "courseDesc": "Continues to address topics and professional development introduced in the Foundations of Business I and II courses. Further develops student's knowledge and skills in a variety of areas, which may include effective boardroom presentations, individual financial strategy, leadership issues, corporate communication, career management and decision making.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated 2 times for 4 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 105": {
+        "shortName": "BUSN 105",
+        "fullName": "Applied Business Analysis",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is an introductory course in using spreadsheets as a tool to solve business problems. Through a series of hands-on exercises, the student will create, edit, and format worksheets while addressing problems in each of the functional areas including: marketing, accounting, finance, sports management. Topics include: creating, saving, retrieving, formatting, editing, printing, creating formulas, using functions, naming cells and ranges, creating tables, creating charts, defining range names, validating data, sorting and filtering data, maintaining file organization, and using templates. Each week, students will apply their knowledge of spreadsheets to explore business frameworks and approaches which will aid them in their co-op\u2019s and higher-level coursework.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 111": {
+        "shortName": "BUSN 111",
+        "fullName": "Foundations for Business",
+        "courseCredits": "4.0",
+        "courseDesc": "Provides an integrated foundation for future business courses. Orients transfer and evening students to the main disciplines and functions of business, in both the internal and external environments; enables hands-on analysis of information and decision-making in a competitive arena; and provides an opportunity to develop teamwork and to enhance communication, presentation, and other management skills. This course cannot be used as part of your degree requirements if you were enrolled in theBUSN\u00a0101Foundations of Business I andBUSN\u00a0102Foundations of Business II sequence.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 112": {
+        "shortName": "BUSN 112",
+        "fullName": "Career Management Business Residency",
+        "courseCredits": "4.0",
+        "courseDesc": "Provides students with a practical framework for career planning through the use of career assessments, interactive exercises, and personal reflections. Students will investigate viable career paths, analyze internal and external motivators, and enhance their communication, leadership, and presentation skills through an online simulation, electronic portfolio, and employer site visit.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 211": {
+        "shortName": "BUSN 211",
+        "fullName": "Peer Mentoring & Leadership Practicum",
+        "courseCredits": "2.0",
+        "courseDesc": "This course is designed to highlight and develop mentoring and leadership skills required to guide and assist incoming freshmen in their transition to college. Students will develop critical thinking as it relates to leadership and the integration of those skills. The course is experiential in nature as students will immediately look to apply knowledge gained within the course.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "UNIV B101 [Min Grade B]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 350": {
+        "shortName": "BUSN 350",
+        "fullName": "Thinking (A)Broad - An Intensive Course Abroad in Business",
+        "courseCredits": "4.0",
+        "courseDesc": "This course will provide students with a one-week global experience as an intensive course abroad (ICA). It will be combined with a pre-term or post-term program instruction during the term offered. Course themes will vary depending upon the location and topic of focus, as well as with any partnering institutions, universities or companies. Faculty approval is required and students must apply through the Drexel Education Abroad website. There will be a program fee for the travel portion of the course. This course can be taken as an Honors option with departmental approval. Examples include Global Projects and Teams in Germany, Global Sustainable Leadership in the UK, and Global Project Leadership in The Netherlands.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated 2 times for 12 credits",
+        "prereqs": "(BUSN 101 [Min Grade D] and BUSN 102 [Min Grade D]) or BUSN 111 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 370": {
+        "shortName": "BUSN 370",
+        "fullName": "Healthcare Value Creation",
+        "courseCredits": "4.0",
+        "courseDesc": "This course presents the principles and dynamics of the U.S. healthcare industry through the business lens of industry, patients, providers, healthcare facilities and technology. The class will be using key readings, case studies, guest speakers, and didactic lectures. Students will analyze the institutional, social, economic/financial and political forces in the field of healthcare and modern healthcare. This course introduces an overview to the healthcare stakeholders in a variety of settings, Students will also examine current trends in modern healthcare delivery. All students in all disciplines have the ability to add to the dynamic classroom discussions and debates.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 430": {
+        "shortName": "BUSN 430",
+        "fullName": "Mentoring & Leadership Development Practicum",
+        "courseCredits": "2.0",
+        "courseDesc": "The role of the Peer Mentor is one of a role-model, tutor and trusted colleague. This course is designed to teach mentoring skills required by Teaching Assistants inBUSN\u00a0101and for early career managers.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "FIN 301 [Min Grade B] and ACCT 115 [Min Grade B] and ACCT 116 [Min Grade B]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 431": {
+        "shortName": "BUSN 431",
+        "fullName": "Mentoring & Leadership Development Practicum",
+        "courseCredits": "2.0",
+        "courseDesc": "The role of the peer mentor is one of a role model, tutor and trusted colleague. This course is designed to teach mentoring skills required by Teaching Assistants inBUSN\u00a0102and for early career managers.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "FIN 301 [Min Grade B] and ACCT 115 [Min Grade B] and ACCT 116 [Min Grade B]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN 432": {
+        "shortName": "BUSN 432",
+        "fullName": "Leadership & Mentoring Practicum",
+        "courseCredits": "4.0",
+        "courseDesc": "The role of the TA is one of a role-model, tutor and trusted colleague. This course is designed to guide and assist upperclassmen as they supportBUSN\u00a0101/102 students in their initial journey into business as well as provide leadership insights and experiences that highlight theses secondary leadership roles.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "FIN 301 [Min Grade B] and ACCT 115 [Min Grade B] and ACCT 116 [Min Grade B]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN I199": {
+        "shortName": "BUSN I199",
+        "fullName": "Independent Study in General Business",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN I299": {
+        "shortName": "BUSN I299",
+        "fullName": "Independent Study in General Business",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN I399": {
+        "shortName": "BUSN I399",
+        "fullName": "Independent Study in General Business",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN I499": {
+        "shortName": "BUSN I499",
+        "fullName": "Independent Study in General Business",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN T180": {
+        "shortName": "BUSN T180",
+        "fullName": "Special Topics in BUSN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN T280": {
+        "shortName": "BUSN T280",
+        "fullName": "Special Topics in BUSN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN T380": {
+        "shortName": "BUSN T380",
+        "fullName": "Special Topics in BUSN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "BUSN T480": {
+        "shortName": "BUSN T480",
+        "fullName": "Special Topics in BUSN",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

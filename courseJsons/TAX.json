@@ -1,0 +1,178 @@
+{
+    "TAX 341": {
+        "shortName": "TAX 341",
+        "fullName": "Federal Income Taxes",
+        "courseCredits": "4.0",
+        "courseDesc": "Surveys the tax structure of the United States, with emphasis on those portions of the Internal Revenue Code that affect the federal income tax liabilities of individuals and small businesses. Considers the tax impact on individuals and small businesses relating to compensation, portfolio income and business investments.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ACCT 115 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 342": {
+        "shortName": "TAX 342",
+        "fullName": "Advanced Federal Taxes",
+        "courseCredits": "4.0",
+        "courseDesc": "Considers the tax impact on business entities including corporations, partnerships, and S corporations of property acquisitions and dispositions, formation of a business, taxable income, redemption of ownership interest, liquidation of the entity and dividends and distributions.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 353": {
+        "shortName": "TAX 353",
+        "fullName": "Personal Income Taxes",
+        "courseCredits": "4.0",
+        "courseDesc": "Non-accounting majors only. Introduces the federal tax system, with emphasis on the individual income tax. Uses tax preparation software.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 360": {
+        "shortName": "TAX 360",
+        "fullName": "Cannabis, Cookies and Cyberspace: The New Age of State & Local Taxation",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides a basic introduction to state and local taxation, with an emphasis on income and franchise taxes imposed on businesses. The course is designed to encompass all of the major topics relevant to multistate taxation, including recent legislative developments and state tax policy trends.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 390": {
+        "shortName": "TAX 390",
+        "fullName": "Financial Planning and Taxes",
+        "courseCredits": "4.0",
+        "courseDesc": "The Financial Planning and Tax course introduces students to increase personal wealth due to the influence of tax on business and personal decision making. Thin influence of tax illustrated through class discussions and case assignments, which are real world personal financial and investments opportunities.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "TAX 341 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 411": {
+        "shortName": "TAX 411",
+        "fullName": "Tax Research",
+        "courseCredits": "3.0",
+        "courseDesc": "In this course you will develop the skills of tomorrow's tax consultant to maintain your edge in providing value to the client in an efficient and effective manner. That value is to professionally resolve a tax issue by means of thinking creatively, conducting basic research using primary tax authority sources, communicating findings in a concise manner, and maintaining ethical standards.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "TAX 341 [Min Grade C] or TAX 342 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 415": {
+        "shortName": "TAX 415",
+        "fullName": "Tax Experiential Learning",
+        "courseCredits": "4.0",
+        "courseDesc": "In this experiential service-learning class, students participate in Volunteer Income Tax Assistance (VITA), a nationally recognized program supported by the IRS. It requires students to complete a short IRS training program and then prepare actual individual income tax returns to help those in need of pro bono assistance in the Philadelphia community through a neighborhood service project.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX 425": {
+        "shortName": "TAX 425",
+        "fullName": "Tax & Business Strategy",
+        "courseCredits": "4.0",
+        "courseDesc": "The adage is that there are only two things that are guaranteed: Death and Taxes. Since taxes influence each of us daily, it is important to have an appreciation for the tax law and how it influences a person or a business. Students will apply their cross-disciplinary knowledge and skills to study the intersection of strategy and taxes. This course does not attempt to make a person a tax accountant but rather a businessperson with the savvy to ask the rights questions.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "FIN 301 (Can be taken Concurrently)",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX I199": {
+        "shortName": "TAX I199",
+        "fullName": "Independent Study in TAX",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX I299": {
+        "shortName": "TAX I299",
+        "fullName": "Independent Study in TAX",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX I399": {
+        "shortName": "TAX I399",
+        "fullName": "Independent Study in TAX",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX I499": {
+        "shortName": "TAX I499",
+        "fullName": "Independent Study in TAX",
+        "courseCredits": "0.5-4.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX T180": {
+        "shortName": "TAX T180",
+        "fullName": "Special Topics in TAX",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX T280": {
+        "shortName": "TAX T280",
+        "fullName": "Special Topics in TAX",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX T380": {
+        "shortName": "TAX T380",
+        "fullName": "Special Topics in TAX",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TAX T480": {
+        "shortName": "TAX T480",
+        "fullName": "Special Topics in TAX",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

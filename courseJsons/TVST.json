@@ -1,0 +1,189 @@
+{
+    "TVST 100": {
+        "shortName": "TVST 100",
+        "fullName": "Recent TV Trends",
+        "courseCredits": "3.0",
+        "courseDesc": "This course covers recent trends in television, whether on streaming services, premium channels, cable, or on network channels. The focus will be on television shows that have notable narrative and artistic characteristics early on, possibly foretelling their emergence as culturally significant later on.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 105": {
+        "shortName": "TVST 105",
+        "fullName": "TV History",
+        "courseCredits": "3.0",
+        "courseDesc": "This course explores the history of television as art and communication. Topics include: the origins and development of television programming, the regulatory environment and the history of the business of television. Television programs, both fictional and non-fictional, will be viewed from the fifties through the present time.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 260": {
+        "shortName": "TVST 260",
+        "fullName": "History of Television",
+        "courseCredits": "3.0",
+        "courseDesc": "This course explores the history of television as art and communication. Topics include: the origins and development of television programming, the regulartory environment and the history of the business of television. Television programs, both fictional and non-fictional, will be viewed from the fifties through the present time.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 261": {
+        "shortName": "TVST 261",
+        "fullName": "History of TV Journalism",
+        "courseCredits": "3.0",
+        "courseDesc": "This course presents a history of broadcast introduction in the United States. It includes an introduction to the origins, portocals, and principles of journalism on television. It also acquaints students with the prominent trends, programs, and reporting styles throught the decades leading to present-day norms and motivations.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 361": {
+        "shortName": "TVST 361",
+        "fullName": "Art of TV Comedy",
+        "courseCredits": "3.0",
+        "courseDesc": "This course explores the history of television comedy and examines its role as both programming staple and artistic form. By examining how sitcoms reflect our society and its most important social issues, the course seeks to enable students to gauge where both culture and the sitcom are headed.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 362": {
+        "shortName": "TVST 362",
+        "fullName": "Art of TV Drama",
+        "courseCredits": "3.0",
+        "courseDesc": "Students will view and analyze prime-time, hour-long, dramatic TV shows, starting with television's golden age of the fifties and moving to television's \"second golden age\" starting in the eighties. Students will examine the relationship of the series to other programs, contemporary culture, and television history.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 363": {
+        "shortName": "TVST 363",
+        "fullName": "Science Fiction Television",
+        "courseCredits": "3.0",
+        "courseDesc": "Students will view a progression of science fiction television shows from the fifties to the present time. Students will examine how each show uses an imagined world as a vehicle for exploring facets of our own world. The concepts and the production values will be discussed for each show.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 364": {
+        "shortName": "TVST 364",
+        "fullName": "Teen Television",
+        "courseCredits": "3.0",
+        "courseDesc": "This course looks at acclaimed television programs from the fifties to the present, which present the experience of teenagers as central to the overall show. Students will discuss the content and form of each show, in terms of the directing, the cinematography, the editing, the production design, the sound track, as well as the acting.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST 368": {
+        "shortName": "TVST 368",
+        "fullName": "Supernatural Fantasy TV Shows",
+        "courseCredits": "3.0",
+        "courseDesc": "We will examine television shows from the 1950's to the present that include vampires, werewolves, witches, ghosts, demons, monsters, and other beings with unusual abilities that arise from myths, legends, fairytales, and folktales (and not from scientific fact.) We will explore a variety of supernatural themes in television drama, including those that reflect our fears of the unknown and our desires to be more than we are. We will also discuss what goes into creating a high-caliber supernatural drama television show, looking at both the content and the form. We will discuss the writing, the directing, the production design, the camerawork, the sound, the editing, and the special effects.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST I199": {
+        "shortName": "TVST I199",
+        "fullName": "Independent Study in TV Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST I299": {
+        "shortName": "TVST I299",
+        "fullName": "Independent Study in TV Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST I399": {
+        "shortName": "TVST I399",
+        "fullName": "Independent Study in TV Studies",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST I499": {
+        "shortName": "TVST I499",
+        "fullName": "Independent Study in TV Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST T180": {
+        "shortName": "TVST T180",
+        "fullName": "Special Topics in TV Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST T280": {
+        "shortName": "TVST T280",
+        "fullName": "Special Topics in TV Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST T380": {
+        "shortName": "TVST T380",
+        "fullName": "Special Topics in TV Studies",
+        "courseCredits": "3.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated 6 times for 21 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "TVST T480": {
+        "shortName": "TVST T480",
+        "fullName": "Special Topics in TV Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

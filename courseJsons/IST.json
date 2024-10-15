@@ -1,0 +1,13 @@
+{
+    "IST 398": {
+        "shortName": "IST 398",
+        "fullName": "International Research Project and Study Abroad",
+        "courseCredits": "0.5-20.0",
+        "courseDesc": "",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

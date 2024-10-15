@@ -1,0 +1,134 @@
+{
+    "OPR 320": {
+        "shortName": "OPR 320",
+        "fullName": "Linear Models for Decision Making",
+        "courseCredits": "4.0",
+        "courseDesc": "Applies modeling and mathematical techniques to complex decision problems in business, with a focus on deterministic systems. Covers linear programming, integer programming, goal programming and networks.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MATH 102 [Min Grade D] or MATH 122 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR 330": {
+        "shortName": "OPR 330",
+        "fullName": "Advanced Decision Making and Simulation",
+        "courseCredits": "4.0",
+        "courseDesc": "Applies modeling and mathematical techniques to complex decision problems, with a focus on nonlinearity and uncertainty in the business environment. Covers nonlinear programming, dynamic programming, queuing theory, Markov Processes, decision analysis and simulation.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "OPR 320 [Min Grade C-] and (STAT 201 [Min Grade C-] or STAT 205 [Min Grade C-] or MATH 312 [Min Grade C-])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR 340": {
+        "shortName": "OPR 340",
+        "fullName": "Decision Models for the Public Sector",
+        "courseCredits": "4.0",
+        "courseDesc": "This course will cover the basics of analytical modeling, optimization, and simulation as tools for decision-making in the public sector. The students will analyze cases illustrating the powerful impact of using these tools in cities across the country. Of particular focus will be the implementability of these tools and their recommendations in the real-world. Moreover, a city, especially one as big as Philadelphia, is a complex and dynamic environment, so we will investigate how to address some of the resulting challenges in our analyses. Specifically, we will address scenarios involving the improvement of existing operations, optimal resource allocation and distribution, and measuring and improving the quality and efficiency of service delivery.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "OPR 320 [Min Grade C-]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR 350": {
+        "shortName": "OPR 350",
+        "fullName": "Optimization in Finance",
+        "courseCredits": "4.0",
+        "courseDesc": "Quantitative finance can be grouped into the following categories: (1) valuation of financial instruments by the use of risk-neutral probability distributions; (2) financial planning using real-life probability distributions. This course focuses on financial planning. There are two key ideas: the first is to model decision making and planning as a mathematical optimization problem with variables, an objective function, and constraints. The second is to model uncertainty using the tools of probability theory. This is an introductory course: we focus on building models and use standard spreadsheet software to find solutions.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR I199": {
+        "shortName": "OPR I199",
+        "fullName": "Independent Study in OPR",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR I299": {
+        "shortName": "OPR I299",
+        "fullName": "Independent Study in OPR",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR I399": {
+        "shortName": "OPR I399",
+        "fullName": "Independent Study in OPR",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR I499": {
+        "shortName": "OPR I499",
+        "fullName": "Independent Study in OPR",
+        "courseCredits": "0.5-4.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR T180": {
+        "shortName": "OPR T180",
+        "fullName": "Special Topics in OPR",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR T280": {
+        "shortName": "OPR T280",
+        "fullName": "Special Topics in OPR",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR T380": {
+        "shortName": "OPR T380",
+        "fullName": "Special Topics in OPR",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "OPR T480": {
+        "shortName": "OPR T480",
+        "fullName": "Special Topics in OPR",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

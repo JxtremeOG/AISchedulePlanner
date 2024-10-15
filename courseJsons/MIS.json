@@ -1,0 +1,189 @@
+{
+    "MIS 200": {
+        "shortName": "MIS 200",
+        "fullName": "Management Information Systems",
+        "courseCredits": "4.0",
+        "courseDesc": "Introductory course to Management of Information Systems, a core business function. The course examines how information systems (i.e., information technology, people, procedures, and data) help add value to an organization, and integrate the various functional areas of a business (e.g., accounting, marketing, etc.).",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 342": {
+        "shortName": "MIS 342",
+        "fullName": "Systems Analysis and Design",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduces structured and object-oriented systems analysis and design methodologies in classroom and hands-on lab settings. Discusses system life-cycle concepts and techniques such as dataflow diagrams, structure charts, and E-R diagrams. Also covers object-oriented design, prototyping, and rapid application development approaches.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MIS 300 [Min Grade D] or MIS 200 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 343": {
+        "shortName": "MIS 343",
+        "fullName": "Database Design and Implementation",
+        "courseCredits": "4.0",
+        "courseDesc": "Covers data and file structures, object-oriented database design, and the use of SQL for querying databases. Discusses logical and physical database design and offers hands-on experience with commercial database management systems (DBMSs).",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MIS 200 [Min Grade D] or MIS 300 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 346": {
+        "shortName": "MIS 346",
+        "fullName": "Management Information Systems Strategy",
+        "courseCredits": "4.0",
+        "courseDesc": "To discuss Management of Information Systems, and then to elaborate on its application to organizational change, especially to reengineering. This course will introduce the student to central aspects of MIS policy and strategy in the first part of the course and then use these concepts to understand reengineering in the latter part of the course.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 347": {
+        "shortName": "MIS 347",
+        "fullName": "Domestic and Global Outsourcing Management",
+        "courseCredits": "4.0",
+        "courseDesc": "To introduce the student to issues in managing the outsourcing of Information Systems. This will be done in a mixture of lectures and student team presentations. The lectures will introduce the students to some of the central themes of outsourcing IS by summarizing current literature. Parallel to these lectures students will form study teams to investigate other important topics of IS outsourcing through a guided literature reading.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 351": {
+        "shortName": "MIS 351",
+        "fullName": "Introduction to Programming for Business in C#",
+        "courseCredits": "4.0",
+        "courseDesc": "This course is an introductory course to the process and tools necessary to build a complete information system given a specification. In this course, you will learn basic concepts and techniques in computer programming. This course selects Microsoft Visual Studio.Net and C# as the software development environment and programming language. This language and development system is a complete suite of tools for creating stand-alone applications, portions of larger systems, independent objects, complete distributed systems, and active components of the World Wide Web.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MIS 200 [Min Grade D] or MIS 300 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 361": {
+        "shortName": "MIS 361",
+        "fullName": "Information System Project Management",
+        "courseCredits": "4.0",
+        "courseDesc": "The course is structured around the key phases of a project lifecycle \u2013 initiating a project, planning a project, executing a project, controlling a project, and closing out a project. It also pays specific attention to the nine knowledge areas of Project Management as defined by the Project Management Institute (PMI)\u2019s Project Management Body of Knowledge (PMBOK): project scope, cost, time, integration, quality, communication, risk, human resources, and procurement management. Additionally, students will be introduced with choices in project management approaches (such as SAP Project Management and APM.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MIS 200 [Min Grade D] or MIS 300 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 364": {
+        "shortName": "MIS 364",
+        "fullName": "Information Security Systems Management",
+        "courseCredits": "4.0",
+        "courseDesc": "This course provides a foundation for the management of information security systems. It includes an overview of some key technology concepts that are pertinent for the management of information security systems, while also exploring core legal, governance, risk management, and compliance concepts. The course is taught as a combination of lectures, hands-on group activities, readings and videos.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MIS 200 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS 368": {
+        "shortName": "MIS 368",
+        "fullName": "Enterprise Cloud Systems Management",
+        "courseCredits": "4.0",
+        "courseDesc": "Cloud computing offers organizations elastic, fine-grained, on-demand, pay-for-use computing resources, such as CPU power, memory, storage, or data transfer. The flexibility of the cloud allows customers to scale system capacities rapidly up or down, which entails lower computing expenses than with fixed, internally maintained resources. Enterprise cloud systems also foster resilience by enabling quicker deployment of new systems to support rapid changes in organizational processes and missions. This course focuses on the business and IT-related aspects of cloud computing and includes direct experience with the cloud services of one or more leading providers.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "MIS 200 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS I199": {
+        "shortName": "MIS I199",
+        "fullName": "Independent Study in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS I299": {
+        "shortName": "MIS I299",
+        "fullName": "Independent Study in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS I399": {
+        "shortName": "MIS I399",
+        "fullName": "Independent Study in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS I499": {
+        "shortName": "MIS I499",
+        "fullName": "Independent Study in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS T180": {
+        "shortName": "MIS T180",
+        "fullName": "Special Topics in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS T280": {
+        "shortName": "MIS T280",
+        "fullName": "Special Topics in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS T380": {
+        "shortName": "MIS T380",
+        "fullName": "Special Topics in MIS",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "MIS T480": {
+        "shortName": "MIS T480",
+        "fullName": "Special Topics in MIS",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "EXAM 080": {
+        "shortName": "EXAM 080",
+        "fullName": "Common Exam Period - I",
+        "courseCredits": "0.0",
+        "courseDesc": "",
+        "courseDepartment": "University Courses",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EXAM 081": {
+        "shortName": "EXAM 081",
+        "fullName": "Common Exam Period - II",
+        "courseCredits": "0.0",
+        "courseDesc": "",
+        "courseDepartment": "University Courses",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "EXAM 082": {
+        "shortName": "EXAM 082",
+        "fullName": "Common Exam Period - III",
+        "courseCredits": "0.0",
+        "courseDesc": "",
+        "courseDepartment": "University Courses",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

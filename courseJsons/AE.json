@@ -1,0 +1,200 @@
+{
+    "AE 220": {
+        "shortName": "AE 220",
+        "fullName": "Introduction to HVAC",
+        "courseCredits": "3.5",
+        "courseDesc": "This course includes a review of thermodynamics, moist air properties and processes, basic heat transfer, solar radiation, heating and cooling losses and load calculation, types of air conditioning systems, infiltration and ventilation, air motion and distribution.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "(CAEE 202 [Min Grade D] and CAEE 203 [Min Grade D]) or ENGR 210 [Min Grade D] or CHE 206 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 340": {
+        "shortName": "AE 340",
+        "fullName": "Architectural Illumination and Electrical Systems",
+        "courseCredits": "3.0",
+        "courseDesc": "This course covers building electrical systems, including power demand, distribution and control; building illumination techniques, including lighting demand, layout and energy analysis.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "(CAEE 202 [Min Grade D] and PHYS 102 [Min Grade D]) or ENGR 210 [Min Grade D] or CHE 206 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 390": {
+        "shortName": "AE 390",
+        "fullName": "Architectural Engineering Design I",
+        "courseCredits": "4.0",
+        "courseDesc": "This course leads students through the comprehensive building design process. Using a prototype of a moderately sized building, students work in teams to develop the building\u2019s program, meet architectural goals, and organize and design components of the structural system. Working for a fictitious client, the teams are faced with unique challenges which will need to be addressed through a whole-building design approach. The teams present their design solutions with a thorough Design Development narrative, professional diagrams, and a verbal presentation to a panel of industry professionals.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ARCH 192 [Min Grade D] and MEM 202 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 391": {
+        "shortName": "AE 391",
+        "fullName": "Architectural Engineering Design II",
+        "courseCredits": "4.0",
+        "courseDesc": "In this course, students will design the mechanical, electrical, and plumbing systems for a mid-sized building located in different climate zones in the United States. The students integrate their design project from the previous term, continuing the work they began in AE390, through a whole-building design approach. The class is organized as a team-based project-based learning pedagogy in which teams present their design solutions with a thorough Design Development narrative, professional diagrams, and a verbal presentation to the class and a jury of experts.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "AE 390 [Min Grade D] and AE 220 [Min Grade D] and AE 340 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 410": {
+        "shortName": "AE 410",
+        "fullName": "Intelligent Buildings",
+        "courseCredits": "3.0",
+        "courseDesc": "An overview of the present and future role of Information Technology in the construction industry with emphasis on the computer tools used throughout the building life cycle by all stakeholders, primarily Building Information Modeling (BIM) and the role of networked-linked sensors and actuators.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 430": {
+        "shortName": "AE 430",
+        "fullName": "Control Systems for HVAC",
+        "courseCredits": "3.0",
+        "courseDesc": "This course introduces basic control concepts with applications to HVAC systems; direct digital control, control loops; system modeling; transfer functions; selecting and locating sensors and actuators; design and tuning control algorithms; design and programming of HVAC control systems.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "AE 220 [Min Grade D] or MEM 413 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 440": {
+        "shortName": "AE 440",
+        "fullName": "Responsive Urban Environments",
+        "courseCredits": "3.0",
+        "courseDesc": "This is a real-time Global Classroom that meets simultaneously in Philadelphia and Milan, Italy. The Responsive Urban Environment (RUE)looks at the city through the lens of ecosystem management. RUE considers the city as a complex network of interrelated systems that rely on each other to maintain system balance. RUE helps students understand the close relationship between the engineering design choices that take place at the scale of the building and neighborhood to the environmental impacts that occur at the wider scale of the urban level.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 441": {
+        "shortName": "AE 441",
+        "fullName": "Bio-inspired Design",
+        "courseCredits": "3.0",
+        "courseDesc": "This course introduces bio-informed sciences into engineering design to help students develop engineering strategies for the built environment to promote human health and wellbeing. Topics covered include neuroscience, photobiology, biomimicry, biophilia, and chronobiology.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 444": {
+        "shortName": "AE 444",
+        "fullName": "Building Envelope Systems",
+        "courseCredits": "3.0",
+        "courseDesc": "Science and engineering fundamentals in analysis and design of building envelopes and wall systems. Architectural, structural, and environmental (thermal and moisture) concerns; features of selected cladding systems; air and moisture leakage, thermal deficiency, structural distress and premature deterioration; building envelop construction, condition evaluation, maintenance and retrofit.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "AE 391 [Min Grade C] or CIVE 303 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE 455": {
+        "shortName": "AE 455",
+        "fullName": "Data Acquisition and Analytics in Built Environment",
+        "courseCredits": "3.0",
+        "courseDesc": "Introduce concepts on data acquisition, data storage, and data analytics in the context of the built environment. Students will be learning sensor technology and database design and operation in buildings, as well as novel concepts of leveraging data science for engineering challenges.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE I199": {
+        "shortName": "AE I199",
+        "fullName": "Independent Study in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Independent study on a topic selected by the student. Independent study is supervised by a faculty member and guided by a plan of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE I299": {
+        "shortName": "AE I299",
+        "fullName": "Independent Study in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Independent study on a topic selected by the student. Independent study is supervised by a faculty member and guided by a plan of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE I399": {
+        "shortName": "AE I399",
+        "fullName": "Independent Study in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Independent study on a topic selected by the student. Independent study is supervised by a faculty member and guided by a plan of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE I499": {
+        "shortName": "AE I499",
+        "fullName": "Independent Study in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Independent study on a topic selected by the student. Independent study is supervised by a faculty member and guided by a plan of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE T180": {
+        "shortName": "AE T180",
+        "fullName": "Special Topics in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE T280": {
+        "shortName": "AE T280",
+        "fullName": "Special Topics in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE T380": {
+        "shortName": "AE T380",
+        "fullName": "Special Topics in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "AE T480": {
+        "shortName": "AE T480",
+        "fullName": "Special Topics in Architectural Engineering",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

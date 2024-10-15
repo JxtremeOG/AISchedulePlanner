@@ -1,0 +1,156 @@
+{
+    "INTB 200": {
+        "shortName": "INTB 200",
+        "fullName": "International Business",
+        "courseCredits": "4.0",
+        "courseDesc": "This course examines economic, political, legal, and social factors affecting formulation of international business strategy.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB 332": {
+        "shortName": "INTB 332",
+        "fullName": "Multinational Corporations",
+        "courseCredits": "4.0",
+        "courseDesc": "Discusses the role and function of multinational corporations in the global economy, reasons for their existence, and the impact of market structures on the operations of multinationals. Considers the interactions between multinationals and national authorities, and the international transfer of technology.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ECON 201 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB 334": {
+        "shortName": "INTB 334",
+        "fullName": "International Trade",
+        "courseCredits": "4.0",
+        "courseDesc": "Examines major issues in international trade and commercial policy. Uses real-world applications to derive and illustrate models of international trade. Covers rationales and benefits of international trade, protectionism, the political economy of commercial policy, international trade and development, and economic integration and world trade.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ECON 201 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB 336": {
+        "shortName": "INTB 336",
+        "fullName": "International Money and Finance",
+        "courseCredits": "4.0",
+        "courseDesc": "Examines major issues in international finance and open-economy macroeconomics. Develops models of international monetary interdependence and applies them to real-world examples. Covers determinants of interest rates, balance of payments, international macro policy, restructuring the international monetary system, and globalization of financial markets.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ECON 201 [Min Grade C] and ECON 202 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB 338": {
+        "shortName": "INTB 338",
+        "fullName": "Regional Studies in Economic Policies and International Business",
+        "courseCredits": "4.0",
+        "courseDesc": "Study of the industry,trade and macroeconomic trends of a major world region,such as East Asia, Latin America, Europe or the Near East.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ECON 201 [Min Grade C] and ECON 202 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB 440": {
+        "shortName": "INTB 440",
+        "fullName": "Seminar in International Business",
+        "courseCredits": "4.0",
+        "courseDesc": "Writing and discussion on advanced topics relevant to International Business. Content is determined mainly by the interests of the students enrolled at a particular term.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "INTB 200 [Min Grade C]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB I199": {
+        "shortName": "INTB I199",
+        "fullName": "Independent Study in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB I299": {
+        "shortName": "INTB I299",
+        "fullName": "Independent Study in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB I399": {
+        "shortName": "INTB I399",
+        "fullName": "Independent Study in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB I499": {
+        "shortName": "INTB I499",
+        "fullName": "Independent Study in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB T180": {
+        "shortName": "INTB T180",
+        "fullName": "Special Topics in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB T280": {
+        "shortName": "INTB T280",
+        "fullName": "Special Topics in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB T380": {
+        "shortName": "INTB T380",
+        "fullName": "Special Topics in INTB",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "INTB T480": {
+        "shortName": "INTB T480",
+        "fullName": "Special Topics in INTB",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "LeBow College of Business",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

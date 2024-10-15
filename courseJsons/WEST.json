@@ -1,0 +1,145 @@
+{
+    "WEST 100": {
+        "shortName": "WEST 100",
+        "fullName": "Introduction to Digital Design Tools",
+        "courseCredits": "3.0",
+        "courseDesc": "This introductory level course will provide the technical background for creative and professional digital communication on several platforms. Students will examine basic elements of design through the use of print and web based programs including Illustrator, Photoshop, InDesign, Acrobat, Powerpoint, Word Press and Constant Contact. Students will explore the current potentials, limitations, and issues related to the use of computer software for design application.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST 105": {
+        "shortName": "WEST 105",
+        "fullName": "Deciding Design & Media",
+        "courseCredits": "3.0",
+        "courseDesc": "This course concentrates on the observation and exlploration of majors in Media Arts & Design as explored in the class offerings at Westphal College. Students will record personal observations and will use reflective writing to develop more informed impressions of disciplines.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST 107": {
+        "shortName": "WEST 107",
+        "fullName": "Maker Workshop",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is an introduction to making, the composing and decomposing of physical artifacts and digital technologies to suit a variety of purposes \u2013 from practical to whimsical. Students will learn to take things apart, explore tools and materials, and build wondrous, wild art that\u2019s part science and part technology.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST 210": {
+        "shortName": "WEST 210",
+        "fullName": "Innovative Problem Solving",
+        "courseCredits": "3.0",
+        "courseDesc": "A seminar course that examines different methods of problem solving and its role across disciplines. The intention is to give the student a basis with which interdisciplinary projects can be approached in an innovative way and problem solving can be examined from multiple viewpoints.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST 220": {
+        "shortName": "WEST 220",
+        "fullName": "Multimodal Research",
+        "courseCredits": "4.0",
+        "courseDesc": "This course will develop student\u2019s critical thinking skills through examining research and information gathering models. The topics around which students will gather, analyze and synthesize information include: Systems and the Environment, Community Interaction, Technology and Problem Solving.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST I199": {
+        "shortName": "WEST I199",
+        "fullName": "Independent Study in Westphal Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Provides individualized study in an area related to a major within the Antoinette Westphal College of Media Arts & Design.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST I299": {
+        "shortName": "WEST I299",
+        "fullName": "Independent Study in Westphal Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Provides individualized study in an area related to a major within the Antoinette Westphal College of Media Arts & Design.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST I399": {
+        "shortName": "WEST I399",
+        "fullName": "Independent Study in Westphal Studies",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Provides individualized study in an area related to a major within the Antoinette Westphal College of Media Arts & Design.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated 7 times for 84 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST I499": {
+        "shortName": "WEST I499",
+        "fullName": "Independent Study in Westphal Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Provides individualized study in an area related to a major within the Antoinette Westphal College of Media Arts & Design.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST T180": {
+        "shortName": "WEST T180",
+        "fullName": "Special Topics in WEST Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST T280": {
+        "shortName": "WEST T280",
+        "fullName": "Special Topics in WEST Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST T380": {
+        "shortName": "WEST T380",
+        "fullName": "Special Topics in WEST Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WEST T480": {
+        "shortName": "WEST T480",
+        "fullName": "Special Topics in Westphal Studies",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Antoinette Westphal College of Media Arts & Design",
+        "repeatStatus": "Can be repeated 7 times for 84 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

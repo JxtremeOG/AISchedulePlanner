@@ -1,0 +1,178 @@
+{
+    "CSDN 101": {
+        "shortName": "CSDN 101",
+        "fullName": "Introduction to Multi-Disciplinary Perspectives",
+        "courseCredits": "1.0",
+        "courseDesc": "Teaches Custom-Designed Major students perspectives of scholarly analysis. Students will be introduced to interdisciplinary approaches to thinking and different ways of communicating interdisciplinarity to a variety of audiences. This course will inform the process of blending knowledge from across fields in the social sciences and humanities, creative arts, science and engineering, and business.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 102": {
+        "shortName": "CSDN 102",
+        "fullName": "Knowledge by Design Seminar",
+        "courseCredits": "1.0",
+        "courseDesc": "Develops skills in designing curriculum paths at the University, designing research topic bibliographies, and developing original research questions and methodologies. The course culminates in the presentation of the student's course of study in the Custom-Designed Major Program.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CSDN 101 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 203": {
+        "shortName": "CSDN 203",
+        "fullName": "Custom-Designed Major Seminar",
+        "courseCredits": "1.0",
+        "courseDesc": "Brings Custom-Designed Major students at the sophomore, pre-junior, and junior years together to present and critique original work with their peers related to their individualized courses of study.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CSDN 102 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 210": {
+        "shortName": "CSDN 210",
+        "fullName": "Methods of Interdisciplinary Inquiry",
+        "courseCredits": "3.0",
+        "courseDesc": "This seminar course will examine the role that varying methods of inquiry play across disciplines and how those different methods can be applied to problem solving. The intention is to expose students to a broad array of research and problem solving methodologies, and to help them synthesize these approaches in innovative ways to address real world problems.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 220": {
+        "shortName": "CSDN 220",
+        "fullName": "Integrative Research Methods",
+        "courseCredits": "3.0",
+        "courseDesc": "This seminar course will help develop students\u2019 critical thinking and research skills through the examination of interdisciplinary research projects and the creation of their own research proposals. Students will explore how multiple disciplinary research methodologies are integrated and information is synthesized within and across interdisciplinary research. The course is designed so that students gain familiarity with the theory and application of interdisciplinary research. Students will develop an understanding and the means to assess the various stages of interdisciplinary research, including research question formulation, proposal development, integration of methods, and synthesis and analysis of information.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 304": {
+        "shortName": "CSDN 304",
+        "fullName": "Custom-Designed Major Proj I",
+        "courseCredits": "3.0",
+        "courseDesc": "Research project sequence for the Custom-Designed Major program.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated 2 times for 9 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 305": {
+        "shortName": "CSDN 305",
+        "fullName": "Custom-Designed Major Project II",
+        "courseCredits": "3.0",
+        "courseDesc": "Research project sequence for the Custom-Designed Major program.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated 2 times for 9 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN 306": {
+        "shortName": "CSDN 306",
+        "fullName": "Custom-Designed Major Project III",
+        "courseCredits": "3.0",
+        "courseDesc": "Research project sequence for the Custom-Designed Major program.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated 2 times for 9 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN I199": {
+        "shortName": "CSDN I199",
+        "fullName": "Independent Study in CSDN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN I299": {
+        "shortName": "CSDN I299",
+        "fullName": "Independent Study in CSDN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN I399": {
+        "shortName": "CSDN I399",
+        "fullName": "Independent Study in CSDN",
+        "courseCredits": "1.0-3.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated 2 times for 6 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN I499": {
+        "shortName": "CSDN I499",
+        "fullName": "Independent Study in CSDN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN T180": {
+        "shortName": "CSDN T180",
+        "fullName": "Special Topics in CSDN",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN T280": {
+        "shortName": "CSDN T280",
+        "fullName": "Special Topics in CSDN",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN T380": {
+        "shortName": "CSDN T380",
+        "fullName": "Special Topics in CSDN",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CSDN T480": {
+        "shortName": "CSDN T480",
+        "fullName": "Special Topics in CSDN",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "Pennoni Honors College",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

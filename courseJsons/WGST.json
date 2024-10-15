@@ -1,0 +1,222 @@
+{
+    "WGST 101": {
+        "shortName": "WGST 101",
+        "fullName": "Introduction to Women's and Gender Studies",
+        "courseCredits": "3.0",
+        "courseDesc": "Women's and Gender Studies is a field that takes as its themes the study of women and gender, utilizing multi-disciplinary approaches from fields such as history, psychology, philosophy, and sociology.WGST\u00a0101approaches the topics experientially and allows students to explore their own gender and sexuality as living identities.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 201": {
+        "shortName": "WGST 201",
+        "fullName": "Introduction to Feminisms",
+        "courseCredits": "3.0",
+        "courseDesc": "Feminisms are movements to understand and critique gender relations and gender oppression, and also attempts to construct positive visions of human freedom and ethical action in an unjust world. This course is an introduction to the history of feminisms. The major movements that make up feminism in the modern era, in both the U.S. and abroad, will be examined.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 220": {
+        "shortName": "WGST 220",
+        "fullName": "Writing on the Body",
+        "courseCredits": "3.0",
+        "courseDesc": "A study of the female body, since the publication of \"Our Bodies Ourselves\" to the present, dealing with such themes as the body as sexual object or reproductive womb, the body as social construct and the tyranny of the look, and related issues in politics, violence, sexism, fashion, peer-pressure, illness, age, etc.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 225": {
+        "shortName": "WGST 225",
+        "fullName": "Women & Human Rights Worldwide",
+        "courseCredits": "3.0",
+        "courseDesc": "Women's human rights emerged in the 1980 as a special area, distinct from existing human rights norms. They are intended to better defend women's rights throughout the world. This class will consider women\u2019s human rights in a global context, looking at all parts of the world. We will examine women's rights around various topics such as health, social position, exile, war, censorship, childhood, and work. Academic literature, fiction, and film will all contribute to an understanding of the topic.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 240": {
+        "shortName": "WGST 240",
+        "fullName": "Women and Society in a Global Context",
+        "courseCredits": "3.0",
+        "courseDesc": "Studies women in a global society with one major area covered during each offering. Offered each year to accommodate one major world area.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 2 times for 9 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 255": {
+        "shortName": "WGST 255",
+        "fullName": "Gender and Black Popular Culture",
+        "courseCredits": "3.0",
+        "courseDesc": "This course critically examines the media\u2019s role in the social construction of \u201cBlackness.\u201d Paying particular attention to images of race, culture and gender, this course examines representations of Black women and men in \u201cpopular culture\u201d (film, television, music, advertising, etc.).",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 260": {
+        "shortName": "WGST 260",
+        "fullName": "Gender and Judaism",
+        "courseCredits": "3.0",
+        "courseDesc": "An exploration of gender in Jewish religion and tradition. How has Judaism historically understood gender? Is Judaism a traditional or progressive religion where gender is concerned? What is the future of gender in Judaism?.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 275": {
+        "shortName": "WGST 275",
+        "fullName": "Women's Health and Human Rights",
+        "courseCredits": "3.0",
+        "courseDesc": "This course explores the relationships between women's health and human rights under political and socially constructed influences. Health and well being are intricately associated with fundamental rights. We will conduct a comprehensive overview of women's health by engaging in lectures, class discussions, readings, journaling, group work, interviews and in-class activities.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 301": {
+        "shortName": "WGST 301",
+        "fullName": "Sex, Gender, Feminism:  A Seminar in Feminist Theories",
+        "courseCredits": "3.0",
+        "courseDesc": "What does it mean to call oneself a feminist in the twenty-first century? This class explores the history of feminism from the perspective of sex and gender. In it, students ask and answer the question, \u201cWhat kind of feminist am I?\u201d.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 308": {
+        "shortName": "WGST 308",
+        "fullName": "Queer Theory",
+        "courseCredits": "3.0",
+        "courseDesc": "In an attempt to theorize the meaning of \"queer\" (and, in turn, its counterparts - \"normal\" and \"straight\") and to articulate what \"queer theory\" is/does, this course will examine major attempts to challenge the concept of \"normal\" and explicate the meaning and use of the concept \"queer\".",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 320": {
+        "shortName": "WGST 320",
+        "fullName": "Masculinities",
+        "courseCredits": "3.0",
+        "courseDesc": "An exploration of how masculinity is lived its multiple forms, traditional and alternative, in contemporary Western society. This course aims to arrive at a theory of masculinity \u2013 what does it mean to be \u201cmasculine\u201d?.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST 324": {
+        "shortName": "WGST 324",
+        "fullName": "Retail Intersections: Social & Cultural Issues",
+        "courseCredits": "3.0",
+        "courseDesc": "Those who participate in the business of fashion such as retailers, merchants, designers, manufacturers and stylists must evolve in order to sell to customers. Throughout their lives, students are exposed to retailing, merchandising, buying, design, sales, branding, promotions, manufacturing and other such fields. For those interested in the study of retailing, fashion and merchandising, it is essential to understand landmark research and theoretical concepts behind the influences of this field and how social change, innovations and with the evolution of a multicultural marketplace, shifts have occurred over generations, and into the 21st century. This conceptual and theoretical course will expose students to a diverse range of clients and consumers.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST I199": {
+        "shortName": "WGST I199",
+        "fullName": "Independent Study in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST I299": {
+        "shortName": "WGST I299",
+        "fullName": "Independent Study in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST I399": {
+        "shortName": "WGST I399",
+        "fullName": "Independent Study in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST I499": {
+        "shortName": "WGST I499",
+        "fullName": "Independent Study in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST T180": {
+        "shortName": "WGST T180",
+        "fullName": "Special Topics in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST T280": {
+        "shortName": "WGST T280",
+        "fullName": "Special Topics in Women's and Gender Studies",
+        "courseCredits": "1.0-6.0",
+        "courseDesc": "Gives students an opportunity to apply the interdisciplinary methodology of women's studies to a focused topic. Topics to be announced. May be repeated for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 3 times for 24 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST T380": {
+        "shortName": "WGST T380",
+        "fullName": "Special Topics in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "WGST T480": {
+        "shortName": "WGST T480",
+        "fullName": "Special Topics in Women's and Gender Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

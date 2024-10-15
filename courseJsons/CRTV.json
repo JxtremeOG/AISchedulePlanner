@@ -1,0 +1,112 @@
+{
+    "CRTV 300": {
+        "shortName": "CRTV 300",
+        "fullName": "Mind, Brain and Learning",
+        "courseCredits": "3.0",
+        "courseDesc": "This course focuses on current and emerging research related to the learning sciences and Mind, Brain, and Educations science. Neuromyths and evidence-based practices are explored. The course examines general neuroanatomy and processes associated with learning, memory, and emotion. Topics include neuroplasticity, brain imaging, differentiation, stress, and self-efficacy.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV 301": {
+        "shortName": "CRTV 301",
+        "fullName": "Foundations in Creativity",
+        "courseCredits": "3.0",
+        "courseDesc": "This course provides a foundation in creativity including leading creativity theorists and their ideas, and introduction to creativity in many fields. Students will explore basic creative characteristics including originality, fluency, flexibility, elaboration, resistance to premature closure, and tolerance of ambiguity. Sets the foundation for acquiring tools and applying creativity.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV 302": {
+        "shortName": "CRTV 302",
+        "fullName": "Tools and Techniques in Creativity",
+        "courseCredits": "3.0",
+        "courseDesc": "This hands-on course provides tools for enhancing creative strengths including role-play, simulation, brainstorming together with synectics, and creative problem solving. A second focus is the role of inspiration in how creativity, personal maturity, and spirituality inter-relate and how this interaction expands our repertoire of tools and techniques in creativity.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV 303": {
+        "shortName": "CRTV 303",
+        "fullName": "Creativity in the Workplace",
+        "courseCredits": "3.0",
+        "courseDesc": "This course focuses on how creative ideas happen and how they become innovations to reveal a set of principles for infusing creativity into every aspect of an organization. Examples from a wide range of settings demonstrate how to build systemic creativity at the individual, team, and leadership levels.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV 304": {
+        "shortName": "CRTV 304",
+        "fullName": "Neurodiversity in Education and Workforce",
+        "courseCredits": "3.0",
+        "courseDesc": "This course focuses on neurodiversity. The neurobiology of learning and memory is explored from the learning sciences and Mind, Brain, and Education science within the context of educational and work environments. The impact of practice, stress, and environment are examined in connection to neuroplasticity, memory, performance, and brain imaging. Students are engaged in peer-review and self-evaluation as they demonstrate technical and applied knowledge, creative critical-thinking, and communication skills through presentations and projects aligned neurodiversity and Universal Design for Learning across real-world contexts.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV 308": {
+        "shortName": "CRTV 308",
+        "fullName": "Neuropedagogy and Assessment",
+        "courseCredits": "3.0",
+        "courseDesc": "This course explores the connections between neuropedagogy, the learning sciences, and Mind, Brain, and Education science, and creative thinking. Evidence-based practices are examined including metacognition, Universal Design for Learning, spacing, interleaving, cognitive load, and feedback. Students are introduced to formative, interim, and summative assessment as well as technology platforms, tools, and applications that support mastery and transfer of learning. Students demonstrate their understanding of neuroplasticity, neuropedagogy, creative problem solving, and assessment through interactive real-world projects across educational and workforce environments.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV T180": {
+        "shortName": "CRTV T180",
+        "fullName": "Special Topics in Creativity Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV T280": {
+        "shortName": "CRTV T280",
+        "fullName": "Special Topics in Creativity Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV T380": {
+        "shortName": "CRTV T380",
+        "fullName": "Special Topics in Creativity Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CRTV T480": {
+        "shortName": "CRTV T480",
+        "fullName": "Special Topics in Creativity Studies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "School of Education",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

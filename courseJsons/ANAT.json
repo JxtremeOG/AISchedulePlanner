@@ -1,0 +1,13 @@
+{
+    "ANAT 202": {
+        "shortName": "ANAT 202",
+        "fullName": "Sectional Anatomy",
+        "courseCredits": "3.0",
+        "courseDesc": "This course reviews human anatomy of the head, neck, thorax, abdomen, pelvis and extremities. Relationships of surface and internal structures from different bodily systems are emphasized. The analysis is supported by anatomical illustrations, radiological images, and cadaver photographs.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "JAPN 101": {
+        "shortName": "JAPN 101",
+        "fullName": "Japanese I",
+        "courseCredits": "4.0",
+        "courseDesc": "Introductory Japanese. Includes listening, speaking, reading, and writing.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "APJX N",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 102": {
+        "shortName": "JAPN 102",
+        "fullName": "Japanese II",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesJAPN\u00a0101.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "JAPN 101 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 103": {
+        "shortName": "JAPN 103",
+        "fullName": "Japanese III",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesJAPN\u00a0102.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "JAPN 102 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 201": {
+        "shortName": "JAPN 201",
+        "fullName": "Japanese IV",
+        "courseCredits": "4.0",
+        "courseDesc": "This courses includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds on Japanese 103.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "JAPN 103 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 202": {
+        "shortName": "JAPN 202",
+        "fullName": "Japanese V",
+        "courseCredits": "4.0",
+        "courseDesc": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onJAPN\u00a0201.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "JAPN 201 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 310": {
+        "shortName": "JAPN 310",
+        "fullName": "Advanced Writing and Speaking",
+        "courseCredits": "4.0",
+        "courseDesc": "Provides advanced practice in written and oral communication, including journalistic, professional, and creative writing. Examines contemporary cultural contexts through media and news. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "JAPN 202 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 320": {
+        "shortName": "JAPN 320",
+        "fullName": "Introduction to Language for the Professions",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduction to communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 340": {
+        "shortName": "JAPN 340",
+        "fullName": "Introduction to Power and Resistance",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduction to the analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 350": {
+        "shortName": "JAPN 350",
+        "fullName": "Introduction to Language, Media, and Society",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduction to the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 410": {
+        "shortName": "JAPN 410",
+        "fullName": "Advanced Grammar and Translation",
+        "courseCredits": "4.0",
+        "courseDesc": "Provides advanced grammar instruction and fosters translation and communication skills within a contemporary cultural context. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 420": {
+        "shortName": "JAPN 420",
+        "fullName": "Advanced Studies in Language for the Professions",
+        "courseCredits": "4.0",
+        "courseDesc": "Advanced communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 440": {
+        "shortName": "JAPN 440",
+        "fullName": "Advanced Studies in Power and Resistance",
+        "courseCredits": "4.0",
+        "courseDesc": "Advanced analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN 450": {
+        "shortName": "JAPN 450",
+        "fullName": "Advanced Studies in Language, Media, and Society",
+        "courseCredits": "4.0",
+        "courseDesc": "Advanced analysis of the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Japanese.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 36 credits",
+        "prereqs": "JAPN 310 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN I199": {
+        "shortName": "JAPN I199",
+        "fullName": "Independent Study in JAPN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN I299": {
+        "shortName": "JAPN I299",
+        "fullName": "Independent Study in JAPN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN I399": {
+        "shortName": "JAPN I399",
+        "fullName": "Independent Study in JAPN",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN I499": {
+        "shortName": "JAPN I499",
+        "fullName": "Independent Study in JAPN",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN T180": {
+        "shortName": "JAPN T180",
+        "fullName": "Special Topics in Japanese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN T280": {
+        "shortName": "JAPN T280",
+        "fullName": "Special Topics in Japanese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN T380": {
+        "shortName": "JAPN T380",
+        "fullName": "Special Topics in Japanese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "JAPN T480": {
+        "shortName": "JAPN T480",
+        "fullName": "Special Topics in Japanese",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

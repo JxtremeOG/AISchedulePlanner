@@ -1,0 +1,24 @@
+{
+    "RELS T280": {
+        "shortName": "RELS T280",
+        "fullName": "Special Topics in Religious Studies",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study. May be repeated for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 108 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "RELS T380": {
+        "shortName": "RELS T380",
+        "fullName": "Special Topics in Religious Studies",
+        "courseCredits": "1.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study. May be repeated for credit.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 108 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

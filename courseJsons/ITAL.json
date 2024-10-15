@@ -1,0 +1,145 @@
+{
+    "ITAL 101": {
+        "shortName": "ITAL 101",
+        "fullName": "Italian I",
+        "courseCredits": "4.0",
+        "courseDesc": "Introductory Italian. Includes listening, speaking, reading, and writing.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL 102": {
+        "shortName": "ITAL 102",
+        "fullName": "Italian II",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesITAL\u00a0101.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ITAL 101 [Min Grade D] or APWIT 151",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL 103": {
+        "shortName": "ITAL 103",
+        "fullName": "Italian III",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesITAL\u00a0102.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ITAL 102 [Min Grade D] or APWIT 251",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL 201": {
+        "shortName": "ITAL 201",
+        "fullName": "Italian IV",
+        "courseCredits": "4.0",
+        "courseDesc": "Intermediate Italian. Includes grammar review, listening, speaking, and reading. Recommended for students who wish to attain oral competence based on standard usage.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ITAL 103 [Min Grade D] or APWIT 400",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL 202": {
+        "shortName": "ITAL 202",
+        "fullName": "Italian V",
+        "courseCredits": "4.0",
+        "courseDesc": "ContinuesITAL\u00a0201.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "ITAL 201 [Min Grade D] or APWIT 600",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL I199": {
+        "shortName": "ITAL I199",
+        "fullName": "Independent Study in ITAL",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL I299": {
+        "shortName": "ITAL I299",
+        "fullName": "Independent Study in ITAL",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL I399": {
+        "shortName": "ITAL I399",
+        "fullName": "Independent Study in ITAL",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL I499": {
+        "shortName": "ITAL I499",
+        "fullName": "Independent Study in ITAL",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL T180": {
+        "shortName": "ITAL T180",
+        "fullName": "Special Topics in Italian",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL T280": {
+        "shortName": "ITAL T280",
+        "fullName": "Special Topics in Italian",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL T380": {
+        "shortName": "ITAL T380",
+        "fullName": "Special Topics in Italian",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "ITAL T480": {
+        "shortName": "ITAL T480",
+        "fullName": "Special Topics in Italian",
+        "courseCredits": "0.5-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated 8 times for 96 credits",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

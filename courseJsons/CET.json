@@ -1,0 +1,112 @@
+{
+    "CET 201": {
+        "shortName": "CET 201",
+        "fullName": "Microcomputer Hardware",
+        "courseCredits": "3.0",
+        "courseDesc": "This course introduces students to the fundamentals of microcomputer hardware. Students learn the functionality of all components of modern desktop computers, as well as how to specify, build, reconfigure, upgrade, troubleshoot and repair them. The course prepares students for the hardware portion of the CompTIA A+ industry certification.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 301": {
+        "shortName": "CET 301",
+        "fullName": "Advanced Digital Electronics",
+        "courseCredits": "4.0",
+        "courseDesc": "This course introduces students to more advanced topics in Digital Design, including State Machine-based design, switching hazards, glitches, and race conditions. The course includes a term project, to be developed in Verilog on a Spartan3 FPGA dev board. Emphasis is placed on hands-on laboratory exercises and construction of the course project.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "EET 205 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 303": {
+        "shortName": "CET 303",
+        "fullName": "Computer Architecture with Verilog HDL",
+        "courseCredits": "4.0",
+        "courseDesc": "This course introduces students to the fundamentals of what goes into the design and testing of a microprocessor core. Through a series of homework assignments and labs, students specify, design, implement, and test a simple IP core RISC microprocessor. The IP core processor is designed by the students using Verilog HDL (and optionally schematic capture), and implemented on a Spartan3 FPGA.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CET 301 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 401": {
+        "shortName": "CET 401",
+        "fullName": "Real-Time Operating Systems",
+        "courseCredits": "4.0",
+        "courseDesc": "Students are introduced to Real-Time Operating Systems (RTOSes). In the laboratory component of the course, students deploy, use, and test various RTOS installations in order to become familiar with their use, advantages, and disadvantages. Students are introduced to the idea of soft, firm, and hard real-time systems, and are shown concrete examples of each type. As a course project, students design, implement, and test a \"hard\" real-time operating system.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 172 [Min Grade D] and EET 401 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 402": {
+        "shortName": "CET 402",
+        "fullName": "Applied Embedded Systems",
+        "courseCredits": "4.0",
+        "courseDesc": "The course introduces students to Programmable System on Chip (PSoC) devices and their applications in embedded systems. Students will learn to combine programs for the ARM microcontroller portion of the PSoC with analog component configurations to design and develop uniquely capable devices.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "EET 202 [Min Grade D] and EET 205 [Min Grade D] and CET 301 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 403": {
+        "shortName": "CET 403",
+        "fullName": "Computer Networking Technologies",
+        "courseCredits": "4.0",
+        "courseDesc": "This course introduces students to the fundamentals of computer networking, with an emphasis on TCP/IP networking and various intra-device networking technologies such as I2C and SPI. Students will gain hands-on experience in using these networking technologies by completing laboratory exercises.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CET 301 [Min Grade D] and EET 208 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 405": {
+        "shortName": "CET 405",
+        "fullName": "Electronic Device Design",
+        "courseCredits": "4.0",
+        "courseDesc": "Introduces students to techniques for designing, developing, prototyping, and testing electronic devices, with an emphasis on programmable systems. Students develop functional devices using microcontrollers and/or FPGAs, depending on device requirements.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CS 172 [Min Grade D] and CET 303 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 421": {
+        "shortName": "CET 421",
+        "fullName": "Senior Design Project I",
+        "courseCredits": "3.0",
+        "courseDesc": "This is the first of a three course sequence, Senior Design Project. It aims to train the students in identifying projects of relevance to the society, in planning and scheduling a solution, and in entrepreneurial activities that may result from the project. It is also intended to cover an industrial project starting from the proposal writing and conceptual design to final steps. This course is focused on proposal writing.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 422": {
+        "shortName": "CET 422",
+        "fullName": "Senior Design Project II",
+        "courseCredits": "3.0",
+        "courseDesc": "This course is the second course of a three-quarter course sequence. It aims to train the students in maintaining the progress of a project on schedule, including resolving any team conflicts. It also trains them how to prepare oral, and submit written progress reports. The students supply summary reports to his/her advisor. This course is focused on following standard design steps from the conceptual to final design.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CET 421 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CET 423": {
+        "shortName": "CET 423",
+        "fullName": "Senior Design Project III",
+        "courseCredits": "3.0",
+        "courseDesc": "This is the final installment of a three course sequence. The course objective is to train students to execute a project from initial conceptual design to the preliminary and the final design completion, how to conduct design reviews, and how to document and present the findings, design concepts, and conclusions, in both oral and written formats. Students are also required to build a working prototype of their final design concept and present it during final presentation of the project.",
+        "courseDepartment": "College of Engineering",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "CET 422 [Min Grade D]",
+        "coreqs": null,
+        "restrictions": null
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "CHEC 352": {
+        "shortName": "CHEC 352",
+        "fullName": "Physical Chemistry and Applications II",
+        "courseCredits": "4.0",
+        "courseDesc": "Equilibrium electrochemistry and transport; Covers electrochemical cells, Nernst equation, fuel cells, batteries, electrolytic solutions, transfer processes, Fick's laws, diffusion, ion transport, introduction to simple quantum mechanical systems.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PHYS 201 [Min Grade D] and (CHE 206 [Min Grade D] or ENGR 210 [Min Grade D] or CHEM 253 [Min Grade D])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC 353": {
+        "shortName": "CHEC 353",
+        "fullName": "Physical Chemistry and Applications III",
+        "courseCredits": "4.0",
+        "courseDesc": "Kinetics and spectroscopy; Covers reaction kinetics, steady state approximation, chain reactions and unimolecular reactions, optical spectroscopy; Beer's Law, atomic spectra/simple atomic models, rotational and vibrational spectra, Raman spectra, term symbols and selection rules, lasers, molecular statistics, partition functions.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": "PHYS 102 [Min Grade D] and (CHE 230 [Min Grade D] or ENGR 210 [Min Grade D])",
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC I199": {
+        "shortName": "CHEC I199",
+        "fullName": "Independent Study in CHEC",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC I299": {
+        "shortName": "CHEC I299",
+        "fullName": "Independent Study in CHEC",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC I399": {
+        "shortName": "CHEC I399",
+        "fullName": "Independent Study in CHEC",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC I499": {
+        "shortName": "CHEC I499",
+        "fullName": "Independent Study in CHEC",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC T180": {
+        "shortName": "CHEC T180",
+        "fullName": "Special Topics in Chemical Engineering Chemistry",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC T280": {
+        "shortName": "CHEC T280",
+        "fullName": "Special Topics in Chemical Engineering Chemistry",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC T380": {
+        "shortName": "CHEC T380",
+        "fullName": "Special Topics in Chemical Engineering Chemistry",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CHEC T480": {
+        "shortName": "CHEC T480",
+        "fullName": "Special Topics in Chemical Engineering Chemistry",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Arts and Sciences",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}

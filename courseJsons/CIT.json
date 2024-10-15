@@ -1,0 +1,68 @@
+{
+    "CIT 338": {
+        "shortName": "CIT 338",
+        "fullName": "Introduction to Complementary & Integrative Health",
+        "courseCredits": "3.0",
+        "courseDesc": "This course provides an introduction to the underpinning philosophy, and practice of complementary and integrative health (CIH). It presents an evidence-based review of the major categories including: phytomedicine, clinical aromatherapy, mind-body interventions, and the role of spirituality in health and healing. In addition, students explore effective relaxation techniques that help to integrate the mind-body-spirit connection, which support health and well-being.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIT 345": {
+        "shortName": "CIT 345",
+        "fullName": "Holistic Self-Care",
+        "courseCredits": "3.0",
+        "courseDesc": "Holistic Self-Care provides students with an A-Z approach to \"living\" a holistic, balanced life, complete with step-by-step guidelines necessary to incorporate dietary and lifestyle changes and effective stress reduction and stress management techniques to assist in navigating through the common challenges associated with student life and beyond. Students will be required to purchase a \"Holistic Student Stress Reduction Kit\", complete with specific essential oils, Meditation DVD, and guided stress reduction techniques.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIT I399": {
+        "shortName": "CIT I399",
+        "fullName": "Independent Study in Complementary & Integrative Therapies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed course within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIT I499": {
+        "shortName": "CIT I499",
+        "fullName": "Independent Study in Complementary & Integrative Therapies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Self-directed course within the area of study requiring intermittent consultation with a designated instructor.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIT T380": {
+        "shortName": "CIT T380",
+        "fullName": "Special Topics in Complementary & Integrative Therapies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    },
+    "CIT T480": {
+        "shortName": "CIT T480",
+        "fullName": "Special Topics in Complementary & Integrative Therapies",
+        "courseCredits": "0.0-12.0",
+        "courseDesc": "Topics decided upon by faculty will vary within the area of study.",
+        "courseDepartment": "College of Nursing & Health Professions",
+        "repeatStatus": "Can be repeated multiple times for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null
+    }
+}
