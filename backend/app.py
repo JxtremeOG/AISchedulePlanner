@@ -33,7 +33,7 @@ def courseInfo():
     #Checking course validity
     preRecTree = PrereqTree(courseObject, mainSchedule)
     preRecTree.generateTree()
-    courseValidity =  preRecTree.isValidMaxHeap()
+    courseValidity = preRecTree.root.areChildrenValid()
     
     return jsonify({
         'validity': courseValidity
@@ -46,7 +46,8 @@ def getCourseStatus():
     
     preRecTree = PrereqTree(Scheduler.createCourseFromShortName(courseShortName), mainSchedule)
     preRecTree.generateTree()
-    courseValidity =  preRecTree.isValidMaxHeap()
+    courseValidity =  preRecTree.root.areChildrenValid()
+    
     
     return jsonify({
         'validity': courseValidity

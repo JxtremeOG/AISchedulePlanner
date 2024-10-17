@@ -13,6 +13,14 @@ class PrereqNode:
     def addChild(self, node):
         self.children.append(node)
         
+    def areChildrenValid(self):
+        for child in self.children:
+            if child is None:
+                return True
+            if child.getTerm() >= self.getTerm() or child.getTerm() == -1:
+                return False
+        return True
+        
     def getTerm(self):
         # If the current node is an "or" operator, return the max term from its children
         if self.value == "or":
@@ -28,11 +36,7 @@ class PrereqNode:
                 return -1
             return max(termList)
 
-        # If the current node is a course, return its own term
-        if len(self.children) == 0: 
-            return self.term
-        
-        return min(min(child.getTerm() for child in (self.children)), (self.term)) if min(min(child.getTerm() for child in (self.children)), (self.term)) == -1 else max(max(child.getTerm() for child in (self.children)), (self.term))
+        return self.term
         
         
 class PrereqTree:
@@ -40,14 +44,6 @@ class PrereqTree:
         self.root = PrereqNode(courseGen, schedule)
         self.nodeList = {}
         self.schedule = schedule
-        
-    #Splits all prereqs
-    # def splitPrereqString(self, prereqStr):
-    #     # Regular expression to match course codes, 'and', 'or', and parenthesized groups
-    #     pattern = r'([A-Z]+\s\d+|\band\b|\bor\b|\(.*?\))'
-    #     # Use findall to get all matching parts
-    #     matches = re.findall(pattern, prereqStr)
-    #     return matches
     
     def removeSurroundingParentheses(self, prereqStr):
         # Check if the string starts and ends with parentheses and contains valid content inside
@@ -131,16 +127,21 @@ class PrereqTree:
             if child is not None:
                 self.printTree(child)
     
-    def isValidMaxHeap(self):
-        if self.root.children[0] is None:
-            return True
-        minTerm = min(child.getTerm() for child in self.root.children)
-        if minTerm == -1:
-            return False
-        maxTerm = max(child.getTerm() for child in self.root.children)
-        if self.root.term <= maxTerm or maxTerm == -1:
-            return False
-        return True
+    # def isValidTree(self):
+    #     # Base case: if the node is None, it's considered valid
+    #     if self.root is None:
+    #         return True
+        
+    #     # Check if the current node's children are valid
+    #         return False
+        
+    #     # Recursively check if all children (and their subtrees) are valid
+    #     for child in root.children:
+    #         if not isValidTree(child):
+    #             return False
+        
+    #     # If all children are valid, the whole tree is valid
+    #     return True
     
 if __name__ == "__main__":
     #CS 342 MUST BE LOOKED AT
@@ -151,23 +152,16 @@ if __name__ == "__main__":
     
     #CS 303 CS 281 CS 429
     #CS 375
-    createdCourse = Scheduler.createCourseFromShortName("CS 342")
-    mainSchedule.addCourseToTerm(createdCourse, 4)
-    # createdCourse = Scheduler.createCourseFromShortName("CS 172")
-    # mainSchedule.addCourseToTerm(createdCourse, 5)
-    # createdCourse = Scheduler.createCourseFromShortName("CS 270")
-    # mainSchedule.addCourseToTerm(createdCourse, 6)
-    # createdCourse = Scheduler.createCourseFromShortName("CS 281")
-    # mainSchedule.addCourseToTerm(createdCourse, 7)
-    prereqs = createdCourse.cleanPrerec()
-    print(prereqs)
+    # createdCourse = Scheduler.createCourseFromShortName("CS 171")
+    # mainSchedule.addCourseToTerm(createdCourse, 1)
+    createdCourse = Scheduler.createCourseFromShortName("CS 172")
+    mainSchedule.addCourseToTerm(createdCourse, 2)
+    # createdCourse = Scheduler.createCourseFromShortName("CS 265")
+    # mainSchedule.addCourseToTerm(createdCourse, 3)
     mainTree = PrereqTree(createdCourse, mainSchedule)
-    print(mainTree.splitPrereqString(prereqs))
-    print("\n\n\n")
-    
     mainTree.generateTree()
     
-    print(mainTree.isValidMaxHeap())
+    print(mainTree.root.areChildrenValid())
     
     # print("Tree:")
     # mainTree.printTree()
