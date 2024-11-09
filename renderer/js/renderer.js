@@ -128,7 +128,8 @@ function createTerms(selectedProgram, selectedTerm, selectedYear) {
     const terms = [];
 
     // Determine how many terms to generate based on the selected program (4 years or 5 years)
-    const totalTerms = selectedProgram === "FourYear" ? 16 : 20;
+    var totalTerms = selectedProgram === "FourYear" ? 16 : 20;
+    totalTerms+=1;
 
     // Generate the terms starting from the selected term and year
     let currentYear = selectedYear;
@@ -137,6 +138,9 @@ function createTerms(selectedProgram, selectedTerm, selectedYear) {
         const termLabel = termLabels[startTermIndex];
 
         // Push the generated term to the terms array with a default credit value
+        if (i === 0) {
+            terms.push({ title: `${"Pre College"}<br>${parseInt(currentYear) - 1}`, credits: '0.0 / 20.0' });
+        }
         terms.push({ title: `${termLabel}<br>${currentYear}`, credits: '0.0 / 20.0' });
 
         // Increment the term index and handle wrapping around the terms
