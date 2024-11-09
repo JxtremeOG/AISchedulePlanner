@@ -27,7 +27,9 @@ class PrereqNode:
             termList = list(child.getTerm() for child in self.children)
             if all(element == -1 for element in termList):
                 return -1
-            return max(termList)
+            if any(element == -1 for element in termList):
+                return max(termList)
+            return min(termList)
 
         # If the current node is an "and" operator, return the min term from its children
         if self.value == "and":
@@ -127,21 +129,22 @@ class PrereqTree:
             if child is not None:
                 self.printTree(child)
     
-    # def isValidTree(self):
-    #     # Base case: if the node is None, it's considered valid
-    #     if self.root is None:
-    #         return True
+    def isValidNode(self, node: PrereqNode):
+        if not node.isOperator:
+            if node.term == -1:
+                return False
+            if len(node.children) == 0 or node.children[0] == None:
+                return True
+            childTerm = node.children[0].getTerm()
+            if childTerm != -1 and node.term > childTerm:
+                return self.isValidNode(node.children[0])
+            return False
+        if node.value == "or":
+            return self.isValidNode(node.children[0]) or self.isValidNode(node.children[1])
+        if node.value == "and":
+            return self.isValidNode(node.children[0]) and self.isValidNode(node.children[1])
         
-    #     # Check if the current node's children are valid
-    #         return False
         
-    #     # Recursively check if all children (and their subtrees) are valid
-    #     for child in root.children:
-    #         if not isValidTree(child):
-    #             return False
-        
-    #     # If all children are valid, the whole tree is valid
-    #     return True
     
 if __name__ == "__main__":
     #CS 342 MUST BE LOOKED AT
@@ -152,16 +155,18 @@ if __name__ == "__main__":
     
     #CS 303 CS 281 CS 429
     #CS 375
-    # createdCourse = Scheduler.createCourseFromShortName("CS 171")
+    # createdCourse = Scheduler.createCourseFromShortName("CS 175")
     # mainSchedule.addCourseToTerm(createdCourse, 1)
-    createdCourse = Scheduler.createCourseFromShortName("CS 172")
+    createdCourse = Scheduler.createCourseFromShortName("CS 270")
     mainSchedule.addCourseToTerm(createdCourse, 2)
-    # createdCourse = Scheduler.createCourseFromShortName("CS 265")
-    # mainSchedule.addCourseToTerm(createdCourse, 3)
+    createdCourse = Scheduler.createCourseFromShortName("CS 260")
+    mainSchedule.addCourseToTerm(createdCourse, 2)
+    createdCourse = Scheduler.createCourseFromShortName("CS 380")
+    mainSchedule.addCourseToTerm(createdCourse, 3)
     mainTree = PrereqTree(createdCourse, mainSchedule)
     mainTree.generateTree()
     
-    print(mainTree.root.areChildrenValid())
+    print(mainTree.isValidNode(mainTree.root))
     
     # print("Tree:")
     # mainTree.printTree()

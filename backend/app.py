@@ -28,15 +28,16 @@ def courseInfo():
     if oldTerm != -1:
         mainSchedule.courses[courseShortName] = courseObject
         mainSchedule.removeCourseFromTerm(courseObject, oldTerm)
-    mainSchedule.addCourseToTerm(courseObject, courseTerm-1)
+    mainSchedule.addCourseToTerm(courseObject, courseTerm)
     
     #Checking course validity
     preRecTree = PrereqTree(courseObject, mainSchedule)
     preRecTree.generateTree()
-    courseValidity = preRecTree.root.areChildrenValid()
+    courseValidity = preRecTree.isValidNode(preRecTree.root)
     
     return jsonify({
-        'validity': courseValidity
+        'validity': courseValidity,
+        'oldTerm': courseTerm
     })
     
 @app.route('/courseStatus', methods=['POST'])
@@ -46,12 +47,37 @@ def getCourseStatus():
     
     preRecTree = PrereqTree(Scheduler.createCourseFromShortName(courseShortName), mainSchedule)
     preRecTree.generateTree()
-    courseValidity =  preRecTree.root.areChildrenValid()
+    courseValidity =  preRecTree.isValidNode(preRecTree.root)
     
     
     return jsonify({
-        'validity': courseValidity
+        'validity': courseValidity,
+        'courseList': [course.shortName for course in mainSchedule.courses.values()]
     })
-
+    
+@app.route('/removeCourse', methods=['POST'])
+def removeCourseFromSchedule():
+    data = request.get_json()  # This will retrieve the JSON sent by axios
+    courseShortName = data.get('courseName')  # Extract the 'message' field from the 
+    
+    courseObject = Scheduler.createCourseFromShortName(courseShortName)
+    oldTerm = mainSchedule.findCourseTermIndex(courseObject)
+    mainSchedule.removeCourseFromTerm(courseObject, oldTerm)
+    
+    return jsonify({
+        'validity': True
+    })
+    
+@app.route('/courseDetails', methods=['POST'])
+def getCourseDetails():
+    data = request.get_json()  # This will retrieve the JSON sent by axios
+    courseShortName = data.get('courseName')  # Extract the 'message' field from the 
+    
+    courseObject = Scheduler.createCourseFromShortName(courseShortName)
+    
+    return jsonify({
+        'courseInfo': courseObject.toDict()
+    })
+    
 if __name__ == '__main__':
     socketio.run(app, port=5000, allow_unsafe_werkzeug=True)

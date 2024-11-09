@@ -29,6 +29,67 @@ body {
   overflow: hidden;
 }
 
+/* Style for the modal (popup) */
+.modal {
+  display: block; /* Default: make it visible on page load */
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Dark overlay */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: var(--secondary-bg-color);
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  position: relative;
+}
+
+.modal h2 {
+  margin-top: 0;
+}
+
+.modal select,
+.modal input[type="number"],
+.modal button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+input[type="number"] {
+  width: 100%; /* Make it responsive to its parent width */
+  padding: 10px;
+  margin-top: 10px;
+  box-sizing: border-box; /* Make sure padding and borders are included in the width */
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.modal button {
+  background-color: var(--accent-color);
+  color: white;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background-color: var(--hover-color);
+}
+
+/* Disable clicking outside the modal */
+body.modal-open {
+  overflow: hidden; /* Prevent scrolling */
+}
+
 .heading-buttons {
   display: flex;
   gap: 10px; /* Adjust the gap between the buttons */
@@ -163,16 +224,6 @@ body {
 }
 
 .delete-zone {
-  /* width: 100%;
-  padding: 10px;
-  font-size: 16px;
-  height: 100%;
-  border-radius: 8px;
-  border: none;
-  outline: none;
-  background-color: var(--tertiary-bg-color);
-  color: var(--primary-text-color); */
-
   width: 100%;
   height: 20vh;
   color: white;
@@ -355,3 +406,100 @@ body {
 #search-results::-webkit-scrollbar-thumb:hover {
   background-color: var(--hover-color);
 }
+
+.course-dialog {
+  width: 400px;
+  height: 400px;
+  padding: 1rem; /* Adjusted padding */
+  background: var(--secondary-bg-color); /* Use any color for testing */
+  border-radius: 0.5rem;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.dialog-content {
+  display: grid;
+  grid-template-areas: 
+    "course-info course-status"
+    "description description"
+    "prereqs prereqs"
+    "coreqs coreqs";
+  grid-template-columns: 5fr 5fr; /* Adjusted to fit status icon */
+  grid-template-rows: auto auto auto auto;
+  grid-gap: 10px;
+}
+
+.dialog-content .course-info {
+  grid-area: course-info;
+  display: flex;
+  flex-direction: column; /* Stack course-name and short-name vertically */
+  padding-left: 10px;
+}
+
+/* Style for course name */
+.dialog-content .course-name {
+  font-size: 24px; /* Larger for title */
+  color: #fff;
+  margin: 0;
+}
+
+/* Style for short name */
+.dialog-content .short-name {
+  font-size: 18px;
+  color: #fff;
+  margin: 0;
+  padding-top: 5px; /* Optional: add space between name and short name */
+}
+
+.dialog-content .course-desc {
+  grid-area: description;
+  font-size: 12px;
+  color: #fff;
+  padding: 10px;
+}
+
+.dialog-content .course-prereqs  {
+  grid-area: prereqs;
+  font-size: 12px;
+  color: #fff;
+  padding: 10px;
+}
+
+.dialog-content .course-coreqs  {
+  grid-area: coreqs;
+  font-size: 12px;
+  color: #fff;
+  padding: 10px;
+}
+
+.course-status {
+  max-height: 100px;
+  grid-area: course-status;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 16vh;
+}
+
+/* .status-icon {
+  font-size: 32px;
+  margin-top: 10px;
+} */
+
+
+
+/* .modal h2 {
+  margin-top: 0;
+}
+
+.modal select,
+.modal input[type="number"],
+.modal button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+} */

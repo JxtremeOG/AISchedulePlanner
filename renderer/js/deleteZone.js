@@ -18,6 +18,7 @@ deleteZone.addEventListener('drop', (event) => {
   const draggedItem = document.querySelector('.is-dragging'); // Get the dragged item
   
   if (draggedItem) {
+    removeCourse(draggedItem.querySelector('.course-name').textContent)
     draggedItem.remove(); // Remove the item from the DOM
     console.log('Item deleted:', draggedItem);
   }

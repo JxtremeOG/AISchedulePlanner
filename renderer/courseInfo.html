@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Information</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="title-bar">
+            <div class="title">J.A.R.V.I.S</div>
+        </div>
+        <div class="title-bar-buttons">
+            <button id="minimize-button" class="top-button minimize-button">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" fill="white" width="10" height="10">
+                    <rect x="1" y="4.5" width="8" height="1"/>
+                </svg>
+            </button>
+            <button id="maximize-button" class="top-button maximize-button">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" fill="white" width="10" height="10">
+                    <rect x="1" y="1" width="8" height="8" fill="none" stroke="white" stroke-width="1"/>
+                </svg>
+            </button>
+            <button id="close-button" class="top-button close-button">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" fill="white" width="10" height="10">
+                    <line x1="1" y1="1" x2="9" y2="9" stroke="white" stroke-width="1"/>
+                    <line x1="1" y1="9" x2="9" y2="1" stroke="white" stroke-width="1"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+    
+    <h2 id="course-name"></h2>
+    <p><strong>Credits:</strong> <span id="course-credits"></span></p>
+    <!-- You can add more information here as needed -->
+    
+    <script>
+        const { ipcRenderer } = require('electron');
+
+        // Listen for the course data being sent from the main window
+        ipcRenderer.on('course-data', (event, courseData) => {
+            document.getElementById('course-name').textContent = courseData.shortName;
+            document.getElementById('course-credits').textContent = courseData.credits;
+            // Populate other fields with courseData as needed
+        });
+    </script>
+</body>
+</html>

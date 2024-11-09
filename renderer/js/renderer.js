@@ -19,9 +19,30 @@ document.getElementById('close-button').addEventListener('click', () => {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    createTerms();
-    // createCourseCards();
-    attachDragEvents();
+    // Get the modal and button
+    const modal = document.getElementById('myModal');
+    const submitButton = document.getElementById('submit-button');
+    
+    // Function to handle submit
+    submitButton.addEventListener('click', function () {
+        const selectedProgram = document.getElementById('program-dropdown').value;
+        const selectedTerm = document.getElementById('term-dropdown').value;
+        const selectedDate = document.getElementById('start-date').value;
+
+        if (selectedDate) {
+            // You can perform an action here with the selected values
+            console.log('Term:', selectedProgram);
+            console.log('Start Date:', selectedDate);
+
+            // Close the modal
+            modal.style.display = 'none';
+            document.body.classList.remove('modal-open');
+            createTerms(selectedProgram, selectedTerm, selectedDate);
+            attachDragEvents();
+        } else {
+            alert('Please select a date.');
+        }
+    });
 });
 
 socket.on('connect', () => {
@@ -34,6 +55,19 @@ socket.on('connect', () => {
             console.error('Error starting conversation:', error);
         });
 });
+
+async function requestCourseDetails(courseName) {
+    console.log('Requesting Course information on:', courseName);
+    try {
+        // Wait for the response from axios
+        const response = await axios.post('http://127.0.0.1:5000/courseDetails', { courseName });
+        console.log('Response from backend:', response.data);
+        return response.data; // Return the actual response data
+    } catch (error) {
+        console.error('Error sending message to backend:', error);
+        return null; // Return null or handle the error appropriately
+    }
+}
 
 async function requestCourseInformation(courseName, termNumber) {
     console.log('Requesting Course information on:', courseName);
@@ -61,6 +95,19 @@ async function getCourseStatus(courseName) {
     }
 }
 
+async function removeCourse(courseName) {
+    console.log('Requesting Course information on:', courseName);
+    try {
+        // Wait for the response from axios
+        const response = await axios.post('http://127.0.0.1:5000/removeCourse', { courseName });
+        console.log('Response from backend:', response.data);
+        return response.data; // Return the actual response data
+    } catch (error) {
+        console.error('Error sending message to backend:', error);
+        return null; // Return null or handle the error appropriately
+    }
+}
+
 
 const courseCardTemplate = document.getElementById('course-card-template').content
 
@@ -68,25 +115,48 @@ const courseCardTemplate = document.getElementById('course-card-template').conte
 const termTemplate = document.getElementById('term-template').content;
 
 // Function to generate terms dynamically
-function createTerms() {
+function createTerms(selectedProgram, selectedTerm, selectedYear) {
     const container = document.getElementById('terms-container'); // Get the container for terms
+    
+     // Define the term labels in order
+    const termLabels = ["Winter", "Spring", "Summer", "Fall"];
 
-    const terms = [
-        { title: 'Fall 2024', credits: '12.0 / 20.0' },
-        { title: 'Winter 2024', credits: '10.0 / 20.0' },
-        { title: 'Spring 2025', credits: '14.0 / 20.0' },
-        // You can add more dynamic or static term information here
-    ];
+    // Determine the starting term index based on the selected term
+    let startTermIndex = termLabels.indexOf(selectedTerm);
+
+    // Initialize an array to store the generated terms
+    const terms = [];
+
+    // Determine how many terms to generate based on the selected program (4 years or 5 years)
+    const totalTerms = selectedProgram === "FourYear" ? 16 : 20;
+
+    // Generate the terms starting from the selected term and year
+    let currentYear = selectedYear;
+    for (let i = 0; i < totalTerms; i++) {
+        // Get the term label based on the start term index
+        const termLabel = termLabels[startTermIndex];
+
+        // Push the generated term to the terms array with a default credit value
+        terms.push({ title: `${termLabel}<br>${currentYear}`, credits: '0.0 / 20.0' });
+
+        // Increment the term index and handle wrapping around the terms
+        startTermIndex = (startTermIndex + 1) % 4;
+
+        // If the term wraps back to "Winter", increment the year
+        if (startTermIndex === 0) {
+            currentYear++;
+        }
+    }
 
     // Generate 20 terms dynamically
-    for (let i = 1; i <= 20; i++) {
+    for (let i = 0; i < totalTerms; i++) {
         // Clone the template
         const termElement = document.importNode(termTemplate, true);
         termElement.querySelector('.term-div').id = `term-${i}`;
 
         // Assign dynamic data to the term
         const termData = terms[i % terms.length]; // Loop through sample term data for the example
-        termElement.querySelector('.term-title').textContent = `${termData.title} ${i}`; // Dynamic term name
+        termElement.querySelector('.term-title').innerHTML = `${termData.title}`; // Dynamic term name
         termElement.querySelector('.term-credits').textContent = termData.credits; // Dynamic term credits
 
         // Optionally, you can generate courses within each term using the same course generation logic here.

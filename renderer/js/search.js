@@ -44,6 +44,30 @@ var courseCardList = []
 
         resultItem.addEventListener('dragstart', (event) => handleDragStart(event, course));
 
+        searchResultItemDiv.addEventListener('click', async () => {
+          // You would retrieve course data from the DOM or elsewhere
+          var courseDetails = await requestCourseDetails(course.shortName);
+          var courseDetailStatus = await getCourseStatus(course.shortName);
+          courseDetails = courseDetails.courseInfo
+          const dialogDiv = document.querySelector('.dialog-content');
+          dialogDiv.querySelector('.course-name').textContent = courseDetails.fullName;
+          dialogDiv.querySelector('.short-name').textContent = courseDetails.shortName;
+          dialogDiv.querySelector('.course-desc').textContent = "Description: " + courseDetails.courseDesc;
+          dialogDiv.querySelector('.course-prereqs').textContent = "Prerequisites: " + courseDetails.prereqs;
+          dialogDiv.querySelector('.course-coreqs').textContent = "Corequisites: " + courseDetails.coreqs;
+          changeStatusIcon(courseDetailStatus, dialogDiv.querySelector('.course-status'));
+
+          const courseData = {
+              shortName: searchResultItemDiv.querySelector('.course-name').textContent,
+              credits: searchResultItemDiv.querySelector('.course-credits').textContent,
+              // You can add more properties if needed
+          };
+  
+          // Send the course data to the main process to open a new window
+          document.querySelector('.course-dialog').showModal()
+          // ipcRenderer.send('open-course-window', courseData);
+      });
+
         searchResultItemDiv.addEventListener("dragstart", () => {
             if (searchResultItemDiv.classList.contains('search-result-item')){
                 onCourseFirstDrag(searchResultItemDiv, course)
@@ -59,7 +83,8 @@ var courseCardList = []
               const iconElement = searchResultItemDiv.querySelector('.status-icon');
               changeStatusIcon(courseStatus, iconElement)
           }
-          updateCourseStatus()
+          updateCourseStatus();
+          updateTermCredits();
 
           searchResultItemDiv.classList.remove("is-dragging");
         });
@@ -114,4 +139,30 @@ var courseCardList = []
     // Append the status icon at the correct place in the course card
     searchResultItemDiv.appendChild(statusIcon);  // Append it inside the course-card
   }
+}
+
+// Function to calculate and update term credits
+function updateTermCredits() {
+  // Get all the term divs
+  const allTermDivs = document.querySelectorAll('.term-div');
+
+  allTermDivs.forEach(termDiv => {
+      // Get the courses container for this term
+      const coursesContainer = termDiv.querySelector('.courses-container');
+
+      // Initialize the total credits for this term
+      let totalCredits = 0;
+
+      // Loop through each course-card in the courses container
+      const courseCards = coursesContainer.querySelectorAll('.course-card');
+      courseCards.forEach(courseCard => {
+          // Get the credits from the course-card element
+          const courseCredits = parseFloat(courseCard.querySelector('.course-credits').textContent) || 0;
+          totalCredits += courseCredits;
+      });
+
+      // Update the term-credits element for this term
+      const termCreditsElement = termDiv.querySelector('.term-credits');
+      termCreditsElement.textContent = `${totalCredits.toFixed(1)} / 20.0`; // Assuming 20.0 is the maximum credits per term
+  });
 }
