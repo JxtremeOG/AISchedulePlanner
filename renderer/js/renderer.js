@@ -321,7 +321,7 @@ function createTerms(selectedProgram, selectedTerm, selectedYear) {
     const terms = [];
 
     // Determine how many terms to generate based on the selected program (4 years or 5 years)
-    var totalTerms = selectedProgram === "FourYear" ? 16 : 20;
+    var totalTerms = selectedProgram === "FourYear" ? 15 : 19;
     totalTerms+=1;
 
     // Generate the terms starting from the selected term and year

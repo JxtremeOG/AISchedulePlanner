@@ -1,11 +1,20 @@
-2024-11-10 01:29:48 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
-2024-11-10 01:29:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-11-10 01:57:11 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2024-11-10 01:57:11 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-11-10 01:29:48 - INFO - [33mPress CTRL+C to quit[0m
-2024-11-10 01:29:48 - ERROR - The client is using an unsupported version of the Socket.IO or Engine.IO protocols (further occurrences of this error will be logged with level INFO)
-2024-11-10 01:29:48 - INFO - 127.0.0.1 - - [10/Nov/2024 01:29:48] "[31m[1mGET /socket.io/?EIO=3&transport=polling&t=PCKmws6&b64=1 HTTP/1.1[0m" 400 -
-2024-11-10 01:29:50 - INFO - 127.0.0.1 - - [10/Nov/2024 01:29:50] "[31m[1mGET /socket.io/?EIO=3&transport=polling&t=PCKmxFE&b64=1 HTTP/1.1[0m" 400 -
-2024-11-10 01:29:51 - INFO - Created Course
-2024-11-10 01:29:51 - INFO - 127.0.0.1 - - [10/Nov/2024 01:29:51] "POST /courseInfo HTTP/1.1" 200 -
-2024-11-10 01:29:51 - INFO - 127.0.0.1 - - [10/Nov/2024 01:29:51] "POST /courseStatus HTTP/1.1" 200 -
-2024-11-10 01:29:52 - INFO - 127.0.0.1 - - [10/Nov/2024 01:29:52] "[33mPOST /close HTTP/1.1[0m" 404 -
+2024-11-10 01:57:11 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-10 01:57:12 - ERROR - The client is using an unsupported version of the Socket.IO or Engine.IO protocols (further occurrences of this error will be logged with level INFO)
+2024-11-10 01:57:12 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:12] "[31m[1mGET /socket.io/?EIO=3&transport=polling&t=PCKtCGm&b64=1 HTTP/1.1[0m" 400 -
+2024-11-10 01:57:15 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:15] "[31m[1mGET /socket.io/?EIO=3&transport=polling&t=PCKtD1B&b64=1 HTTP/1.1[0m" 400 -
+2024-11-10 01:57:20 - INFO - Created Course
+2024-11-10 01:57:20 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:20] "POST /courseInfo HTTP/1.1" 200 -
+2024-11-10 01:57:20 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:20] "POST /courseStatus HTTP/1.1" 200 -
+2024-11-10 01:57:20 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:20] "[31m[1mGET /socket.io/?EIO=3&transport=polling&t=PCKtEFQ&b64=1 HTTP/1.1[0m" 400 -
+2024-11-10 01:57:21 - INFO - Created Course
+2024-11-10 01:57:21 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:21] "POST /courseInfo HTTP/1.1" 200 -
+2024-11-10 01:57:21 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:21] "POST /courseStatus HTTP/1.1" 200 -
+2024-11-10 01:57:22 - INFO - Created Course
+2024-11-10 01:57:22 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:22] "POST /courseInfo HTTP/1.1" 200 -
+2024-11-10 01:57:22 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:22] "POST /courseStatus HTTP/1.1" 200 -
+2024-11-10 01:57:23 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:23] "POST /removeCourse HTTP/1.1" 200 -
+2024-11-10 01:57:23 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:23] "POST /courseStatus HTTP/1.1" 200 -
+2024-11-10 01:57:24 - INFO - 127.0.0.1 - - [10/Nov/2024 01:57:24] "[33mPOST /close HTTP/1.1[0m" 404 -

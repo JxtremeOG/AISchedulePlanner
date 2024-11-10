@@ -12,7 +12,7 @@ class Scheduler():
         departmentMappings = json.load(json_file)
     
     def __init__(self):
-        self.termList = [DrexelTerm() for _ in range(19)]
+        self.termList = [DrexelTerm() for _ in range(20)]
         self.desiredClassList = []
         self.courses = {}
         
