@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ESTM 210": {
         "shortName": "ESTM 210",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ESTM 201 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ESTM 301": {
         "shortName": "ESTM 301",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ESTM 210 [Min Grade B] (Can be taken Concurrently) and ESTM 201 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM 302": {
         "shortName": "ESTM 302",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ESTM 301 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM 303": {
         "shortName": "ESTM 303",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ESTM 302 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM 335": {
         "shortName": "ESTM 335",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM 342": {
         "shortName": "ESTM 342",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ESTM 350": {
         "shortName": "ESTM 350",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ESTM 302 [Min Grade B] (Can be taken Concurrently) and ESTM 201 [Min Grade B] and ESTM 210 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ESTM 362": {
         "shortName": "ESTM 362",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM 364": {
         "shortName": "ESTM 364",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM 409": {
         "shortName": "ESTM 409",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ESTM 410": {
         "shortName": "ESTM 410",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ESTM 350 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM I199": {
         "shortName": "ESTM I199",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM I299": {
         "shortName": "ESTM I299",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM I399": {
         "shortName": "ESTM I399",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM I499": {
         "shortName": "ESTM I499",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM T180": {
         "shortName": "ESTM T180",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM T280": {
         "shortName": "ESTM T280",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM T380": {
         "shortName": "ESTM T380",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ESTM T480": {
         "shortName": "ESTM T480",
@@ -217,6 +236,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

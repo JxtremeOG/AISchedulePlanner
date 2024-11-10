@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "TVST 105": {
         "shortName": "TVST 105",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST 260": {
         "shortName": "TVST 260",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST 261": {
         "shortName": "TVST 261",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST 361": {
         "shortName": "TVST 361",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "TVST 362": {
         "shortName": "TVST 362",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "TVST 363": {
         "shortName": "TVST 363",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "TVST 364": {
         "shortName": "TVST 364",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "TVST 368": {
         "shortName": "TVST 368",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "TVST I199": {
         "shortName": "TVST I199",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST I299": {
         "shortName": "TVST I299",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST I399": {
         "shortName": "TVST I399",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST I499": {
         "shortName": "TVST I499",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST T180": {
         "shortName": "TVST T180",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST T280": {
         "shortName": "TVST T280",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST T380": {
         "shortName": "TVST T380",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated 6 times for 21 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVST T480": {
         "shortName": "TVST T480",
@@ -184,6 +200,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

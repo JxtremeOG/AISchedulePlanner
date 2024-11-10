@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "VRIM 110": {
         "shortName": "VRIM 110",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ANIM 100 [Min Grade D] or DIGM 100 [Min Grade D] or VRIM 100 [Min Grade D] or PHTO 141 [Min Grade D] or VSCM 200 [Min Grade D] or FMVD 110 [Min Grade D] or VSST 104 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "VRIM 120": {
         "shortName": "VRIM 120",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "VRIM 215": {
         "shortName": "VRIM 215",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM 220": {
         "shortName": "VRIM 220",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "VRIM 250": {
         "shortName": "VRIM 250",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "VRIM 120 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM 310": {
         "shortName": "VRIM 310",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM 320": {
         "shortName": "VRIM 320",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "VRIM 388": {
         "shortName": "VRIM 388",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "VRIM 488": {
         "shortName": "VRIM 488",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "VRIM 388 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "VRIM I199": {
         "shortName": "VRIM I199",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM I299": {
         "shortName": "VRIM I299",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM I399": {
         "shortName": "VRIM I399",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM I499": {
         "shortName": "VRIM I499",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM T180": {
         "shortName": "VRIM T180",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM T280": {
         "shortName": "VRIM T280",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "VRIM T380": {
         "shortName": "VRIM T380",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "VRIM T480": {
         "shortName": "VRIM T480",
@@ -195,6 +212,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

@@ -8,7 +8,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL I299": {
         "shortName": "RETL I299",
@@ -19,7 +20,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL I399": {
         "shortName": "RETL I399",
@@ -30,7 +32,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL I499": {
         "shortName": "RETL I499",
@@ -41,7 +44,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL T180": {
         "shortName": "RETL T180",
@@ -52,7 +56,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL T280": {
         "shortName": "RETL T280",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL T380": {
         "shortName": "RETL T380",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RETL T480": {
         "shortName": "RETL T480",
@@ -85,6 +92,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

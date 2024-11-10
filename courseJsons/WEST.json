@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "WEST 105": {
         "shortName": "WEST 105",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "WEST 107": {
         "shortName": "WEST 107",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "WEST 210": {
         "shortName": "WEST 210",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "WEST 220": {
         "shortName": "WEST 220",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST I199": {
         "shortName": "WEST I199",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST I299": {
         "shortName": "WEST I299",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST I399": {
         "shortName": "WEST I399",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 7 times for 84 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST I499": {
         "shortName": "WEST I499",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST T180": {
         "shortName": "WEST T180",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST T280": {
         "shortName": "WEST T280",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WEST T380": {
         "shortName": "WEST T380",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "WEST T480": {
         "shortName": "WEST T480",
@@ -140,6 +152,7 @@
         "repeatStatus": "Can be repeated 7 times for 84 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     }
 }

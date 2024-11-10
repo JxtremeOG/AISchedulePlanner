@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CIVE 330 [Min Grade D] and CIVE 303 [Min Grade D]) or (AE 391 [Min Grade D] and CIVE 303 [Min Grade D]) or (CIVE 330 [Min Grade D] and CIVE 312 [Min Grade D]) or (CIVE 303 [Min Grade D] and CIVE 312 [Min Grade D]) or (AE 391 [Min Grade D] and CIVE 330 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CAE 492": {
         "shortName": "CAE 492",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CAE 491 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CAE 493": {
         "shortName": "CAE 493",
@@ -30,6 +32,7 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CAE 492 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     }
 }

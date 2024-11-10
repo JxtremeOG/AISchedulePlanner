@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "THTR 115": {
         "shortName": "THTR 115",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "THTR 116": {
         "shortName": "THTR 116",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 121": {
         "shortName": "THTR 121",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "THTR 130": {
         "shortName": "THTR 130",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 131": {
         "shortName": "THTR 131",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 132": {
         "shortName": "THTR 132",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "THTR 130 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 133": {
         "shortName": "THTR 133",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 134": {
         "shortName": "THTR 134",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 141": {
         "shortName": "THTR 141",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 142": {
         "shortName": "THTR 142",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "THTR 143": {
         "shortName": "THTR 143",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 144": {
         "shortName": "THTR 144",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "THTR 145": {
         "shortName": "THTR 145",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "THTR 209 [Min Grade C] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "THTR 209": {
         "shortName": "THTR 209",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "THTR 210": {
         "shortName": "THTR 210",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "THTR 211": {
         "shortName": "THTR 211",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated 5 times for 12 credits",
         "prereqs": "THTR 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "THTR 212": {
         "shortName": "THTR 212",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "THTR 221": {
         "shortName": "THTR 221",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "THTR 121 [Min Grade D] or HUM 103 [Min Grade D] or HUM 105 [Min Grade A] or HUM 108 [Min Grade D] or ENGL 103 [Min Grade D] or ENGL 105 [Min Grade A] or ENGL 103 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR 222": {
         "shortName": "THTR 222",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "THTR 231": {
         "shortName": "THTR 231",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "THTR 232": {
         "shortName": "THTR 232",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "THTR 240": {
         "shortName": "THTR 240",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "THTR 260": {
         "shortName": "THTR 260",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "THTR 320": {
         "shortName": "THTR 320",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "THTR 211 [Min Grade D] and THTR 121 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "THTR 360": {
         "shortName": "THTR 360",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "THTR 495": {
         "shortName": "THTR 495",
@@ -294,7 +320,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR I199": {
         "shortName": "THTR I199",
@@ -305,7 +332,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR I299": {
         "shortName": "THTR I299",
@@ -316,7 +344,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR I399": {
         "shortName": "THTR I399",
@@ -327,7 +356,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR I499": {
         "shortName": "THTR I499",
@@ -338,7 +368,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR T180": {
         "shortName": "THTR T180",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR T280": {
         "shortName": "THTR T280",
@@ -360,7 +392,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR T380": {
         "shortName": "THTR T380",
@@ -371,7 +404,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "THTR T480": {
         "shortName": "THTR T480",
@@ -382,6 +416,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

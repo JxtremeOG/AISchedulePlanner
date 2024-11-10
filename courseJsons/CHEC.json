@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 201 [Min Grade D] and (CHE 206 [Min Grade D] or ENGR 210 [Min Grade D] or CHEM 253 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC 353": {
         "shortName": "CHEC 353",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 102 [Min Grade D] and (CHE 230 [Min Grade D] or ENGR 210 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEC I199": {
         "shortName": "CHEC I199",
@@ -30,7 +32,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC I299": {
         "shortName": "CHEC I299",
@@ -41,7 +44,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC I399": {
         "shortName": "CHEC I399",
@@ -52,7 +56,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC I499": {
         "shortName": "CHEC I499",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC T180": {
         "shortName": "CHEC T180",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC T280": {
         "shortName": "CHEC T280",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC T380": {
         "shortName": "CHEC T380",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEC T480": {
         "shortName": "CHEC T480",
@@ -107,6 +116,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

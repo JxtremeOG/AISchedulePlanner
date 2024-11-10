@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "INFO 212 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "DSCI 471": {
         "shortName": "DSCI 471",
@@ -19,6 +20,7 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "INFO 213 [Min Grade D] and MATH 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     }
 }

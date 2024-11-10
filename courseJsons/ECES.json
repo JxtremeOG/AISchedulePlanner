@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 301": {
         "shortName": "ECES 301",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 201 [Min Grade D] and (ENGR 231 [Min Grade D] or MATH 261 [Min Grade D] or MATH 201 [Min Grade D] or ECE 231 [Min Grade D] or CAEE 231 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ECES 302": {
         "shortName": "ECES 302",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECE 232 [Min Grade D] or MATH 262 [Min Grade D] or MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or CAEE 232 [Min Grade D]) and ECE 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 303": {
         "shortName": "ECES 303",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 361 [Min Grade D], BMES 310 [Min Grade D] (Can be taken Concurrently) or (ECES 301 [Min Grade D] or ECES 302 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "ECES 304": {
         "shortName": "ECES 304",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 301 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ECES 306": {
         "shortName": "ECES 306",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECES 301 [Min Grade D] or ECES 302 [Min Grade D]) and ECE 361 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECES 352": {
         "shortName": "ECES 352",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 301 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "ECES 354": {
         "shortName": "ECES 354",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 306 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 356": {
         "shortName": "ECES 356",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 304 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECES 358": {
         "shortName": "ECES 358",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 356 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 411": {
         "shortName": "ECES 411",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 301 [Min Grade D] and ECES 303 [Min Grade D] and (ENGR 361 [Min Grade D] or ECE 361 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 412": {
         "shortName": "ECES 412",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 301 [Min Grade D] and ECES 303 [Min Grade D] and (ENGR 361 [Min Grade D] or ECE 361 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 413": {
         "shortName": "ECES 413",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 301 [Min Grade D] and ECES 303 [Min Grade D] and (ENGR 361 [Min Grade D] or ECE 361 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 421": {
         "shortName": "ECES 421",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 306 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 422": {
         "shortName": "ECES 422",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 421 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 423": {
         "shortName": "ECES 423",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 422 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 434": {
         "shortName": "ECES 434",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 303 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 435": {
         "shortName": "ECES 435",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 303 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 436": {
         "shortName": "ECES 436",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 303 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 441": {
         "shortName": "ECES 441",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ECES 444": {
         "shortName": "ECES 444",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 356 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 445": {
         "shortName": "ECES 445",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 356 [Min Grade D] and ECE 361 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 446": {
         "shortName": "ECES 446",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 356 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 450": {
         "shortName": "ECES 450",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECES 461": {
         "shortName": "ECES 461",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 356 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECES 462": {
         "shortName": "ECES 462",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 461 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 497": {
         "shortName": "ECES 497",
@@ -294,7 +320,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES 499": {
         "shortName": "ECES 499",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES I199": {
         "shortName": "ECES I199",
@@ -316,7 +344,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES I299": {
         "shortName": "ECES I299",
@@ -327,7 +356,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES I399": {
         "shortName": "ECES I399",
@@ -338,7 +368,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES I499": {
         "shortName": "ECES I499",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES T180": {
         "shortName": "ECES T180",
@@ -360,7 +392,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES T280": {
         "shortName": "ECES T280",
@@ -371,7 +404,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES T380": {
         "shortName": "ECES T380",
@@ -382,7 +416,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECES T480": {
         "shortName": "ECES T480",
@@ -393,6 +428,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

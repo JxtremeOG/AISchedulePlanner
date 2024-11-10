@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "BUSN 102": {
         "shortName": "BUSN 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BUSN 101 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "BUSN 103": {
         "shortName": "BUSN 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Can be repeated 2 times for 4 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 105": {
         "shortName": "BUSN 105",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "BUSN 111": {
         "shortName": "BUSN 111",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BUSN 112": {
         "shortName": "BUSN 112",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 211": {
         "shortName": "BUSN 211",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "UNIV B101 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 350": {
         "shortName": "BUSN 350",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 2 times for 12 credits",
         "prereqs": "(BUSN 101 [Min Grade D] and BUSN 102 [Min Grade D]) or BUSN 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 370": {
         "shortName": "BUSN 370",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 430": {
         "shortName": "BUSN 430",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FIN 301 [Min Grade B] and ACCT 115 [Min Grade B] and ACCT 116 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 431": {
         "shortName": "BUSN 431",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FIN 301 [Min Grade B] and ACCT 115 [Min Grade B] and ACCT 116 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN 432": {
         "shortName": "BUSN 432",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FIN 301 [Min Grade B] and ACCT 115 [Min Grade B] and ACCT 116 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN I199": {
         "shortName": "BUSN I199",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN I299": {
         "shortName": "BUSN I299",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN I399": {
         "shortName": "BUSN I399",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN I499": {
         "shortName": "BUSN I499",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN T180": {
         "shortName": "BUSN T180",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BUSN T280": {
         "shortName": "BUSN T280",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN T380": {
         "shortName": "BUSN T380",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BUSN T480": {
         "shortName": "BUSN T480",
@@ -217,6 +236,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     }
 }

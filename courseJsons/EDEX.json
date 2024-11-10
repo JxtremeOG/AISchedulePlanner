@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "EDEX 102": {
         "shortName": "EDEX 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "EDEX 103": {
         "shortName": "EDEX 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "EDEX 142": {
         "shortName": "EDEX 142",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "EDEX 336": {
         "shortName": "EDEX 336",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "EDEX 344": {
         "shortName": "EDEX 344",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "EDEX 348": {
         "shortName": "EDEX 348",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "EDEX 349": {
         "shortName": "EDEX 349",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "EDEX 350": {
         "shortName": "EDEX 350",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "EDEX 352": {
         "shortName": "EDEX 352",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "EDEX 355": {
         "shortName": "EDEX 355",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "EDEX 368": {
         "shortName": "EDEX 368",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "EDEX 375": {
         "shortName": "EDEX 375",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "EDEX 378": {
         "shortName": "EDEX 378",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "EDEX 380": {
         "shortName": "EDEX 380",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX 381": {
         "shortName": "EDEX 381",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "EDEX 382": {
         "shortName": "EDEX 382",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "EDEX 383": {
         "shortName": "EDEX 383",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "EDEX 388": {
         "shortName": "EDEX 388",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "EDEX 414": {
         "shortName": "EDEX 414",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EDEX 348 [Min Grade B] and EDEX 349 [Min Grade B] and EDEX 350 [Min Grade B] and EDEX 352 [Min Grade B] and EDEX 142 [Min Grade B] and EDEX 344 [Min Grade B] and EDEX 355 [Min Grade B] and EDEX 336 [Min Grade B] and EDEX 368 [Min Grade B] and EDEX 378 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "EDEX I199": {
         "shortName": "EDEX I199",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX I299": {
         "shortName": "EDEX I299",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX I399": {
         "shortName": "EDEX I399",
@@ -250,7 +272,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX I499": {
         "shortName": "EDEX I499",
@@ -261,7 +284,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX T180": {
         "shortName": "EDEX T180",
@@ -272,7 +296,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX T280": {
         "shortName": "EDEX T280",
@@ -283,7 +308,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX T380": {
         "shortName": "EDEX T380",
@@ -294,7 +320,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "EDEX T480": {
         "shortName": "EDEX T480",
@@ -305,6 +332,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

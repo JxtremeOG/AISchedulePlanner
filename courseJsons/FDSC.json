@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FDSC 120": {
         "shortName": "FDSC 120",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "FDSC 154": {
         "shortName": "FDSC 154",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "FDSC 270": {
         "shortName": "FDSC 270",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "FDSC 306": {
         "shortName": "FDSC 306",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FDSC 154 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FDSC 350": {
         "shortName": "FDSC 350",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FDSC 154 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "FDSC 401": {
         "shortName": "FDSC 401",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CULA 115 [Min Grade D] or CULA 120 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 410": {
         "shortName": "FDSC 410",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 450": {
         "shortName": "FDSC 450",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FDSC 270 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FDSC 451": {
         "shortName": "FDSC 451",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FDSC 270 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": "FDSC 450",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FDSC 454": {
         "shortName": "FDSC 454",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 456": {
         "shortName": "FDSC 456",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NFS 215 [Min Grade D] or CHEM 242 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "FDSC 458": {
         "shortName": "FDSC 458",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(FDSC 154 [Min Grade D] and NFS 215 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 460": {
         "shortName": "FDSC 460",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] and CHEM 103 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FDSC 461": {
         "shortName": "FDSC 461",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 103 [Min Grade D] and CHEM 242 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 468": {
         "shortName": "FDSC 468",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FDSC 154 [Min Grade D] and NFS 215 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 487": {
         "shortName": "FDSC 487",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 175 [Min Grade D] and MATH 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC 490": {
         "shortName": "FDSC 490",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated 3 times for 4 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FDSC I199": {
         "shortName": "FDSC I199",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC I299": {
         "shortName": "FDSC I299",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC I399": {
         "shortName": "FDSC I399",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC I499": {
         "shortName": "FDSC I499",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC T180": {
         "shortName": "FDSC T180",
@@ -250,7 +272,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC T280": {
         "shortName": "FDSC T280",
@@ -261,7 +284,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC T380": {
         "shortName": "FDSC T380",
@@ -272,7 +296,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FDSC T480": {
         "shortName": "FDSC T480",
@@ -283,6 +308,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     }
 }

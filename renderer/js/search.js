@@ -55,6 +55,7 @@ var courseCardList = []
           dialogDiv.querySelector('.course-desc').textContent = "Description: " + courseDetails.courseDesc;
           dialogDiv.querySelector('.course-prereqs').textContent = "Prerequisites: " + courseDetails.prereqs;
           dialogDiv.querySelector('.course-coreqs').textContent = "Corequisites: " + courseDetails.coreqs;
+          dialogDiv.querySelector('.course-offered').textContent = "Offered Terms: " + courseDetails.offered;
           changeStatusIcon(courseDetailStatus, dialogDiv.querySelector('.course-status'));
 
           const courseData = {

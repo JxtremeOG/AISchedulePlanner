@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "IDM 101": {
         "shortName": "IDM 101",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 211": {
         "shortName": "IDM 211",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 212": {
         "shortName": "IDM 212",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 213": {
         "shortName": "IDM 213",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 212 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "IDM 214": {
         "shortName": "IDM 214",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 215": {
         "shortName": "IDM 215",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 213 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 216": {
         "shortName": "IDM 216",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 215 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 221": {
         "shortName": "IDM 221",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 211 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 222": {
         "shortName": "IDM 222",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 221 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 231": {
         "shortName": "IDM 231",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 221 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 232": {
         "shortName": "IDM 232",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 240": {
         "shortName": "IDM 240",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 222 [Min Grade D] and (IDM 231 [Min Grade D] or INFO 151 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 241": {
         "shortName": "IDM 241",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 213 [Min Grade D] (Can be taken Concurrently) and IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 245": {
         "shortName": "IDM 245",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 250": {
         "shortName": "IDM 250",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 222 [Min Grade D] and (IDM 232 [Min Grade D] or INFO 152 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 311": {
         "shortName": "IDM 311",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 213 [Min Grade D] and IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 331": {
         "shortName": "IDM 331",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 231 [Min Grade D] and IDM 311 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 361": {
         "shortName": "IDM 361",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(IDM 213 [Min Grade D] or IDM 215 [Min Grade D]) and IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 362": {
         "shortName": "IDM 362",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 363": {
         "shortName": "IDM 363",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 364": {
         "shortName": "IDM 364",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 371": {
         "shortName": "IDM 371",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 216 [Min Grade D] and IDM 232 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 372": {
         "shortName": "IDM 372",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 371 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 381": {
         "shortName": "IDM 381",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 213 [Min Grade D] and IDM 232 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 382": {
         "shortName": "IDM 382",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "WEST 107 [Min Grade D] and IDM 232 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 401": {
         "shortName": "IDM 401",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 372 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM 402": {
         "shortName": "IDM 402",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 215 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "IDM 417": {
         "shortName": "IDM 417",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "IDM 215 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM 418": {
         "shortName": "IDM 418",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "IDM I399": {
         "shortName": "IDM I399",
@@ -338,7 +368,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM T180": {
         "shortName": "IDM T180",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "IDM T380": {
         "shortName": "IDM T380",
@@ -360,6 +392,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

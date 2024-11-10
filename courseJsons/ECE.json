@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ECE 102": {
         "shortName": "ECE 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 105": {
         "shortName": "ECE 105",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 131 [Min Grade D] or ENGR 132 [Min Grade D] or CS 171 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 121": {
         "shortName": "ECE 121",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 200": {
         "shortName": "ECE 200",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ECE 201": {
         "shortName": "ECE 201",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "ECE 203": {
         "shortName": "ECE 203",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 231": {
         "shortName": "ECE 231",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 232": {
         "shortName": "ECE 232",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 231 [Min Grade D] or ENGR 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "ECE 301": {
         "shortName": "ECE 301",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 201 [Min Grade D] and (ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or ECE 232 [Min Grade D] or CAEE 232 [Min Grade D] or MATH 210 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 302": {
         "shortName": "ECE 302",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 203 [Min Grade D] or ENGR 131 [Min Grade D] or ENGR 132 [Min Grade D] or CS 171 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECE 303": {
         "shortName": "ECE 303",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECE 301 [Min Grade D] or ECE 201 [Min Grade D]) and ENGR 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 304": {
         "shortName": "ECE 304",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 303 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 310": {
         "shortName": "ECE 310",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 105 [Min Grade D] or CS 172 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "ECE 350": {
         "shortName": "ECE 350",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECE 105 [Min Grade D] or CS 172 [Min Grade D]) and (ECE 200 [Min Grade D] or CS 270 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Summer"
     },
     "ECE 361": {
         "shortName": "ECE 361",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or ECE 232 [Min Grade D] or CAEE 232 [Min Grade D] or MATH 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "ECE 370": {
         "shortName": "ECE 370",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 200 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 371": {
         "shortName": "ECE 371",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 301 [Min Grade D] and MATH 291 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "ECE 380": {
         "shortName": "ECE 380",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 301 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 391": {
         "shortName": "ECE 391",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 403": {
         "shortName": "ECE 403",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECES 301 [Min Grade D] and ECE 303 [Min Grade D] and ECE 361 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ECE 413": {
         "shortName": "ECE 413",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 310 [Min Grade C] and ECE 350 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 430": {
         "shortName": "ECE 430",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 431": {
         "shortName": "ECE 431",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 370 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 432": {
         "shortName": "ECE 432",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 370 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECE 434": {
         "shortName": "ECE 434",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 361 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ECE 471": {
         "shortName": "ECE 471",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 200 [Min Grade D] or CS 270 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ECE 472": {
         "shortName": "ECE 472",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 471 [Min Grade D] or ECEC 471 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 473": {
         "shortName": "ECE 473",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 471 [Min Grade D] or ECEC 471 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE 481": {
         "shortName": "ECE 481",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 371 [Min Grade D] or ECEE 304 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ECE 482": {
         "shortName": "ECE 482",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 481 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ECE 483": {
         "shortName": "ECE 483",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 371 [Min Grade D] or ECEE 304 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECE 491": {
         "shortName": "ECE 491",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ECE 492": {
         "shortName": "ECE 492",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 491 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ECE 493": {
         "shortName": "ECE 493",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 492 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ECE I199": {
         "shortName": "ECE I199",
@@ -393,7 +428,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE I299": {
         "shortName": "ECE I299",
@@ -404,7 +440,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE I399": {
         "shortName": "ECE I399",
@@ -415,7 +452,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE I499": {
         "shortName": "ECE I499",
@@ -426,7 +464,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE T180": {
         "shortName": "ECE T180",
@@ -437,7 +476,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE T280": {
         "shortName": "ECE T280",
@@ -448,7 +488,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE T380": {
         "shortName": "ECE T380",
@@ -459,7 +500,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECE T480": {
         "shortName": "ECE T480",
@@ -470,6 +512,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     }
 }

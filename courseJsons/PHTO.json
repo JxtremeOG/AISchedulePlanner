@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHTO 120": {
         "shortName": "PHTO 120",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 140": {
         "shortName": "PHTO 140",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 110 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 141": {
         "shortName": "PHTO 141",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "PHTO 210": {
         "shortName": "PHTO 210",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 110 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHTO 220": {
         "shortName": "PHTO 220",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 120 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 224": {
         "shortName": "PHTO 224",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 110 [Min Grade D] or PHTO 141 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "PHTO 225": {
         "shortName": "PHTO 225",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "PHTO 230": {
         "shortName": "PHTO 230",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 233": {
         "shortName": "PHTO 233",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHTO 234": {
         "shortName": "PHTO 234",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 110 [Min Grade D] and PHTO 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 236": {
         "shortName": "PHTO 236",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 210 [Min Grade D] or PHTO 240 [Min Grade D] or PHTO 140 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "PHTO 240": {
         "shortName": "PHTO 240",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 210 [Min Grade D] and PHTO 141 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 253": {
         "shortName": "PHTO 253",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHTO 275": {
         "shortName": "PHTO 275",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 276": {
         "shortName": "PHTO 276",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 275 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 291": {
         "shortName": "PHTO 291",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 334": {
         "shortName": "PHTO 334",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 234 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 335": {
         "shortName": "PHTO 335",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 230 [Min Grade D] and PHTO 233 [Min Grade D] and PHTO 236 [Min Grade D] and PHTO 253 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 340": {
         "shortName": "PHTO 340",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 141 [Min Grade D] and PHTO 240 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 361": {
         "shortName": "PHTO 361",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 233 [Min Grade D] and PHTO 253 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 392": {
         "shortName": "PHTO 392",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 234 [Min Grade D] and PHTO 233 [Min Grade D] and PHTO 236 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 451": {
         "shortName": "PHTO 451",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 233 [Min Grade D] and PHTO 234 [Min Grade D] and PHTO 240 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "PHTO 452": {
         "shortName": "PHTO 452",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 275 [Min Grade D] and PHTO 276 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHTO 453": {
         "shortName": "PHTO 453",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 451 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 455": {
         "shortName": "PHTO 455",
@@ -283,7 +308,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "PHTO 233 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 456": {
         "shortName": "PHTO 456",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 234 [Min Grade D] and PHTO 334 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 457": {
         "shortName": "PHTO 457",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 233 [Min Grade D] and PHTO 361 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 458": {
         "shortName": "PHTO 458",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 451 [Min Grade D] and PHTO 453 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 459": {
         "shortName": "PHTO 459",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 451 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO 492": {
         "shortName": "PHTO 492",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 392 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHTO 493": {
         "shortName": "PHTO 493",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 492 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHTO 495": {
         "shortName": "PHTO 495",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 492 [Min Grade D] and PHTO 493 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO 496": {
         "shortName": "PHTO 496",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHTO 493 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHTO I199": {
         "shortName": "PHTO I199",
@@ -382,7 +416,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO I299": {
         "shortName": "PHTO I299",
@@ -393,7 +428,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO I399": {
         "shortName": "PHTO I399",
@@ -404,7 +440,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO I499": {
         "shortName": "PHTO I499",
@@ -415,7 +452,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO T180": {
         "shortName": "PHTO T180",
@@ -426,7 +464,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO T280": {
         "shortName": "PHTO T280",
@@ -437,7 +476,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO T380": {
         "shortName": "PHTO T380",
@@ -448,7 +488,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHTO T480": {
         "shortName": "PHTO T480",
@@ -459,6 +500,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

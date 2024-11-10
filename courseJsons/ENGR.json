@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ENGR 113": {
         "shortName": "ENGR 113",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ENGR 131": {
         "shortName": "ENGR 131",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "ENGR 132": {
         "shortName": "ENGR 132",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGR 210": {
         "shortName": "ENGR 210",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D] and PHYS 101 [Min Grade D]",
         "coreqs": "EXAM 081",
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 220": {
         "shortName": "ENGR 220",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 101 [Min Grade D] and MATH 122 [Min Grade D] and PHYS 101 [Min Grade D]",
         "coreqs": "EXAM 081",
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 231": {
         "shortName": "ENGR 231",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D]",
         "coreqs": "EXAM 081",
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 232": {
         "shortName": "ENGR 232",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 231 [Min Grade D]",
         "coreqs": "EXAM 081",
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 280": {
         "shortName": "ENGR 280",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 361": {
         "shortName": "ENGR 361",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 370": {
         "shortName": "ENGR 370",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 9 times for 40 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR 491": {
         "shortName": "ENGR 491",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ENGR 492": {
         "shortName": "ENGR 492",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CIVE 491 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGR 493": {
         "shortName": "ENGR 493",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGR I199": {
         "shortName": "ENGR I199",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR I299": {
         "shortName": "ENGR I299",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR I399": {
         "shortName": "ENGR I399",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR I499": {
         "shortName": "ENGR I499",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR T180": {
         "shortName": "ENGR T180",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR T280": {
         "shortName": "ENGR T280",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGR T380": {
         "shortName": "ENGR T380",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ENGR T480": {
         "shortName": "ENGR T480",
@@ -239,6 +260,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

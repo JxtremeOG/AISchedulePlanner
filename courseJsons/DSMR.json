@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DSMR 103": {
         "shortName": "DSMR 103",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DSMR 201": {
         "shortName": "DSMR 201",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DSMR 210": {
         "shortName": "DSMR 210",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(VSST 102 [Min Grade D] or VSST 105 [Min Grade D]) and (VSCM 100 [Min Grade D] or DSMR 100 [Min Grade D] or WEST 100 [Min Grade D]) and DSMR 211 [Min Grade D] and COM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "DSMR 211": {
         "shortName": "DSMR 211",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "VSCM 100 [Min Grade D] or DSMR 100 [Min Grade D] or WEST 100 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "DSMR 215": {
         "shortName": "DSMR 215",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "DSMR 230": {
         "shortName": "DSMR 230",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DSMR 231": {
         "shortName": "DSMR 231",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "DSMR 232": {
         "shortName": "DSMR 232",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DSMR 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "DSMR 233": {
         "shortName": "DSMR 233",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "DSMR 300": {
         "shortName": "DSMR 300",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 12 times for 39 credits",
         "prereqs": "DSMR 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "DSMR 310": {
         "shortName": "DSMR 310",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DSMR 232 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "DSMR 311": {
         "shortName": "DSMR 311",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DSMR 232 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "DSMR 315": {
         "shortName": "DSMR 315",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "VSST 103 [Min Grade D] and DSMR 210 [Min Grade D] and DSMR 211 [Min Grade D] and ENGL 103 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DSMR 316": {
         "shortName": "DSMR 316",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "DSMR 315 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DSMR 319": {
         "shortName": "DSMR 319",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated 4 times for 15 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR 321": {
         "shortName": "DSMR 321",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "DSMR 324": {
         "shortName": "DSMR 324",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DSMR 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "DSMR 330": {
         "shortName": "DSMR 330",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated 12 times for 39 credits",
         "prereqs": "DSMR 310 [Min Grade C] or ENTP 440 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DSMR 332": {
         "shortName": "DSMR 332",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated 4 times for 15 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR 333": {
         "shortName": "DSMR 333",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DSMR 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "DSMR 410": {
         "shortName": "DSMR 410",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR 464": {
         "shortName": "DSMR 464",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DSMR 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "DSMR 475": {
         "shortName": "DSMR 475",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR 477": {
         "shortName": "DSMR 477",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "DSMR 485": {
         "shortName": "DSMR 485",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "DSMR 496": {
         "shortName": "DSMR 496",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PROD 215 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "DSMR I199": {
         "shortName": "DSMR I199",
@@ -305,7 +332,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR I299": {
         "shortName": "DSMR I299",
@@ -316,7 +344,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR I399": {
         "shortName": "DSMR I399",
@@ -327,7 +356,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR I499": {
         "shortName": "DSMR I499",
@@ -338,7 +368,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR T180": {
         "shortName": "DSMR T180",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR T280": {
         "shortName": "DSMR T280",
@@ -360,7 +392,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DSMR T380": {
         "shortName": "DSMR T380",
@@ -371,7 +404,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "DSMR T480": {
         "shortName": "DSMR T480",
@@ -382,6 +416,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

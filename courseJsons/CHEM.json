@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 101": {
         "shortName": "CHEM 101",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APCH 12 or CHEM 111 [Min Grade D] or APCH50 P",
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "CHEM 102": {
         "shortName": "CHEM 102",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 101 [Min Grade D] or CHEM 121 [Min Grade D] or CHEM 161 [Min Grade D]",
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "CHEM 103": {
         "shortName": "CHEM 103",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] or CHEM 122 [Min Grade D] or CHEM 108 [Min Grade D] or (CHEM 162 [Min Grade D] and CHEM 164 [Min Grade D])",
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "CHEM 108": {
         "shortName": "CHEM 108",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEM 110": {
         "shortName": "CHEM 110",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 111": {
         "shortName": "CHEM 111",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "CHEM 112": {
         "shortName": "CHEM 112",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 113": {
         "shortName": "CHEM 113",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 111 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 114": {
         "shortName": "CHEM 114",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 112 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 121": {
         "shortName": "CHEM 121",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APCH 12 or CHEM 111 [Min Grade D] or APCH50 P",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 122": {
         "shortName": "CHEM 122",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 101 [Min Grade C-] or CHEM 121 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 123": {
         "shortName": "CHEM 123",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade C-] or CHEM 122 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 151": {
         "shortName": "CHEM 151",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "CHEM 161": {
         "shortName": "CHEM 161",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 003 [Min Grade D] or (MATH 001 [Min Grade D] and MATH 002 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 162": {
         "shortName": "CHEM 162",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 161 [Min Grade D] or CHEM 101 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 163": {
         "shortName": "CHEM 163",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 164 [Min Grade D] and CHEM 162 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 164": {
         "shortName": "CHEM 164",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 162 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 165": {
         "shortName": "CHEM 165",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 163 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 201": {
         "shortName": "CHEM 201",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 230": {
         "shortName": "CHEM 230",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] or CHEM 122 [Min Grade D] or (CHEM 162 [Min Grade D] and CHEM 164 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEM 231": {
         "shortName": "CHEM 231",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 230 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "CHEM 241": {
         "shortName": "CHEM 241",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] or CHEM 122 [Min Grade D] or (CHEM 162 [Min Grade D] and CHEM 164 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "CHEM 242": {
         "shortName": "CHEM 242",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 241 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "CHEM 243": {
         "shortName": "CHEM 243",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEM 244": {
         "shortName": "CHEM 244",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] (Can be taken Concurrently) and CHEM 241 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "CHEM 245": {
         "shortName": "CHEM 245",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] (Can be taken Concurrently) and CHEM 244 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "CHEM 246": {
         "shortName": "CHEM 246",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 103 [Min Grade D] or CHEM 123 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 248": {
         "shortName": "CHEM 248",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 246 [Min Grade D] or (CHEM 241 [Min Grade D] and CHEM 244 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 249": {
         "shortName": "CHEM 249",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 248 [Min Grade D] or (CHEM 242 [Min Grade D] and CHEM 245 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEM 251": {
         "shortName": "CHEM 251",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CHEM 102 [Min Grade D] and MATH 200 [Min Grade D]) or TDEC 121 [Min Grade D] or (CHEM 162 [Min Grade D] and CHEM 164 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 253": {
         "shortName": "CHEM 253",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] or CHEM 122 [Min Grade D] or (CHEM 162 [Min Grade D] and CHEM 164 [Min Grade D]) and MATH 200 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEM 256": {
         "shortName": "CHEM 256",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] or CHEM 122 [Min Grade D] or (CHEM 162 [Min Grade D] and CHEM 164 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 270": {
         "shortName": "CHEM 270",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] or CHEM 122 [Min Grade D] and (PHYS 201 [Min Grade D] or PHYS 211 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 346": {
         "shortName": "CHEM 346",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 249 [Min Grade D] or (CHEM 243 [Min Grade D] and CHEM 245 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 355": {
         "shortName": "CHEM 355",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CHEM 253 [Min Grade D] or CHEC 352 [Min Grade D]) and (CHEM 270 [Min Grade D] or PHYS 160 [Min Grade D]) and (MATH 201 [Min Grade D] or MATH 210 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 356": {
         "shortName": "CHEM 356",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 241 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHEM 357": {
         "shortName": "CHEM 357",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 253 [Min Grade D] and (PHYS 211 [Min Grade D] or PHYS 201 [Min Grade D]) or CHEC 352 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 358": {
         "shortName": "CHEM 358",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 357 [Min Grade D] and (CHEM 253 [Min Grade D] or CHEC 352 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 359": {
         "shortName": "CHEM 359",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 355 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 361": {
         "shortName": "CHEM 361",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 249 [Min Grade D] or (CHEM 243 [Min Grade D] and CHEM 245 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 364": {
         "shortName": "CHEM 364",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 249 [Min Grade D] or CHEM 243 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 367": {
         "shortName": "CHEM 367",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 371": {
         "shortName": "CHEM 371",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 243 [Min Grade D] or CHEM 249 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 375": {
         "shortName": "CHEM 375",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 243 [Min Grade D], CHEM 249 [Min Grade D] (Can be taken Concurrently) or CHEM 245 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 420": {
         "shortName": "CHEM 420",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 421 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 421": {
         "shortName": "CHEM 421",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 253 [Min Grade D] (Can be taken Concurrently) or ENGR 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 422": {
         "shortName": "CHEM 422",
@@ -525,7 +572,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 420 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 424": {
         "shortName": "CHEM 424",
@@ -536,7 +584,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM 425": {
         "shortName": "CHEM 425",
@@ -547,7 +596,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 422 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 430": {
         "shortName": "CHEM 430",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 253 [Min Grade D] (Can be taken Concurrently) and CHEM 230 [Min Grade D] and (CHEM 248 [Min Grade D] or CHEM 242 [Min Grade D]) or CHEC 352 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 431": {
         "shortName": "CHEM 431",
@@ -569,7 +620,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 430 [Min Grade D] or ENGR 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 465": {
         "shortName": "CHEM 465",
@@ -580,7 +632,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] or CHEM 248 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHEM 466": {
         "shortName": "CHEM 466",
@@ -591,7 +644,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CHEM 242 [Min Grade D] or CHEM 248 [Min Grade D]) and CHEM 253 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM 467": {
         "shortName": "CHEM 467",
@@ -602,7 +656,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 253 [Min Grade D] or CHEC 352 [Min Grade D] or ENGR 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHEM 493": {
         "shortName": "CHEM 493",
@@ -613,7 +668,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "CHEM 497": {
         "shortName": "CHEM 497",
@@ -624,7 +680,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "CHEM I199": {
         "shortName": "CHEM I199",
@@ -635,7 +692,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM I299": {
         "shortName": "CHEM I299",
@@ -646,7 +704,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM I399": {
         "shortName": "CHEM I399",
@@ -657,7 +716,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM I499": {
         "shortName": "CHEM I499",
@@ -668,7 +728,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM T180": {
         "shortName": "CHEM T180",
@@ -679,7 +740,8 @@
         "repeatStatus": "Can be repeated 3 times for 15 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM T280": {
         "shortName": "CHEM T280",
@@ -690,7 +752,8 @@
         "repeatStatus": "Can be repeated 3 times for 20 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHEM T380": {
         "shortName": "CHEM T380",
@@ -701,7 +764,8 @@
         "repeatStatus": "Can be repeated 3 times for 15 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHEM T480": {
         "shortName": "CHEM T480",
@@ -712,6 +776,7 @@
         "repeatStatus": "Can be repeated 3 times for 15 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

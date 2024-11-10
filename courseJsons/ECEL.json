@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 200 [Min Grade D] and ECE 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 302": {
         "shortName": "ECEL 302",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECEL 301 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 303": {
         "shortName": "ECEL 303",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECEL 302 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 304": {
         "shortName": "ECEL 304",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECEL 303 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 311": {
         "shortName": "ECEL 311",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 200 [Min Grade D] and ECE 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 312": {
         "shortName": "ECEL 312",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECEL 301 [Min Grade D] or ECEL 311 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 401": {
         "shortName": "ECEL 401",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECEL 301 [Min Grade D] and ECEL 302 [Min Grade D] and ECE 370 [Min Grade D]) or (ECEL 311 [Min Grade D] and ECEL 312 [Min Grade D] and ECEE 304 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 402": {
         "shortName": "ECEL 402",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECEL 301 [Min Grade D] and ECEL 302 [Min Grade D] and ECEE 304 [Min Grade D]) or (ECEL 311 [Min Grade D] and ECEL 312 [Min Grade D] and ECEE 304 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 403": {
         "shortName": "ECEL 403",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECEL 301 [Min Grade D] and ECEL 302 [Min Grade D] and ECEE 304 [Min Grade D]) or (ECEL 311 [Min Grade D] or ECEL 312 [Min Grade D] or ECEE 304 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 404": {
         "shortName": "ECEL 404",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECEL 301 [Min Grade D] and ECEL 302 [Min Grade D] and ECES 301 [Min Grade D] and ECES 303 [Min Grade D]) or (ECEL 311 [Min Grade D] and ECEL 312 [Min Grade D] and ECES 301 [Min Grade D] and ECES 303 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL 405": {
         "shortName": "ECEL 405",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ECEL 301 [Min Grade D] and ECEL 302 [Min Grade D] and ECES 301 [Min Grade D]) or (ECEL 311 [Min Grade D] and ECEL 312 [Min Grade D] and ECES 301 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL I199": {
         "shortName": "ECEL I199",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL I299": {
         "shortName": "ECEL I299",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL I399": {
         "shortName": "ECEL I399",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL I499": {
         "shortName": "ECEL I499",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL T180": {
         "shortName": "ECEL T180",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL T280": {
         "shortName": "ECEL T280",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL T380": {
         "shortName": "ECEL T380",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ECEL T480": {
         "shortName": "ECEL T480",
@@ -206,6 +224,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

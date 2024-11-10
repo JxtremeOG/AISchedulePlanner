@@ -4,7 +4,7 @@ import json
 class Course:
     
     def __init__(self, shortName="", fullName="", courseCredits=0.0, courseDesc="", courseDepartment="", 
-                 repeatStatus="", prereqs="", coreqs="", restrictions=""):
+                 repeatStatus="", prereqs="", coreqs="", restrictions="", offered=""):
         self.shortName = shortName
         self.fullName = fullName
         self.courseCredits = courseCredits
@@ -14,6 +14,7 @@ class Course:
         self.prereqs = prereqs
         self.coreqs = coreqs
         self.restrictions = restrictions
+        self.offered = offered
         
     def cleanPrerec(self):
         if self.prereqs != None:
@@ -31,7 +32,8 @@ class Course:
             'repeatStatus': self.repeatStatus,
             'prereqs': self.prereqs,
             'coreqs' : self.coreqs,
-            'restrictions' : self.restrictions
+            'restrictions' : self.restrictions,
+            'offered' : self.offered,
         }
     
     ##Only return whats missing
@@ -42,4 +44,4 @@ class Course:
         
         
     def __str__(self):
-        return f"{self.shortName}\n{self.fullName}\nCredits: {self.courseCredits}\n{self.courseDesc}\n{self.courseDepartment}\nRepeat Status: {self.repeatStatus}\nPreequisites: {self.prereqs}\nCoequisites {self.coreqs}\nRestrictions: {self.restrictions}"
+        return f"{self.shortName}\n{self.fullName}\nCredits: {self.courseCredits}\n{self.courseDesc}\n{self.courseDepartment}\nRepeat Status: {self.repeatStatus}\nPreequisites: {self.prereqs}\nCoequisites {self.coreqs}\nRestrictions: {self.restrictions}\nOffered: {self.offered}"

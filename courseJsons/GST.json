@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "GST 101": {
         "shortName": "GST 101",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "GST 102": {
         "shortName": "GST 102",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "GST 105": {
         "shortName": "GST 105",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "GST 200": {
         "shortName": "GST 200",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST 221": {
         "shortName": "GST 221",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "GST 231": {
         "shortName": "GST 231",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "GST 241": {
         "shortName": "GST 241",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST 251": {
         "shortName": "GST 251",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "GST 261": {
         "shortName": "GST 261",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "GST 300": {
         "shortName": "GST 300",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "GST 321": {
         "shortName": "GST 321",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST 331": {
         "shortName": "GST 331",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "GST 341": {
         "shortName": "GST 341",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "GST 351": {
         "shortName": "GST 351",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST 361": {
         "shortName": "GST 361",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST 400": {
         "shortName": "GST 400",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "GST I399": {
         "shortName": "GST I399",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated 3 times for 48 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST T180": {
         "shortName": "GST T180",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated 3 times for 48 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GST T280": {
         "shortName": "GST T280",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated 3 times for 48 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "GST T380": {
         "shortName": "GST T380",
@@ -228,6 +248,7 @@
         "repeatStatus": "Can be repeated 8 times for 108 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     }
 }

@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 102": {
         "shortName": "DANC 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "DANC 104": {
         "shortName": "DANC 104",
@@ -30,7 +32,8 @@
         "repeatStatus": "Can be repeated 7 times for 16 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Summer"
     },
     "DANC 105": {
         "shortName": "DANC 105",
@@ -41,7 +44,8 @@
         "repeatStatus": "Can be repeated 7 times for 16 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DANC 106": {
         "shortName": "DANC 106",
@@ -52,7 +56,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DANC 107": {
         "shortName": "DANC 107",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "DANC 108": {
         "shortName": "DANC 108",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DANC 109": {
         "shortName": "DANC 109",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "DANC 114": {
         "shortName": "DANC 114",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 115": {
         "shortName": "DANC 115",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 116": {
         "shortName": "DANC 116",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 117": {
         "shortName": "DANC 117",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DANC 131": {
         "shortName": "DANC 131",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "DANC 132": {
         "shortName": "DANC 132",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "DANC 133": {
         "shortName": "DANC 133",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "DANC 135": {
         "shortName": "DANC 135",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 204": {
         "shortName": "DANC 204",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated 7 times for 16 credits",
         "prereqs": "DANC 104 [Min Grade D] or DANC 140 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "DANC 205": {
         "shortName": "DANC 205",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated 7 times for 16 credits",
         "prereqs": "DANC 105 [Min Grade D] or DANC 150 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "DANC 206": {
         "shortName": "DANC 206",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": "DANC 106 [Min Grade D] or DANC 160 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DANC 207": {
         "shortName": "DANC 207",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": "DANC 107 [Min Grade D] or DANC 170 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "DANC 208": {
         "shortName": "DANC 208",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DANC 108 [Min Grade D] or DANC 180 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 209": {
         "shortName": "DANC 209",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": "DANC 109 [Min Grade D] or DANC 190 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 215": {
         "shortName": "DANC 215",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DANC 115 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "DANC 216": {
         "shortName": "DANC 216",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DANC 221": {
         "shortName": "DANC 221",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DANC 222": {
         "shortName": "DANC 222",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DANC 223": {
         "shortName": "DANC 223",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 225": {
         "shortName": "DANC 225",
@@ -305,7 +332,8 @@
         "repeatStatus": "Can be repeated 2 times for 6 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 235": {
         "shortName": "DANC 235",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DANC 250": {
         "shortName": "DANC 250",
@@ -327,7 +356,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 260": {
         "shortName": "DANC 260",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 304": {
         "shortName": "DANC 304",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated 7 times for 16 credits",
         "prereqs": "DANC 204 [Min Grade D] or DANC 141 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 305": {
         "shortName": "DANC 305",
@@ -360,7 +392,8 @@
         "repeatStatus": "Can be repeated 7 times for 16 credits",
         "prereqs": "DANC 205 [Min Grade D] or DANC 151 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "DANC 306": {
         "shortName": "DANC 306",
@@ -371,7 +404,8 @@
         "repeatStatus": "Can be repeated 3 times for 8 credits",
         "prereqs": "DANC 206 [Min Grade D] or DANC 161 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 307": {
         "shortName": "DANC 307",
@@ -382,7 +416,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "DANC 207 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 309": {
         "shortName": "DANC 309",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DANC 209 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 315": {
         "shortName": "DANC 315",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 316": {
         "shortName": "DANC 316",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 323": {
         "shortName": "DANC 323",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 335": {
         "shortName": "DANC 335",
@@ -437,7 +476,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": "DANC 235 [Min Grade D] or DANC 240 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "DANC 415": {
         "shortName": "DANC 415",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "DANC 215 [Min Grade D] or DANC 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "DANC 416": {
         "shortName": "DANC 416",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(DANC 316 [Min Grade D] or DANC 360 [Min Grade D]) and (DANC 117 [Min Grade D] or DANC 261 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 423": {
         "shortName": "DANC 423",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC 481": {
         "shortName": "DANC 481",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "DANC 491": {
         "shortName": "DANC 491",
@@ -492,7 +536,8 @@
         "repeatStatus": "Can be repeated 2 times for 3 credits",
         "prereqs": "DANC 481 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "DANC I199": {
         "shortName": "DANC I199",
@@ -503,7 +548,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC I299": {
         "shortName": "DANC I299",
@@ -514,7 +560,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC I399": {
         "shortName": "DANC I399",
@@ -525,7 +572,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC I499": {
         "shortName": "DANC I499",
@@ -536,7 +584,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC T180": {
         "shortName": "DANC T180",
@@ -547,7 +596,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC T280": {
         "shortName": "DANC T280",
@@ -558,7 +608,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC T380": {
         "shortName": "DANC T380",
@@ -569,7 +620,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "DANC T480": {
         "shortName": "DANC T480",
@@ -580,6 +632,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

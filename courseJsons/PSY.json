@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 111": {
         "shortName": "PSY 111",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PSY 112": {
         "shortName": "PSY 112",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PSY 120": {
         "shortName": "PSY 120",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 140": {
         "shortName": "PSY 140",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 150": {
         "shortName": "PSY 150",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 210": {
         "shortName": "PSY 210",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 212": {
         "shortName": "PSY 212",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 213": {
         "shortName": "PSY 213",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 222": {
         "shortName": "PSY 222",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "PSY 225": {
         "shortName": "PSY 225",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(PSY 101 [Min Grade D] or PSY 112 [Min Grade D]) and PSY 240 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "PSY 240": {
         "shortName": "PSY 240",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 242": {
         "shortName": "PSY 242",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PSY 243": {
         "shortName": "PSY 243",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 244": {
         "shortName": "PSY 244",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PSY 245": {
         "shortName": "PSY 245",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "PSY 250": {
         "shortName": "PSY 250",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "PSY 252": {
         "shortName": "PSY 252",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Summer"
     },
     "PSY 254": {
         "shortName": "PSY 254",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "PSY 264": {
         "shortName": "PSY 264",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "PSY 265": {
         "shortName": "PSY 265",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(PSY 101 [Min Grade D] or PSY 112 [Min Grade D]) and PSY 264 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "PSY 270": {
         "shortName": "PSY 270",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "PSY 280": {
         "shortName": "PSY 280",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 264 [Min Grade D] and PSY 265 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "PSY 285": {
         "shortName": "PSY 285",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade C] or PSY 112 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 290": {
         "shortName": "PSY 290",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 310": {
         "shortName": "PSY 310",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(PSY 101 [Min Grade D] or PSY 112 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 312": {
         "shortName": "PSY 312",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PSY 320": {
         "shortName": "PSY 320",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "PSY 325": {
         "shortName": "PSY 325",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 330": {
         "shortName": "PSY 330",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D] or IDM 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 333": {
         "shortName": "PSY 333",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PSY 335": {
         "shortName": "PSY 335",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PSY 336": {
         "shortName": "PSY 336",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 342": {
         "shortName": "PSY 342",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PSY 345": {
         "shortName": "PSY 345",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PSY 352": {
         "shortName": "PSY 352",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "PSY 355": {
         "shortName": "PSY 355",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PSY 356": {
         "shortName": "PSY 356",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 357": {
         "shortName": "PSY 357",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PSY 360": {
         "shortName": "PSY 360",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 265 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "PSY 368": {
         "shortName": "PSY 368",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "PSY 370": {
         "shortName": "PSY 370",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "PSY 371": {
         "shortName": "PSY 371",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PSY 380": {
         "shortName": "PSY 380",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 280 [Min Grade D] and PSY 360 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 410": {
         "shortName": "PSY 410",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "PSY 412": {
         "shortName": "PSY 412",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(PSY 101 [Min Grade C] or PSY 212 [Min Grade C]) and (PSY 360 [Min Grade C] or BMES 315 [Min Grade C]) and (BMES 310 [Min Grade C] or PSY 264 [Min Grade C] and PSY 265 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 427": {
         "shortName": "PSY 427",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 330 [Min Grade D] or ECON 301 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 450": {
         "shortName": "PSY 450",
@@ -525,7 +572,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(PSY 101 [Min Grade D] or PSY 112 [Min Grade D]) and PSY 120 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 455": {
         "shortName": "PSY 455",
@@ -536,7 +584,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY 463": {
         "shortName": "PSY 463",
@@ -547,7 +596,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 101 [Min Grade D] or PSY 112 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PSY 490": {
         "shortName": "PSY 490",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 491": {
         "shortName": "PSY 491",
@@ -569,7 +620,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 490 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY 492": {
         "shortName": "PSY 492",
@@ -580,7 +632,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 491 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PSY I199": {
         "shortName": "PSY I199",
@@ -591,7 +644,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY I299": {
         "shortName": "PSY I299",
@@ -602,7 +656,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY I399": {
         "shortName": "PSY I399",
@@ -613,7 +668,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY I499": {
         "shortName": "PSY I499",
@@ -624,7 +680,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY T180": {
         "shortName": "PSY T180",
@@ -635,7 +692,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY T280": {
         "shortName": "PSY T280",
@@ -646,7 +704,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY T380": {
         "shortName": "PSY T380",
@@ -657,7 +716,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PSY T480": {
         "shortName": "PSY T480",
@@ -668,6 +728,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

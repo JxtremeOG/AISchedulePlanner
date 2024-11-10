@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MLSC 102": {
         "shortName": "MLSC 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MLSC 103": {
         "shortName": "MLSC 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "MLSC 110": {
         "shortName": "MLSC 110",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MLSC 120": {
         "shortName": "MLSC 120",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MLSC 130": {
         "shortName": "MLSC 130",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "MLSC 201": {
         "shortName": "MLSC 201",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MLSC 202": {
         "shortName": "MLSC 202",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MLSC 203": {
         "shortName": "MLSC 203",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MLSC 210": {
         "shortName": "MLSC 210",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MLSC 220": {
         "shortName": "MLSC 220",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MLSC 230": {
         "shortName": "MLSC 230",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MLSC 301": {
         "shortName": "MLSC 301",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MLSC 302": {
         "shortName": "MLSC 302",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MLSC 303": {
         "shortName": "MLSC 303",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "MLSC 310": {
         "shortName": "MLSC 310",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MLSC 320": {
         "shortName": "MLSC 320",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MLSC 330": {
         "shortName": "MLSC 330",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "MLSC 390": {
         "shortName": "MLSC 390",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MLSC 399": {
         "shortName": "MLSC 399",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "MLSC 401": {
         "shortName": "MLSC 401",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B] and MLSC 330 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MLSC 402": {
         "shortName": "MLSC 402",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B] and MLSC 330 [Min Grade B] and MLSC 410 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MLSC 403": {
         "shortName": "MLSC 403",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B] and MLSC 330 [Min Grade B] and MLSC 410 [Min Grade B] and MLSC 420 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "MLSC 410": {
         "shortName": "MLSC 410",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B] and MLSC 330 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MLSC 420": {
         "shortName": "MLSC 420",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B] and MLSC 330 [Min Grade B] and MLSC 410 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MLSC 430": {
         "shortName": "MLSC 430",
@@ -283,6 +308,7 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MLSC 110 [Min Grade B] or MLSC 120 [Min Grade B]) and MLSC 130 [Min Grade B] and MLSC 210 [Min Grade B] and MLSC 220 [Min Grade B] and MLSC 230 [Min Grade B] and MLSC 310 [Min Grade B] and MLSC 320 [Min Grade B] and MLSC 330 [Min Grade B] and MLSC 410 [Min Grade B] and MLSC 420 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     }
 }

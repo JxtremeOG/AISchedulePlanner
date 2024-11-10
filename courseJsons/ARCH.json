@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ARCH 119": {
         "shortName": "ARCH 119",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 118 [Min Grade C] or ARCH 191 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "ARCH 140": {
         "shortName": "ARCH 140",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 141": {
         "shortName": "ARCH 141",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ARCH 142": {
         "shortName": "ARCH 142",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 141 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "ARCH 143": {
         "shortName": "ARCH 143",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 142 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ARCH 170": {
         "shortName": "ARCH 170",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 182 [Min Grade C-] and (MATH 102 [Min Grade C-] or MATH 183 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 172": {
         "shortName": "ARCH 172",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 170 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 173": {
         "shortName": "ARCH 173",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 172 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 181": {
         "shortName": "ARCH 181",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 182": {
         "shortName": "ARCH 182",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 181 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 183": {
         "shortName": "ARCH 183",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 182 [Min Grade C] or INTR 233 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 191": {
         "shortName": "ARCH 191",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 192": {
         "shortName": "ARCH 192",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 191 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 211": {
         "shortName": "ARCH 211",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 212": {
         "shortName": "ARCH 212",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 211 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 213": {
         "shortName": "ARCH 213",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 212 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 221": {
         "shortName": "ARCH 221",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 183 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 222": {
         "shortName": "ARCH 222",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 221 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 223": {
         "shortName": "ARCH 223",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 222 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 224": {
         "shortName": "ARCH 224",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 213 [Min Grade C] and ARCH 183 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 225": {
         "shortName": "ARCH 225",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 224 [Min Grade C] and ARCH 281 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 226": {
         "shortName": "ARCH 226",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 225 [Min Grade C] and ARCH 282 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 251": {
         "shortName": "ARCH 251",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 183 [Min Grade C-] and PHYS 182 [Min Grade C-] and (MATH 102 [Min Grade C-] or MATH 173 [Min Grade C-] or MATH 183 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 252": {
         "shortName": "ARCH 252",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 251 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 253": {
         "shortName": "ARCH 253",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 252 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 274": {
         "shortName": "ARCH 274",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 173 [Min Grade C-] and PHYS 183 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 275": {
         "shortName": "ARCH 275",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 274 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 276": {
         "shortName": "ARCH 276",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 275 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 281": {
         "shortName": "ARCH 281",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 183 [Min Grade C] and (ARCH 213 [Min Grade C] or INTR 245 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 282": {
         "shortName": "ARCH 282",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "((ARCH 221 [Min Grade C-] and ARCH 251 [Min Grade C-]) or ARCH 170 [Min Grade C-] or INTR 351 [Min Grade C-], ) and ARCH 281 [Min Grade C] and (ARCH 224 [Min Grade C] or INTR 341 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 283": {
         "shortName": "ARCH 283",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "((ARCH 222 [Min Grade C-] and ARCH 252 [Min Grade C-]) or ARCH 170 [Min Grade C-]) and ARCH 282 [Min Grade C] and ARCH 225 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 291": {
         "shortName": "ARCH 291",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 283 [Min Grade C-] and PHYS 182 [Min Grade C-] and (MATH 102 [Min Grade C-] or MATH 173 [Min Grade C-] or MATH 183 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 292": {
         "shortName": "ARCH 292",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 283 [Min Grade C-] and PHYS 182 [Min Grade C-] and (MATH 102 [Min Grade C-] or MATH 173 [Min Grade C-] or MATH 183 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 293": {
         "shortName": "ARCH 293",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 283 [Min Grade C-] and PHYS 182 [Min Grade C-] and (MATH 102 [Min Grade C-] or MATH 173 [Min Grade C-] or MATH 183 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 315": {
         "shortName": "ARCH 315",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 320": {
         "shortName": "ARCH 320",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 315 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 324": {
         "shortName": "ARCH 324",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 173 [Min Grade C-] or ARCH 223 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 325": {
         "shortName": "ARCH 325",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 324 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 326": {
         "shortName": "ARCH 326",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 325 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 335": {
         "shortName": "ARCH 335",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 243 [Min Grade C-] or ARCH 383 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 336": {
         "shortName": "ARCH 336",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 335 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 340": {
         "shortName": "ARCH 340",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 341": {
         "shortName": "ARCH 341",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 342": {
         "shortName": "ARCH 342",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 343": {
         "shortName": "ARCH 343",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 346": {
         "shortName": "ARCH 346",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ARCH 347": {
         "shortName": "ARCH 347",
@@ -525,7 +572,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or INTR 200 [Min Grade C-] or ARTH 103 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 348": {
         "shortName": "ARCH 348",
@@ -536,7 +584,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ARCH 350": {
         "shortName": "ARCH 350",
@@ -547,7 +596,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 354": {
         "shortName": "ARCH 354",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 173 [Min Grade C-] or ARCH 253 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 355": {
         "shortName": "ARCH 355",
@@ -569,7 +620,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 354 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 356": {
         "shortName": "ARCH 356",
@@ -580,7 +632,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 355 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 377": {
         "shortName": "ARCH 377",
@@ -591,7 +644,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 276 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 378": {
         "shortName": "ARCH 378",
@@ -602,7 +656,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 377 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 379": {
         "shortName": "ARCH 379",
@@ -613,7 +668,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 378 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 381": {
         "shortName": "ARCH 381",
@@ -624,7 +680,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 283 [Min Grade C] and ARCH 226 [Min Grade C] and ARCH 223 [Min Grade C] and ARCH 253 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 382": {
         "shortName": "ARCH 382",
@@ -635,7 +692,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 381 [Min Grade C] and ARCH 274 [Min Grade C-] or (ARCH 291 [Min Grade C-] and ARCH 354 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 383": {
         "shortName": "ARCH 383",
@@ -646,7 +704,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 382 [Min Grade C] and ARCH 275 [Min Grade C-] or (ARCH 292 [Min Grade C-] and ARCH 355 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 394": {
         "shortName": "ARCH 394",
@@ -657,7 +716,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 291 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 395": {
         "shortName": "ARCH 395",
@@ -668,7 +728,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 394 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 396": {
         "shortName": "ARCH 396",
@@ -679,7 +740,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 293 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 421": {
         "shortName": "ARCH 421",
@@ -690,7 +752,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 431": {
         "shortName": "ARCH 431",
@@ -701,7 +764,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 353 [Min Grade C-] or ARCH 483 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ARCH 432": {
         "shortName": "ARCH 432",
@@ -712,7 +776,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ARCH 441": {
         "shortName": "ARCH 441",
@@ -723,7 +788,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 143 [Min Grade C-] or ARCH 144 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 451": {
         "shortName": "ARCH 451",
@@ -734,7 +800,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 226 [Min Grade C-] or INTR 341 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 455": {
         "shortName": "ARCH 455",
@@ -745,7 +812,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 226 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ARCH 463": {
         "shortName": "ARCH 463",
@@ -756,7 +824,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 253 [Min Grade C-] or INTR 451 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ARCH 464": {
         "shortName": "ARCH 464",
@@ -767,7 +836,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 253 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 465": {
         "shortName": "ARCH 465",
@@ -778,7 +848,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 253 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 466": {
         "shortName": "ARCH 466",
@@ -789,7 +860,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 326 [Min Grade C-] or INTR 350 [Min Grade C-] or INTR 674 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 467": {
         "shortName": "ARCH 467",
@@ -800,7 +872,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ARCH 143 [Min Grade C] or INTR 200 [Min Grade C]) and (ARCH 283 [Min Grade C] or INTR 342 [Min Grade C] or INTR 442 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 481": {
         "shortName": "ARCH 481",
@@ -811,7 +884,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 383 [Min Grade C] and ARCH 276 [Min Grade C-] or (ARCH 356 [Min Grade C-] and ARCH 293 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 482": {
         "shortName": "ARCH 482",
@@ -822,7 +896,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 481 [Min Grade C] and ARCH 377 [Min Grade C-] or (ARCH 324 [Min Grade C-] and ARCH 394 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 483": {
         "shortName": "ARCH 483",
@@ -833,7 +908,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 482 [Min Grade C] and ARCH 378 [Min Grade C-] or (ARCH 325 [Min Grade C-] and ARCH 395 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH 484": {
         "shortName": "ARCH 484",
@@ -844,7 +920,8 @@
         "repeatStatus": "Can be repeated 2 times for 12 credits",
         "prereqs": "(ARCH 382 [Min Grade C] or INTR 342 [Min Grade C-] or INTR 442 [Min Grade C-]) and ARCH 482 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 487": {
         "shortName": "ARCH 487",
@@ -855,7 +932,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 483 [Min Grade C] and ARCH 379 [Min Grade C-] or (ARCH 326 [Min Grade C-] and ARCH 356 [Min Grade C-] and ARCH 396 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 488": {
         "shortName": "ARCH 488",
@@ -866,7 +944,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 487 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 489": {
         "shortName": "ARCH 489",
@@ -877,7 +956,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 488 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH 490": {
         "shortName": "ARCH 490",
@@ -888,7 +968,8 @@
         "repeatStatus": "Can be repeated 1 times for 8 credits",
         "prereqs": "ARCH 283 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 492": {
         "shortName": "ARCH 492",
@@ -899,7 +980,8 @@
         "repeatStatus": "Can be repeated 1 times for 8 credits",
         "prereqs": "ARCH 490 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 493": {
         "shortName": "ARCH 493",
@@ -910,7 +992,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ARCH 363 [Min Grade C-] or ARCH 489 [Min Grade C]) and ARCH 431 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ARCH 494": {
         "shortName": "ARCH 494",
@@ -921,7 +1004,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 493 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ARCH 495": {
         "shortName": "ARCH 495",
@@ -932,7 +1016,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ARCH 494 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ARCH I199": {
         "shortName": "ARCH I199",
@@ -943,7 +1028,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH I299": {
         "shortName": "ARCH I299",
@@ -954,7 +1040,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH I399": {
         "shortName": "ARCH I399",
@@ -965,7 +1052,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH I499": {
         "shortName": "ARCH I499",
@@ -976,7 +1064,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ARCH 143 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH T180": {
         "shortName": "ARCH T180",
@@ -987,7 +1076,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH T280": {
         "shortName": "ARCH T280",
@@ -998,7 +1088,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ARCH T380": {
         "shortName": "ARCH T380",
@@ -1009,7 +1100,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "ARCH T480": {
         "shortName": "ARCH T480",
@@ -1020,6 +1112,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ARCH 143 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     }
 }

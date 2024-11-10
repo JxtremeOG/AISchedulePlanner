@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "MKTG 301": {
         "shortName": "MKTG 301",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG 321": {
         "shortName": "MKTG 321",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "MKTG 322": {
         "shortName": "MKTG 322",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "MKTG 324": {
         "shortName": "MKTG 324",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG 326": {
         "shortName": "MKTG 326",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "MKTG 344": {
         "shortName": "MKTG 344",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG 347": {
         "shortName": "MKTG 347",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MKTG 348": {
         "shortName": "MKTG 348",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "MKTG 351": {
         "shortName": "MKTG 351",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "MKTG 355": {
         "shortName": "MKTG 355",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MKTG 356": {
         "shortName": "MKTG 356",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "MKTG 357": {
         "shortName": "MKTG 357",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "MKTG 362": {
         "shortName": "MKTG 362",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "MKTG 363": {
         "shortName": "MKTG 363",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 362 [Min Grade D] and MKTG 322 [Min Grade D] and COM 181 [Min Grade D] and (MKTG 201 [Min Grade C-] or MKTG 301 [Min Grade C-])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG 364": {
         "shortName": "MKTG 364",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "MKTG 365": {
         "shortName": "MKTG 365",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MKTG 366": {
         "shortName": "MKTG 366",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "STAT 201 [Min Grade C-] or STAT 205 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MKTG 367": {
         "shortName": "MKTG 367",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "MKTG 368": {
         "shortName": "MKTG 368",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "MKTG 380": {
         "shortName": "MKTG 380",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MKTG 301 [Min Grade C-] or MKTG 201 [Min Grade C-]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "MKTG I199": {
         "shortName": "MKTG I199",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG I299": {
         "shortName": "MKTG I299",
@@ -250,7 +272,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG I399": {
         "shortName": "MKTG I399",
@@ -261,7 +284,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG I499": {
         "shortName": "MKTG I499",
@@ -272,7 +296,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG T180": {
         "shortName": "MKTG T180",
@@ -283,7 +308,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG T280": {
         "shortName": "MKTG T280",
@@ -294,7 +320,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG T380": {
         "shortName": "MKTG T380",
@@ -305,7 +332,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MKTG T480": {
         "shortName": "MKTG T480",
@@ -316,6 +344,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     }
 }

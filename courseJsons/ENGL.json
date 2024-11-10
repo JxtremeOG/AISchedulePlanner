@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ENGL 102": {
         "shortName": "ENGL 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 101 [Min Grade D] or AP36 4 or AP37 4",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "ENGL 103": {
         "shortName": "ENGL 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "ENGL 105": {
         "shortName": "ENGL 105",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 111": {
         "shortName": "ENGL 111",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APE 2 or ESL 110 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "ENGL 112": {
         "shortName": "ENGL 112",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "ENGL 113": {
         "shortName": "ENGL 113",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 112",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL 195": {
         "shortName": "ENGL 195",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ENGL 200": {
         "shortName": "ENGL 200",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 201": {
         "shortName": "ENGL 201",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 202": {
         "shortName": "ENGL 202",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 203": {
         "shortName": "ENGL 203",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 204": {
         "shortName": "ENGL 204",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 205": {
         "shortName": "ENGL 205",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "ENGL 206": {
         "shortName": "ENGL 206",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 207": {
         "shortName": "ENGL 207",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "ENGL 211": {
         "shortName": "ENGL 211",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 212": {
         "shortName": "ENGL 212",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL 214": {
         "shortName": "ENGL 214",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "ENGL 215": {
         "shortName": "ENGL 215",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "ENGL 216": {
         "shortName": "ENGL 216",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ENGL 220": {
         "shortName": "ENGL 220",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL 230": {
         "shortName": "ENGL 230",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 250": {
         "shortName": "ENGL 250",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 300": {
         "shortName": "ENGL 300",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ENGL 301": {
         "shortName": "ENGL 301",
@@ -283,7 +308,8 @@
         "repeatStatus": "Can be repeated 5 times for 6 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ENGL 302": {
         "shortName": "ENGL 302",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL 303": {
         "shortName": "ENGL 303",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ENGL 304": {
         "shortName": "ENGL 304",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "ENGL 305": {
         "shortName": "ENGL 305",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 306": {
         "shortName": "ENGL 306",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ENGL 307": {
         "shortName": "ENGL 307",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 308": {
         "shortName": "ENGL 308",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ENGL 101 [Min Grade D] and ENGL 102 [Min Grade D] and ENGL 103 [Min Grade D]) or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 310": {
         "shortName": "ENGL 310",
@@ -371,7 +404,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 312": {
         "shortName": "ENGL 312",
@@ -382,7 +416,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 315": {
         "shortName": "ENGL 315",
@@ -393,7 +428,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "ENGL 320": {
         "shortName": "ENGL 320",
@@ -404,7 +440,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "ENGL 323": {
         "shortName": "ENGL 323",
@@ -415,7 +452,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "ENGL 325": {
         "shortName": "ENGL 325",
@@ -426,7 +464,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "ENGL 330": {
         "shortName": "ENGL 330",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 335": {
         "shortName": "ENGL 335",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL 340": {
         "shortName": "ENGL 340",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 101 [Min Grade D] and ENGL 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 345": {
         "shortName": "ENGL 345",
@@ -470,7 +512,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 350": {
         "shortName": "ENGL 350",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 355": {
         "shortName": "ENGL 355",
@@ -492,7 +536,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "ENGL 360": {
         "shortName": "ENGL 360",
@@ -503,7 +548,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "ENGL 365": {
         "shortName": "ENGL 365",
@@ -514,7 +560,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 370": {
         "shortName": "ENGL 370",
@@ -525,7 +572,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ENGL 380": {
         "shortName": "ENGL 380",
@@ -536,7 +584,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ENGL 101 [Min Grade C] or ENGL 111 [Min Grade C]) and (ENGL 102 [Min Grade C] or ENGL 112 [Min Grade C]) and (ENGL 202 [Min Grade C] or ENGL 203 [Min Grade C] or ENGL 204 [Min Grade C] or ENGL 205 [Min Grade C] or ENGL 206 [Min Grade C] or ENGL 211 [Min Grade C] or ENGL 212 [Min Grade C] or ENGL 214 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 395": {
         "shortName": "ENGL 395",
@@ -547,7 +596,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 470": {
         "shortName": "ENGL 470",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 105 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL 490": {
         "shortName": "ENGL 490",
@@ -569,7 +620,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "ENGL 492": {
         "shortName": "ENGL 492",
@@ -580,7 +632,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL 495": {
         "shortName": "ENGL 495",
@@ -591,7 +644,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL I199": {
         "shortName": "ENGL I199",
@@ -602,7 +656,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL I299": {
         "shortName": "ENGL I299",
@@ -613,7 +668,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL I399": {
         "shortName": "ENGL I399",
@@ -624,7 +680,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL I499": {
         "shortName": "ENGL I499",
@@ -635,7 +692,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL T180": {
         "shortName": "ENGL T180",
@@ -646,7 +704,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "ENGL T280": {
         "shortName": "ENGL T280",
@@ -657,7 +716,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "ENGL T380": {
         "shortName": "ENGL T380",
@@ -668,7 +728,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "ENGL T480": {
         "shortName": "ENGL T480",
@@ -679,6 +740,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

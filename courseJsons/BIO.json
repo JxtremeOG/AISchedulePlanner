@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 101": {
         "shortName": "BIO 101",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 107": {
         "shortName": "BIO 107",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 108": {
         "shortName": "BIO 108",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "BIO 107",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 109": {
         "shortName": "BIO 109",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 110": {
         "shortName": "BIO 110",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "BIO 109",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 114": {
         "shortName": "BIO 114",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 116": {
         "shortName": "BIO 116",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 118": {
         "shortName": "BIO 118",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 120": {
         "shortName": "BIO 120",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 122": {
         "shortName": "BIO 122",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 128": {
         "shortName": "BIO 128",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 124 [Min Grade D] or BIO 132 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 131": {
         "shortName": "BIO 131",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 132": {
         "shortName": "BIO 132",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 133": {
         "shortName": "BIO 133",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 134": {
         "shortName": "BIO 134",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 135": {
         "shortName": "BIO 135",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 136": {
         "shortName": "BIO 136",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 141": {
         "shortName": "BIO 141",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 101 [Min Grade D]",
         "coreqs": "EXAM 080",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "BIO 142": {
         "shortName": "BIO 142",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 143": {
         "shortName": "BIO 143",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 142 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 144": {
         "shortName": "BIO 144",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 143 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 161": {
         "shortName": "BIO 161",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 162": {
         "shortName": "BIO 162",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 161 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 163": {
         "shortName": "BIO 163",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 162 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 164": {
         "shortName": "BIO 164",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": "BIO 161",
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 165": {
         "shortName": "BIO 165",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 161 [Min Grade D]",
         "coreqs": "BIO 162",
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 177": {
         "shortName": "BIO 177",
@@ -305,7 +332,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 200": {
         "shortName": "BIO 200",
@@ -316,7 +344,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 201": {
         "shortName": "BIO 201",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 141 [Min Grade D] or BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 202": {
         "shortName": "BIO 202",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 203": {
         "shortName": "BIO 203",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 204": {
         "shortName": "BIO 204",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 207": {
         "shortName": "BIO 207",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 208": {
         "shortName": "BIO 208",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 207 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 209": {
         "shortName": "BIO 209",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 211": {
         "shortName": "BIO 211",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 209 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 212": {
         "shortName": "BIO 212",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 213": {
         "shortName": "BIO 213",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 214": {
         "shortName": "BIO 214",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 100 [Min Grade D] or BIO 107 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 215": {
         "shortName": "BIO 215",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "or BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 218": {
         "shortName": "BIO 218",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 219": {
         "shortName": "BIO 219",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "BIO 220": {
         "shortName": "BIO 220",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "BIO 221": {
         "shortName": "BIO 221",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": "BIO 222",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "BIO 222": {
         "shortName": "BIO 222",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": "BIO 221",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "BIO 224": {
         "shortName": "BIO 224",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 121 [Min Grade D] or BIO 122 [Min Grade D] or BIO 124 [Min Grade D] or BIO 126 [Min Grade D] or BIO 131 [Min Grade D] or BIO 132 [Min Grade D] or BIO 133 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 225": {
         "shortName": "BIO 225",
@@ -525,7 +572,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 224 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 226": {
         "shortName": "BIO 226",
@@ -536,7 +584,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "BIO 228": {
         "shortName": "BIO 228",
@@ -547,7 +596,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 122 [Min Grade D] or BIO 131 [Min Grade D]) and (BIO 124 [Min Grade D] or BIO 132 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 232": {
         "shortName": "BIO 232",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 242": {
         "shortName": "BIO 242",
@@ -569,7 +620,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 132 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 244": {
         "shortName": "BIO 244",
@@ -580,7 +632,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 132 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 256": {
         "shortName": "BIO 256",
@@ -591,7 +644,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 224 [Min Grade D] or ENVS 212 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 257": {
         "shortName": "BIO 257",
@@ -602,7 +656,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 256 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 264": {
         "shortName": "BIO 264",
@@ -613,7 +668,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 284": {
         "shortName": "BIO 284",
@@ -624,7 +680,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 100 [Min Grade D] or BIO 101 [Min Grade D] or BIO 107 [Min Grade D] or BIO 109 [Min Grade D] or BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring Summer"
     },
     "BIO 285": {
         "shortName": "BIO 285",
@@ -635,7 +692,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 286": {
         "shortName": "BIO 286",
@@ -646,7 +704,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 285 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 305": {
         "shortName": "BIO 305",
@@ -657,7 +716,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "BIO 100 [Min Grade D] or BIO 101 [Min Grade D] or BIO 107 [Min Grade D] or BIO 108 [Min Grade D] or BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 306": {
         "shortName": "BIO 306",
@@ -668,7 +728,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] or CHEM 248 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "BIO 311": {
         "shortName": "BIO 311",
@@ -679,7 +740,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] or CHEM 248 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 314": {
         "shortName": "BIO 314",
@@ -690,7 +752,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 318": {
         "shortName": "BIO 318",
@@ -701,7 +764,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 214 [Min Grade D] and BIO 218 [Min Grade D]) or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring Summer"
     },
     "BIO 320": {
         "shortName": "BIO 320",
@@ -712,7 +776,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 218 [Min Grade D] or BIO 211 [Min Grade D]) and BIO 221 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 323": {
         "shortName": "BIO 323",
@@ -723,7 +788,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 329": {
         "shortName": "BIO 329",
@@ -734,7 +800,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "BIO 219 [Min Grade D] (Can be taken Concurrently) or BIO 209 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 331": {
         "shortName": "BIO 331",
@@ -745,7 +812,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 132 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 332": {
         "shortName": "BIO 332",
@@ -756,7 +824,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 331 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 333": {
         "shortName": "BIO 333",
@@ -767,7 +836,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D], BIO 132 [Min Grade D] (Can be taken Concurrently) or BIO 141 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 346": {
         "shortName": "BIO 346",
@@ -778,7 +848,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 348": {
         "shortName": "BIO 348",
@@ -789,7 +860,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 100 [Min Grade D] or BIO 107 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 349": {
         "shortName": "BIO 349",
@@ -800,7 +872,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 100 [Min Grade D] or BIO 107 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 372": {
         "shortName": "BIO 372",
@@ -811,7 +884,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 373": {
         "shortName": "BIO 373",
@@ -822,7 +896,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 211 [Min Grade D] or (BIO 214 [Min Grade D] and BIO 218 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 374": {
         "shortName": "BIO 374",
@@ -833,7 +908,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 373 [Min Grade D] (Can be taken Concurrently) or BIO 270 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 386": {
         "shortName": "BIO 386",
@@ -844,7 +920,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 214 [Min Grade D] and BIO 218 [Min Grade D]) or BIO 211 [Min Grade D]",
         "coreqs": "BIO 387",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 387": {
         "shortName": "BIO 387",
@@ -855,7 +932,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 214 [Min Grade D] and BIO 218 [Min Grade D]) or BIO 211 [Min Grade D]",
         "coreqs": "BIO 386",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 388": {
         "shortName": "BIO 388",
@@ -866,7 +944,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 386 [Min Grade D]",
         "coreqs": "BIO 389",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 389": {
         "shortName": "BIO 389",
@@ -877,7 +956,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 387 [Min Grade D]",
         "coreqs": "BIO 388",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 404": {
         "shortName": "BIO 404",
@@ -888,7 +968,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D] or CHEM 248 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 410": {
         "shortName": "BIO 410",
@@ -899,7 +980,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 412": {
         "shortName": "BIO 412",
@@ -910,7 +992,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 413": {
         "shortName": "BIO 413",
@@ -921,7 +1004,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 414": {
         "shortName": "BIO 414",
@@ -932,7 +1016,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 107 [Min Grade D] or BIO 132 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 415": {
         "shortName": "BIO 415",
@@ -943,7 +1028,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 416": {
         "shortName": "BIO 416",
@@ -954,7 +1040,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 203 [Min Grade C] or BIO 311 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BIO 420": {
         "shortName": "BIO 420",
@@ -965,7 +1052,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 421": {
         "shortName": "BIO 421",
@@ -976,7 +1064,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 426": {
         "shortName": "BIO 426",
@@ -987,7 +1076,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 430": {
         "shortName": "BIO 430",
@@ -998,7 +1088,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 433": {
         "shortName": "BIO 433",
@@ -1009,7 +1100,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 435": {
         "shortName": "BIO 435",
@@ -1020,7 +1112,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 426 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 436": {
         "shortName": "BIO 436",
@@ -1031,7 +1124,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 122 [Min Grade D] or BIO 132 [Min Grade D]) and (BIO 124 [Min Grade D] or BIO 132 [Min Grade D]) and (BIO 211 [Min Grade D] or BIO 217 [Min Grade D] or BIO 218 [Min Grade D] or ENVS 212 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 444": {
         "shortName": "BIO 444",
@@ -1042,7 +1136,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BIO 447": {
         "shortName": "BIO 447",
@@ -1053,7 +1148,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 218 [Min Grade D] or BIO 211 [Min Grade D]) and (BIO 244 [Min Grade D] or BIO 444 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 453": {
         "shortName": "BIO 453",
@@ -1064,7 +1160,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 461": {
         "shortName": "BIO 461",
@@ -1075,7 +1172,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D] or BIO 348 [Min Grade D] or BIO 349 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 462": {
         "shortName": "BIO 462",
@@ -1086,7 +1184,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] or BIO 218 [Min Grade D] or BIO 211 [Min Grade D] or BIO 348 [Min Grade D] or BIO 349 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 463": {
         "shortName": "BIO 463",
@@ -1097,7 +1196,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D] or BIO 348 [Min Grade D] or BIO 349 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 465": {
         "shortName": "BIO 465",
@@ -1108,7 +1208,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 462 [Min Grade D] or BIO 211 [Min Grade D] or BIO 348 [Min Grade D] or BIO 349 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 466": {
         "shortName": "BIO 466",
@@ -1119,7 +1220,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 214 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 468": {
         "shortName": "BIO 468",
@@ -1130,7 +1232,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 214 [Min Grade D] or BIO 211 [Min Grade D]) and BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 471": {
         "shortName": "BIO 471",
@@ -1141,7 +1244,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] or BIO 211 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BIO 472": {
         "shortName": "BIO 472",
@@ -1152,7 +1256,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 471 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BIO 473": {
         "shortName": "BIO 473",
@@ -1163,7 +1268,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 472 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO 474": {
         "shortName": "BIO 474",
@@ -1174,7 +1280,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 473 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO 497": {
         "shortName": "BIO 497",
@@ -1185,7 +1292,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "BIO I199": {
         "shortName": "BIO I199",
@@ -1196,7 +1304,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO I299": {
         "shortName": "BIO I299",
@@ -1207,7 +1316,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO I399": {
         "shortName": "BIO I399",
@@ -1218,7 +1328,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO I499": {
         "shortName": "BIO I499",
@@ -1229,7 +1340,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO T180": {
         "shortName": "BIO T180",
@@ -1240,7 +1352,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BIO T280": {
         "shortName": "BIO T280",
@@ -1251,7 +1364,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BIO T380": {
         "shortName": "BIO T380",
@@ -1262,7 +1376,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "BIO T480": {
         "shortName": "BIO T480",
@@ -1273,6 +1388,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

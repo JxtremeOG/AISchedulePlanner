@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "EET 311 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SYSE 488": {
         "shortName": "SYSE 488",
@@ -19,6 +20,7 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SYSE 401 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

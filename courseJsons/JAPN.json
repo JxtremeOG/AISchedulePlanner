@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APJX N",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "JAPN 102": {
         "shortName": "JAPN 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "JAPN 101 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "JAPN 103": {
         "shortName": "JAPN 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "JAPN 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "JAPN 201": {
         "shortName": "JAPN 201",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "JAPN 103 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "JAPN 202": {
         "shortName": "JAPN 202",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "JAPN 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "JAPN 310": {
         "shortName": "JAPN 310",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "JAPN 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "JAPN 320": {
         "shortName": "JAPN 320",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "JAPN 340": {
         "shortName": "JAPN 340",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN 350": {
         "shortName": "JAPN 350",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "JAPN 410": {
         "shortName": "JAPN 410",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "JAPN 420": {
         "shortName": "JAPN 420",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN 440": {
         "shortName": "JAPN 440",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN 450": {
         "shortName": "JAPN 450",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "JAPN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN I199": {
         "shortName": "JAPN I199",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN I299": {
         "shortName": "JAPN I299",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN I399": {
         "shortName": "JAPN I399",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN I499": {
         "shortName": "JAPN I499",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN T180": {
         "shortName": "JAPN T180",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN T280": {
         "shortName": "JAPN T280",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN T380": {
         "shortName": "JAPN T380",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "JAPN T480": {
         "shortName": "JAPN T480",
@@ -228,6 +248,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

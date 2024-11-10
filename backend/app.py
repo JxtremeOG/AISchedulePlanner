@@ -1,6 +1,7 @@
 # app.py
 from flask import Flask, request, jsonify
 from flask_socketio import SocketIO, send, emit
+import logging
 
 from Course import Course
 import CourseNodeHandler
@@ -10,6 +11,14 @@ from PrerecHandler import PrereqTree
 app = Flask(__name__)
 socketio = SocketIO(app)
 mainSchedule = Scheduler()
+
+logging.basicConfig(
+    level=logging.DEBUG,  # Set the minimum level of messages to log
+    format='%(asctime)s - %(levelname)s - %(message)s',  # Log format
+    datefmt='%Y-%m-%d %H:%M:%S',  # Date format
+    filename='app.log',  # Log file path
+    filemode='w'  # Overwrite the file on each run, use 'a' to append
+)
 
 @app.route('/')
 def hello():
@@ -22,6 +31,7 @@ def courseInfo():
     courseTerm = int(data.get('termNumber').split("-")[1])  # Extract the 'message' field from the JSON
     
     courseObject = Scheduler.createCourseFromShortName(courseShortName)
+    logging.info("Created Course")
     
     #Update term in schedule
     oldTerm = mainSchedule.findCourseTermIndex(courseObject)

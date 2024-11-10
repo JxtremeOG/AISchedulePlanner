@@ -30,7 +30,8 @@ for tag in tags:
     tag = tag.strip()
     
     # Path to each department's JSON file
-    course_json_path = os.path.join(os.path.dirname(__file__), "courseJsons", f"{tag}.json")
+    course_json_path = os.path.join(os.path.dirname(__file__), "..", "courseJsons", f"{tag}.json")
+
     
     # Load the JSON data for each department
     with open(course_json_path, 'r') as file:
@@ -39,13 +40,13 @@ for tag in tags:
     # Add the "offered" field to each course
     for course in data:
         offeredTerms = ""
-        if course["shortName"] in fallShortnames:
-            offeredTerms += "Fall"
-        if course["shortName"] in winterShortnames:
-            offeredTerms += "Winter"
-        if course["shortName"] in springShortnames:
-            offeredTerms += "Spring"
-        if course["shortName"] in summerShortnames:
+        if data[course]["shortName"] in fallShortnames:
+            offeredTerms += "Fall "
+        if data[course]["shortName"] in winterShortnames:
+            offeredTerms += "Winter "
+        if data[course]["shortName"] in springShortnames:
+            offeredTerms += "Spring "
+        if data[course]["shortName"] in summerShortnames:
             offeredTerms += "Summer"
         data[course]["offered"] = offeredTerms
 

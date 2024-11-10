@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APFX N or APWFR 0",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "FREN 102": {
         "shortName": "FREN 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FREN 101 [Min Grade D] or APWFR 180",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "FREN 103": {
         "shortName": "FREN 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FREN 102 [Min Grade D] or APWFR 251",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "FREN 201": {
         "shortName": "FREN 201",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FREN 103 [Min Grade D] or APWFR 331",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "FREN 202": {
         "shortName": "FREN 202",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FREN 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "FREN 310": {
         "shortName": "FREN 310",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "FREN 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "FREN 320": {
         "shortName": "FREN 320",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN 330": {
         "shortName": "FREN 330",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "FREN 340": {
         "shortName": "FREN 340",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN 350": {
         "shortName": "FREN 350",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN 410": {
         "shortName": "FREN 410",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "FREN 420": {
         "shortName": "FREN 420",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN 430": {
         "shortName": "FREN 430",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "FREN 440": {
         "shortName": "FREN 440",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN 450": {
         "shortName": "FREN 450",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "FREN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN I199": {
         "shortName": "FREN I199",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN I299": {
         "shortName": "FREN I299",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN I399": {
         "shortName": "FREN I399",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN I499": {
         "shortName": "FREN I499",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN T180": {
         "shortName": "FREN T180",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN T280": {
         "shortName": "FREN T280",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN T380": {
         "shortName": "FREN T380",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "FREN T480": {
         "shortName": "FREN T480",
@@ -250,6 +272,7 @@
         "repeatStatus": "Can be repeated 8 times for 96 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

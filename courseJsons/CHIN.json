@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APCX N or APWCH 0",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "CHIN 102": {
         "shortName": "CHIN 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHIN 101 [Min Grade D] or APWCH 151",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "CHIN 103": {
         "shortName": "CHIN 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHIN 102 [Min Grade D] or APWCH 251",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "CHIN 201": {
         "shortName": "CHIN 201",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHIN 103 [Min Grade D] or APWCH 400",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHIN 202": {
         "shortName": "CHIN 202",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHIN 201 [Min Grade D] or APWCH 600",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHIN 310": {
         "shortName": "CHIN 310",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHIN 202 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "CHIN 320": {
         "shortName": "CHIN 320",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "CHIN 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN 340": {
         "shortName": "CHIN 340",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "CHIN 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN 350": {
         "shortName": "CHIN 350",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "CHIN 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN 420": {
         "shortName": "CHIN 420",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "CHIN 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN 440": {
         "shortName": "CHIN 440",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "CHIN 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN 450": {
         "shortName": "CHIN 450",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "CHIN 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN I199": {
         "shortName": "CHIN I199",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN I299": {
         "shortName": "CHIN I299",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN I399": {
         "shortName": "CHIN I399",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN I499": {
         "shortName": "CHIN I499",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN T180": {
         "shortName": "CHIN T180",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN T280": {
         "shortName": "CHIN T280",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN T380": {
         "shortName": "CHIN T380",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHIN T480": {
         "shortName": "CHIN T480",
@@ -217,6 +236,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

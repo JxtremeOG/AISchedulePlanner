@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 102 [Min Grade D] and MATH 122 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHE 212": {
         "shortName": "CHE 212",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 211 [Min Grade D] and CHE 220 [Min Grade D]",
         "coreqs": "CHE 230",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHE 220": {
         "shortName": "CHE 220",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 131 [Min Grade D] or ENGR 132 [Min Grade D]",
         "coreqs": "CHE 211",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHE 230": {
         "shortName": "CHE 230",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 200 [Min Grade D] and CHE 211 [Min Grade D] and CHE 220 [Min Grade D]",
         "coreqs": "CHE 212",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHE 320": {
         "shortName": "CHE 320",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 341 [Min Grade D] and CHE 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 330": {
         "shortName": "CHE 330",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHE 331": {
         "shortName": "CHE 331",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 330 [Min Grade D] and CHE 343 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHE 341": {
         "shortName": "CHE 341",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 212 [Min Grade D] and CHE 230 [Min Grade D] and MATH 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHE 342": {
         "shortName": "CHE 342",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 341 [Min Grade D]",
         "coreqs": "CHE 343",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 343": {
         "shortName": "CHE 343",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 341 [Min Grade D]",
         "coreqs": "CHE 342",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 344": {
         "shortName": "CHE 344",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CHE 343 [Min Grade D] or CHE 304 [Min Grade D]) and (CHE 341 [Min Grade D] or CHE 302 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 350": {
         "shortName": "CHE 350",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHE 351": {
         "shortName": "CHE 351",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 341 [Min Grade D] and CHE 330 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 352": {
         "shortName": "CHE 352",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 343 [Min Grade D] and CHE 331 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 360": {
         "shortName": "CHE 360",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 211 [Min Grade D] or CHE 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 362": {
         "shortName": "CHE 362",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 330 [Min Grade D] and CHE 342 [Min Grade D] and CHE 343 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "CHE 364": {
         "shortName": "CHE 364",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 305 [Min Grade D] or CHE 331 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 371": {
         "shortName": "CHE 371",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 211 [Min Grade D] and CHE 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 372": {
         "shortName": "CHE 372",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 342 [Min Grade D] and CHE 343 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "CHE 373": {
         "shortName": "CHE 373",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 242 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHE 381": {
         "shortName": "CHE 381",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHE 420": {
         "shortName": "CHE 420",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CHE 201 [Min Grade D] or CHE 211 [Min Grade D]) and (CHE 202 [Min Grade D] or CHE 212 [Min Grade D]) and CHE 303 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 430": {
         "shortName": "CHE 430",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 431": {
         "shortName": "CHE 431",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 200 [Min Grade D] and CHEM 102 [Min Grade D] and PHYS 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 432": {
         "shortName": "CHE 432",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 330 [Min Grade D] and CHE 343 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 433": {
         "shortName": "CHE 433",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 341 [Min Grade D] or CHE 302 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 452": {
         "shortName": "CHE 452",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 453": {
         "shortName": "CHE 453",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 362 [Min Grade D] (Can be taken Concurrently)",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHE 460": {
         "shortName": "CHE 460",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 461": {
         "shortName": "CHE 461",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 141 [Min Grade C] or BIO 122 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE 464": {
         "shortName": "CHE 464",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 210 [Min Grade D] and CHE 212 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHE 466": {
         "shortName": "CHE 466",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 472 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHE 471": {
         "shortName": "CHE 471",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 331 [Min Grade D], CHE 362 [Min Grade D] (Can be taken Concurrently) and CHE 371 [Min Grade D] and CHE 372 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "CHE 472": {
         "shortName": "CHE 472",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 471 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHE 473": {
         "shortName": "CHE 473",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE 472 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "CHE 498": {
         "shortName": "CHE 498",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHE I499 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE I199": {
         "shortName": "CHE I199",
@@ -404,7 +440,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE I299": {
         "shortName": "CHE I299",
@@ -415,7 +452,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE I399": {
         "shortName": "CHE I399",
@@ -426,7 +464,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE I499": {
         "shortName": "CHE I499",
@@ -437,7 +476,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE T180": {
         "shortName": "CHE T180",
@@ -448,7 +488,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE T280": {
         "shortName": "CHE T280",
@@ -459,7 +500,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "CHE T380": {
         "shortName": "CHE T380",
@@ -470,7 +512,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "CHE T480": {
         "shortName": "CHE T480",
@@ -481,6 +524,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

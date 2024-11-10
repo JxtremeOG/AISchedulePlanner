@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "WRIT 200": {
         "shortName": "WRIT 200",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "WRIT 210": {
         "shortName": "WRIT 210",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ENGL 101 [Min Grade C] or ENGL 111 [Min Grade C]) and (ENGL 102 [Min Grade C] or ENGL 112 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "WRIT 211": {
         "shortName": "WRIT 211",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "WRIT 212": {
         "shortName": "WRIT 212",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "WRIT 215": {
         "shortName": "WRIT 215",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D], ENGL 113 [Min Grade D] (Can be taken Concurrently) or (ENGL 101 [Min Grade D] or ENGL 111 [Min Grade D]) and (ENGL 102 [Min Grade D] or ENGL 112 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 220": {
         "shortName": "WRIT 220",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 225": {
         "shortName": "WRIT 225",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "WRIT 226": {
         "shortName": "WRIT 226",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 250": {
         "shortName": "WRIT 250",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 280": {
         "shortName": "WRIT 280",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 290": {
         "shortName": "WRIT 290",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "WRIT 295": {
         "shortName": "WRIT 295",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 301": {
         "shortName": "WRIT 301",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "WRIT 302": {
         "shortName": "WRIT 302",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "WRIT 303": {
         "shortName": "WRIT 303",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "WRIT 305": {
         "shortName": "WRIT 305",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 306": {
         "shortName": "WRIT 306",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ENGL 101 [Min Grade D] and ENGL 102 [Min Grade D] and ENGL 103 [Min Grade D]) or ENGL 105 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 308": {
         "shortName": "WRIT 308",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 310": {
         "shortName": "WRIT 310",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "WRIT 311": {
         "shortName": "WRIT 311",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(ENGL 101 [Min Grade C] or ENGL 111 [Min Grade C]) and (ENGL 102 [Min Grade C] or ENGL 112 [Min Grade C]) and (ENGL 103 [Min Grade C] or ENGL 113 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 312": {
         "shortName": "WRIT 312",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "WRIT 315": {
         "shortName": "WRIT 315",
@@ -250,7 +272,8 @@
         "repeatStatus": "Can be repeated 1 times for 9 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 320": {
         "shortName": "WRIT 320",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 330": {
         "shortName": "WRIT 330",
@@ -272,7 +296,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "WRIT 400": {
         "shortName": "WRIT 400",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 401": {
         "shortName": "WRIT 401",
@@ -294,7 +320,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "WRIT 295 [Min Grade C] and WRIT 301 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 402": {
         "shortName": "WRIT 402",
@@ -305,7 +332,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "WRIT 295 [Min Grade C] and WRIT 302 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT 405": {
         "shortName": "WRIT 405",
@@ -316,7 +344,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": "ENGL 103 [Min Grade D] or ENGL 113 [Min Grade D] or ENGL 105 [Min Grade A]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "WRIT I199": {
         "shortName": "WRIT I199",
@@ -327,7 +356,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT I299": {
         "shortName": "WRIT I299",
@@ -338,7 +368,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT I399": {
         "shortName": "WRIT I399",
@@ -349,7 +380,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT I499": {
         "shortName": "WRIT I499",
@@ -360,7 +392,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT T180": {
         "shortName": "WRIT T180",
@@ -371,7 +404,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT T280": {
         "shortName": "WRIT T280",
@@ -382,7 +416,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "WRIT T380": {
         "shortName": "WRIT T380",
@@ -393,7 +428,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "WRIT T480": {
         "shortName": "WRIT T480",
@@ -404,6 +440,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

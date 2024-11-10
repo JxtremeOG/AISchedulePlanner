@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "NURS 221": {
         "shortName": "NURS 221",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "HSCI 103 [Min Grade C] and MATH 101 [Min Grade C] and BIO 226 [Min Grade C] and (NURS 120 [Min Grade C] or NURS 121 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "NURS 225": {
         "shortName": "NURS 225",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "HSCI 103 [Min Grade C] and MATH 101 [Min Grade C]",
         "coreqs": "NURS 226",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 226": {
         "shortName": "NURS 226",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "HSCI 103 [Min Grade C] and MATH 101 [Min Grade C]",
         "coreqs": "NURS 225",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 310": {
         "shortName": "NURS 310",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "NURS 311": {
         "shortName": "NURS 311",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "NURS 312": {
         "shortName": "NURS 312",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 310 [Min Grade C] and NURS 311 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "NURS 317": {
         "shortName": "NURS 317",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "NURS 320": {
         "shortName": "NURS 320",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 120 [Min Grade C] and NURS 221 [Min Grade C] and NURS 225 [Min Grade C] and NURS 226 [Min Grade C]",
         "coreqs": "NURS 323",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 321": {
         "shortName": "NURS 321",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 320 [Min Grade C] and NURS 323 [Min Grade C]",
         "coreqs": "NURS 329",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 322": {
         "shortName": "NURS 322",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PSY 120 [Min Grade C] (Can be taken Concurrently) and NURS 320 [Min Grade C] and NURS 323 [Min Grade C] and NURS 321 [Min Grade C] and NURS 329 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 323": {
         "shortName": "NURS 323",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 120 [Min Grade C] and NURS 221 [Min Grade C] and NURS 225 [Min Grade C] and NURS 226 [Min Grade C]",
         "coreqs": "NURS 320",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 325": {
         "shortName": "NURS 325",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring Summer"
     },
     "NURS 326": {
         "shortName": "NURS 326",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 320 [Min Grade C] and NURS 323 [Min Grade C] and NURS 321 [Min Grade C] and NURS 329 [Min Grade C] and NURS 322 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "NURS 327": {
         "shortName": "NURS 327",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 320 [Min Grade C] and NURS 321 [Min Grade C] and NURS 322 [Min Grade C] and NURS 323 [Min Grade C] and NURS 329 [Min Grade C] and NURS 328 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 328": {
         "shortName": "NURS 328",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 320 [Min Grade C] and NURS 321 [Min Grade C] and NURS 323 [Min Grade C] and NURS 329 [Min Grade C] and NURS 322 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 329": {
         "shortName": "NURS 329",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 323 [Min Grade C] and NURS 320 [Min Grade C]",
         "coreqs": "NURS 321",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 330": {
         "shortName": "NURS 330",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "HSCI 345 [Min Grade C] and NURS 325 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 333": {
         "shortName": "NURS 333",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "NURS 334": {
         "shortName": "NURS 334",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "HSCI 345 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "NURS 335": {
         "shortName": "NURS 335",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 338": {
         "shortName": "NURS 338",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "NURS 340": {
         "shortName": "NURS 340",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 341": {
         "shortName": "NURS 341",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "NURS 342": {
         "shortName": "NURS 342",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "NURS 343": {
         "shortName": "NURS 343",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "NURS 344": {
         "shortName": "NURS 344",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "NURS 345": {
         "shortName": "NURS 345",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "NURS 346": {
         "shortName": "NURS 346",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 325 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 347": {
         "shortName": "NURS 347",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "NURS 348": {
         "shortName": "NURS 348",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "NURS 349": {
         "shortName": "NURS 349",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "NURS 350": {
         "shortName": "NURS 350",
@@ -360,7 +392,8 @@
         "repeatStatus": "Can be repeated 3 times for 9 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 351": {
         "shortName": "NURS 351",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "NURS 380": {
         "shortName": "NURS 380",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 325 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 407": {
         "shortName": "NURS 407",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 325 [Min Grade C] and NURS 330 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 410": {
         "shortName": "NURS 410",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "NURS 420": {
         "shortName": "NURS 420",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 320 [Min Grade C] and NURS 321 [Min Grade C] and NURS 323 [Min Grade C] and NURS 326 [Min Grade C] and NURS 328 [Min Grade C] and NURS 329 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "NURS 421": {
         "shortName": "NURS 421",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 320 [Min Grade C] and NURS 321 [Min Grade C] and NURS 323 [Min Grade C] and NURS 328 [Min Grade C] and NURS 329 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "NURS 422": {
         "shortName": "NURS 422",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 321 [Min Grade C] and NURS 329 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Summer"
     },
     "NURS 423": {
         "shortName": "NURS 423",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 321 [Min Grade C] and NURS 329 [Min Grade C] and HSCI 345 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "NURS 455": {
         "shortName": "NURS 455",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 460": {
         "shortName": "NURS 460",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 330 [Min Grade C] and NURS 325 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 465": {
         "shortName": "NURS 465",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 407 [Min Grade C] (Can be taken Concurrently) and NURS 325 [Min Grade C] and NURS 330 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 481": {
         "shortName": "NURS 481",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 482": {
         "shortName": "NURS 482",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 483": {
         "shortName": "NURS 483",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS 485": {
         "shortName": "NURS 485",
@@ -525,7 +572,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "NURS 486": {
         "shortName": "NURS 486",
@@ -536,7 +584,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "NURS 485 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "NURS 487": {
         "shortName": "NURS 487",
@@ -547,7 +596,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": "NURS 485 [Min Grade B] and NURS 486 [Min Grade B]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "NURS 495": {
         "shortName": "NURS 495",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "NURS 421 [Min Grade C] and NURS 328 [Min Grade C] and NURS 326 [Min Grade C]",
         "coreqs": "NURS 420",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "NURS I199": {
         "shortName": "NURS I199",
@@ -569,7 +620,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS I299": {
         "shortName": "NURS I299",
@@ -580,7 +632,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS I399": {
         "shortName": "NURS I399",
@@ -591,7 +644,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS I499": {
         "shortName": "NURS I499",
@@ -602,7 +656,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS T180": {
         "shortName": "NURS T180",
@@ -613,7 +668,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS T280": {
         "shortName": "NURS T280",
@@ -624,7 +680,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS T380": {
         "shortName": "NURS T380",
@@ -635,7 +692,8 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "NURS T480": {
         "shortName": "NURS T480",
@@ -646,6 +704,7 @@
         "repeatStatus": "Can be repeated 3 times for 12 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

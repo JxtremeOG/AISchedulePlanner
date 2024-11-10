@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 110": {
         "shortName": "PHIL 110",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 111": {
         "shortName": "PHIL 111",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 121": {
         "shortName": "PHIL 121",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHIL 111 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHIL 151": {
         "shortName": "PHIL 151",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 201": {
         "shortName": "PHIL 201",
@@ -63,7 +68,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring "
     },
     "PHIL 210": {
         "shortName": "PHIL 210",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 211": {
         "shortName": "PHIL 211",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHIL 212": {
         "shortName": "PHIL 212",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 214": {
         "shortName": "PHIL 214",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 215": {
         "shortName": "PHIL 215",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 216": {
         "shortName": "PHIL 216",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 218": {
         "shortName": "PHIL 218",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 221": {
         "shortName": "PHIL 221",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHIL 231": {
         "shortName": "PHIL 231",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHIL 241": {
         "shortName": "PHIL 241",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHIL 251": {
         "shortName": "PHIL 251",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 255": {
         "shortName": "PHIL 255",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "PHIL 291": {
         "shortName": "PHIL 291",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHIL 301": {
         "shortName": "PHIL 301",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 305": {
         "shortName": "PHIL 305",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 311": {
         "shortName": "PHIL 311",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 315": {
         "shortName": "PHIL 315",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 317": {
         "shortName": "PHIL 317",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHIL 321": {
         "shortName": "PHIL 321",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "PHIL 323": {
         "shortName": "PHIL 323",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHIL 325": {
         "shortName": "PHIL 325",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 330": {
         "shortName": "PHIL 330",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 335": {
         "shortName": "PHIL 335",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "PHIL 340": {
         "shortName": "PHIL 340",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHIL 341": {
         "shortName": "PHIL 341",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHIL 351": {
         "shortName": "PHIL 351",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHIL 355": {
         "shortName": "PHIL 355",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHIL 361": {
         "shortName": "PHIL 361",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 381": {
         "shortName": "PHIL 381",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 385": {
         "shortName": "PHIL 385",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "PHIL 391": {
         "shortName": "PHIL 391",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHIL 481": {
         "shortName": "PHIL 481",
@@ -415,7 +452,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "(PHIL 121 [Min Grade D] or PHIL 210 [Min Grade D] or PHIL 211 [Min Grade D] or PHIL 212 [Min Grade D] or PHIL 214 [Min Grade D] or PHIL 215 [Min Grade D] or PHIL 216 [Min Grade D] or PHIL 218 [Min Grade D] or PHIL 221 [Min Grade D] or PHIL 231 [Min Grade D] or PHIL 241 [Min Grade D] or PHIL 251 [Min Grade D] or PHIL 255 [Min Grade D] or PHIL T280 [Min Grade D] or PHIL 291 [Min Grade D] or PHIL 301 [Min Grade D] or PHIL 305 [Min Grade D] or PHIL 311 [Min Grade D] or PHIL 315 [Min Grade D] or PHIL 317 [Min Grade D] or PHIL 321 [Min Grade D] or PHIL 323 [Min Grade D] or PHIL 325 [Min Grade D] or PHIL 330 [Min Grade D] or PHIL 335 [Min Grade D] or PHIL 340 [Min Grade D] or PHIL 341 [Min Grade D] or PHIL 351 [Min Grade D] or PHIL 355 [Min Grade D] or PHIL 361 [Min Grade D] or PHIL T380 [Min Grade D] or PHIL 381 [Min Grade D] or PHIL 385 [Min Grade D] or PHIL 391 [Min Grade D] or PHIL T480 [Min Grade D] or PHIL 201 [Min Grade D]) and (PHIL 102 [Min Grade D] or PHIL 105 [Min Grade D] or PHIL 110 [Min Grade D] or PHIL 111 [Min Grade D] or PHIL 151 [Min Grade D] or PHIL 101 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "PHIL 485": {
         "shortName": "PHIL 485",
@@ -426,7 +464,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "(PHIL 121 [Min Grade D] or PHIL 210 [Min Grade D] or PHIL 211 [Min Grade D] or PHIL 212 [Min Grade D] or PHIL 214 [Min Grade D] or PHIL 215 [Min Grade D] or PHIL 216 [Min Grade D] or PHIL 218 [Min Grade D] or PHIL 221 [Min Grade D] or PHIL 231 [Min Grade D] or PHIL 241 [Min Grade D] or PHIL 251 [Min Grade D] or PHIL 255 [Min Grade D] or PHIL T280 [Min Grade D] or PHIL 291 [Min Grade D] or PHIL 301 [Min Grade D] or PHIL 305 [Min Grade D] or PHIL 311 [Min Grade D] or PHIL 315 [Min Grade D] or PHIL 317 [Min Grade D] or PHIL 321 [Min Grade D] or PHIL 323 [Min Grade D] or PHIL 325 [Min Grade D] or PHIL 330 [Min Grade D] or PHIL 335 [Min Grade D] or PHIL 340 [Min Grade D] or PHIL 341 [Min Grade D] or PHIL 351 [Min Grade D] or PHIL 355 [Min Grade D] or PHIL 361 [Min Grade D] or PHIL T380 [Min Grade D] or PHIL 385 [Min Grade D] or PHIL 391 [Min Grade D] or PHIL T480 [Min Grade D] or PHIL 381 [Min Grade D] or PHIL 201 [Min Grade D]) and (PHIL 101 [Min Grade D] or PHIL 102 [Min Grade D] or PHIL 105 [Min Grade D] or PHIL 110 [Min Grade D] or PHIL 111 [Min Grade D] or PHIL 151 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "PHIL 497": {
         "shortName": "PHIL 497",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 498": {
         "shortName": "PHIL 498",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHIL 497 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL 499": {
         "shortName": "PHIL 499",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHIL 498 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL I199": {
         "shortName": "PHIL I199",
@@ -470,7 +512,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL I299": {
         "shortName": "PHIL I299",
@@ -481,7 +524,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL I399": {
         "shortName": "PHIL I399",
@@ -492,7 +536,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL I499": {
         "shortName": "PHIL I499",
@@ -503,7 +548,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL T180": {
         "shortName": "PHIL T180",
@@ -514,7 +560,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL T280": {
         "shortName": "PHIL T280",
@@ -525,7 +572,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "PHIL T380": {
         "shortName": "PHIL T380",
@@ -536,7 +584,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "PHIL T480": {
         "shortName": "PHIL T480",
@@ -547,6 +596,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

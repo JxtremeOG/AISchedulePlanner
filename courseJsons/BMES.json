@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 102": {
         "shortName": "BMES 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 101 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 124": {
         "shortName": "BMES 124",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 201": {
         "shortName": "BMES 201",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 202": {
         "shortName": "BMES 202",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 212": {
         "shortName": "BMES 212",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] or BIO 131 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 238": {
         "shortName": "BMES 238",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 201 [Min Grade D], ENGR 231 [Min Grade D], MATH 261 [Min Grade D], CAEE 231 [Min Grade D], ECE 231 [Min Grade D] (Can be taken Concurrently) and MEM 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 241": {
         "shortName": "BMES 241",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D] and BMES 202 [Min Grade D] and (BMES 102 [Min Grade D] or ENGR 113 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 301": {
         "shortName": "BMES 301",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 345 [Min Grade D] (Can be taken Concurrently) or (MATH 201 [Min Grade D] or MATH 261 [Min Grade D] or ENGR 231 [Min Grade D] or CAEE 231 [Min Grade D] or ECE 231 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 302": {
         "shortName": "BMES 302",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 201 [Min Grade D] (Can be taken Concurrently) and BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 303": {
         "shortName": "BMES 303",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 201 [Min Grade D] and (MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 304": {
         "shortName": "BMES 304",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] and ECE 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "BMES 305": {
         "shortName": "BMES 305",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 201 [Min Grade D] or BMES 235 [Min Grade D]) and MEM 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 310": {
         "shortName": "BMES 310",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 231 [Min Grade D] or MATH 261 [Min Grade D] or MATH 201 [Min Grade D] or MATH 239 [Min Grade D] or CAEE 231 [Min Grade D] or ECE 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 315": {
         "shortName": "BMES 315",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 325": {
         "shortName": "BMES 325",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 202 [Min Grade D] (Can be taken Concurrently) and BIO 122 [Min Grade D] and (ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or MATH 210 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 326": {
         "shortName": "BMES 326",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 201 [Min Grade D] (Can be taken Concurrently) and BMES 325 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 337": {
         "shortName": "BMES 337",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D]) and (BMES 432 [Min Grade D] or ECES 302 [Min Grade D]) and BMES 375 [Min Grade D] and BIO 201 [Min Grade D] and BMES 451 [Min Grade D] and (BMES 238 [Min Grade D] or MEM 238 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 338": {
         "shortName": "BMES 338",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 341": {
         "shortName": "BMES 341",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 241 [Min Grade D] and (MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 345": {
         "shortName": "BMES 345",
@@ -228,7 +248,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] (Can be taken Concurrently) and MEM 202 [Min Grade D] and (ENGR 220 [Min Grade D] or MATE 220 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 353": {
         "shortName": "BMES 353",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 201 [Min Grade D] and (MATH 201 [Min Grade D] or MATH 239 [Min Grade D]) and (BIO 201 [Min Grade D] or BIO 218 [Min Grade D] or BIO 211 [Min Grade D] or BIO 348 [Min Grade D] or BIO 349 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 372": {
         "shortName": "BMES 372",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] and (ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or MATH 210 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D]) and BMES 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 375": {
         "shortName": "BMES 375",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 122 [Min Grade D] and BMES 202 [Min Grade D] and (MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 381": {
         "shortName": "BMES 381",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 341 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 382": {
         "shortName": "BMES 382",
@@ -283,7 +308,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 381 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 391": {
         "shortName": "BMES 391",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ECE 201 [Min Grade D] and (ENGR 210 [Min Grade D] or CHEM 253 [Min Grade D]) and (ENGR 232 [Min Grade D] or MATH 210 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D]) and BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 392": {
         "shortName": "BMES 392",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 391 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 401": {
         "shortName": "BMES 401",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(CHEM 253 [Min Grade D] or ENGR 210 [Min Grade D]) and ECE 201 [Min Grade D] and (ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or MATH 210 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 405": {
         "shortName": "BMES 405",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] and BMES 202 [Min Grade D] and (BMES 337 [Min Grade D] or ECES 356 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 407": {
         "shortName": "BMES 407",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 409": {
         "shortName": "BMES 409",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 411": {
         "shortName": "BMES 411",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 412": {
         "shortName": "BMES 412",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 411 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 415": {
         "shortName": "BMES 415",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D] and BMES 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 418": {
         "shortName": "BMES 418",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 421": {
         "shortName": "BMES 421",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(PHYS 153 [Min Grade D] or PHYS 201 [Min Grade D]) and (BIO 122 [Min Grade D] or BIO 141 [Min Grade D] or BIO 215 [Min Grade D] or BIO 219 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 422": {
         "shortName": "BMES 422",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 421 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 423": {
         "shortName": "BMES 423",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 422 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 424": {
         "shortName": "BMES 424",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 353 [Min Grade D] or BMES 421 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 430": {
         "shortName": "BMES 430",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] and BMES 202 [Min Grade D] and MEM 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "BMES 432": {
         "shortName": "BMES 432",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "BMES 440": {
         "shortName": "BMES 440",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] and (MEM 238 [Min Grade D] or BMES 238 [Min Grade D]) and (MATH 210 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 441": {
         "shortName": "BMES 441",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MEM 230 [Min Grade D] or BMES 345 [Min Grade D] or MATE 370 [Min Grade D]) and (MEM 238 [Min Grade D] or BMES 238 [Min Grade D]) and BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 442": {
         "shortName": "BMES 442",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 441 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 444": {
         "shortName": "BMES 444",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 451 [Min Grade D] and BIO 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 451": {
         "shortName": "BMES 451",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 253 [Min Grade D], ENGR 210 [Min Grade D] (Can be taken Concurrently) and BIO 201 [Min Grade D] and (ENGR 232 [Min Grade D] or MATH 262 [Min Grade D] or MATH 210 [Min Grade D] or CAEE 232 [Min Grade D] or ECE 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "BMES 455": {
         "shortName": "BMES 455",
@@ -525,7 +572,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "BMES 456": {
         "shortName": "BMES 456",
@@ -536,7 +584,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 457": {
         "shortName": "BMES 457",
@@ -547,7 +596,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 460": {
         "shortName": "BMES 460",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "CHEM 241 [Min Grade D] and (BMES 345 [Min Grade D] or MEM 230 [Min Grade D] or MATE 370 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 461": {
         "shortName": "BMES 461",
@@ -569,7 +620,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 460 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 471": {
         "shortName": "BMES 471",
@@ -580,7 +632,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 218 [Min Grade D] and BIO 219 [Min Grade D] and (MEM 230 [Min Grade D] or BMES 345 [Min Grade D] or MATE 370 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 472": {
         "shortName": "BMES 472",
@@ -591,7 +644,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 471 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 475": {
         "shortName": "BMES 475",
@@ -602,7 +656,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 461 [Min Grade D] and BMES 472 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 477": {
         "shortName": "BMES 477",
@@ -613,7 +668,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BIO 201 [Min Grade D] and (BIO 462 [Min Grade D] or BMES 430 [Min Grade D] or BIO 348 [Min Grade D]) and (BMES 337 [Min Grade D] or BMES 375 [Min Grade D] or BMES 372 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 478": {
         "shortName": "BMES 478",
@@ -624,7 +680,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 477 [Min Grade D] or BMES 353 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 480": {
         "shortName": "BMES 480",
@@ -635,7 +692,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(BIO 211 [Min Grade D] or BIO 214 [Min Grade D]) and CHEM 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 481": {
         "shortName": "BMES 481",
@@ -646,7 +704,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 480 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 483": {
         "shortName": "BMES 483",
@@ -657,7 +716,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 375 [Min Grade D] and BIO 218 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 484": {
         "shortName": "BMES 484",
@@ -668,7 +728,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 375 [Min Grade D] and BIO 218 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 485": {
         "shortName": "BMES 485",
@@ -679,7 +740,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 412 [Min Grade D] or BMES 430 [Min Grade D] or BMES 432 [Min Grade D] or BMES 418 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 488": {
         "shortName": "BMES 488",
@@ -690,7 +752,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 490": {
         "shortName": "BMES 490",
@@ -701,7 +764,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": "BMES 382 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "BMES 491": {
         "shortName": "BMES 491",
@@ -712,7 +776,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "BMES 382 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES 492": {
         "shortName": "BMES 492",
@@ -723,7 +788,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "BMES 493": {
         "shortName": "BMES 493",
@@ -734,7 +800,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "BMES 496": {
         "shortName": "BMES 496",
@@ -745,7 +812,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES 497": {
         "shortName": "BMES 497",
@@ -756,7 +824,8 @@
         "repeatStatus": "Can be repeated 1 times for 6 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "BMES I199": {
         "shortName": "BMES I199",
@@ -767,7 +836,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES I299": {
         "shortName": "BMES I299",
@@ -778,7 +848,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES I399": {
         "shortName": "BMES I399",
@@ -789,7 +860,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES I499": {
         "shortName": "BMES I499",
@@ -800,7 +872,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES T180": {
         "shortName": "BMES T180",
@@ -811,7 +884,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES T280": {
         "shortName": "BMES T280",
@@ -822,7 +896,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "BMES T380": {
         "shortName": "BMES T380",
@@ -833,7 +908,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "BMES T480": {
         "shortName": "BMES T480",
@@ -844,6 +920,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     }
 }

@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "SPAN 102": {
         "shortName": "SPAN 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SPAN 101 [Min Grade D] or APWSP 161",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "SPAN 103": {
         "shortName": "SPAN 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SPAN 102 [Min Grade D] or APWSP 251",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "SPAN 113": {
         "shortName": "SPAN 113",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SPAN 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN 201": {
         "shortName": "SPAN 201",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SPAN 103 [Min Grade D] or APWSP 331 or SPAN 113 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "SPAN 202": {
         "shortName": "SPAN 202",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SPAN 201 [Min Grade D] or SPAN 211 [Min Grade D] or APWSP 391",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring "
     },
     "SPAN 211": {
         "shortName": "SPAN 211",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(SPAN 103 [Min Grade D] or SPAN 113 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN 212": {
         "shortName": "SPAN 212",
@@ -85,7 +92,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(SPAN 201 [Min Grade D] or SPAN 211 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN 310": {
         "shortName": "SPAN 310",
@@ -96,7 +104,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "SPAN 202 [Min Grade D] or SPAN 212 [Min Grade D] or APWSP 461",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
     },
     "SPAN 320": {
         "shortName": "SPAN 320",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "SPAN 330": {
         "shortName": "SPAN 330",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "SPAN 340": {
         "shortName": "SPAN 340",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "SPAN 350": {
         "shortName": "SPAN 350",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "SPAN 410": {
         "shortName": "SPAN 410",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN 420": {
         "shortName": "SPAN 420",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN 430": {
         "shortName": "SPAN 430",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN 440": {
         "shortName": "SPAN 440",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "SPAN 450": {
         "shortName": "SPAN 450",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated 8 times for 36 credits",
         "prereqs": "SPAN 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN I199": {
         "shortName": "SPAN I199",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN I299": {
         "shortName": "SPAN I299",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN I399": {
         "shortName": "SPAN I399",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN I499": {
         "shortName": "SPAN I499",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN T180": {
         "shortName": "SPAN T180",
@@ -250,7 +272,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN T280": {
         "shortName": "SPAN T280",
@@ -261,7 +284,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN T380": {
         "shortName": "SPAN T380",
@@ -272,7 +296,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "SPAN T480": {
         "shortName": "SPAN T480",
@@ -283,6 +308,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

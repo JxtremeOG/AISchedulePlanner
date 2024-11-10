@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVPR 220": {
         "shortName": "TVPR 220",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVPR 236": {
         "shortName": "TVPR 236",
@@ -30,7 +32,8 @@
         "repeatStatus": "Can be repeated 2 times for 9 credits",
         "prereqs": "(FMVD 110 [Min Grade D] and FMVD 115 [Min Grade D] and FMVD 120 [Min Grade D]) or (FMTV 110 [Min Grade D] and FMTV 115 [Min Grade D] and FMTV 120 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "TVPR 242": {
         "shortName": "TVPR 242",
@@ -41,6 +44,7 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

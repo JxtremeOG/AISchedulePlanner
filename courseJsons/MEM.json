@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 202": {
         "shortName": "MEM 202",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 185 [Min Grade D] or PHYS 101 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 210": {
         "shortName": "MEM 210",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 122 [Min Grade D] and PHYS 101 [Min Grade D]",
         "coreqs": "EXAM 081",
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 220": {
         "shortName": "MEM 220",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MATH 200 [Min Grade D] or MATH 189 [Min Grade D]) and MEM 202 [Min Grade D] and MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 230": {
         "shortName": "MEM 230",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 238": {
         "shortName": "MEM 238",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MATH 189 [Min Grade D] or MATH 200 [Min Grade D]) and MEM 202 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 255": {
         "shortName": "MEM 255",
@@ -74,7 +80,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D] and (MATH 201 [Min Grade D] or MATH 261 [Min Grade D] or ENGR 231 [Min Grade D]) and (MATH 210 [Min Grade D] or MATH 262 [Min Grade D] or ENGR 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 260": {
         "shortName": "MEM 260",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MEM 261": {
         "shortName": "MEM 261",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "PHYS 102 [Min Grade D] and MATH 201 [Min Grade D] and MEM 161 [Min Grade D] and (ENGR 131 [Min Grade D] or ENGR 132 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 304": {
         "shortName": "MEM 304",
@@ -107,7 +116,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 200 [Min Grade D] and PHYS 101 [Min Grade D] and CHEM 102 [Min Grade D] and BIO 141 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 310": {
         "shortName": "MEM 310",
@@ -118,7 +128,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 210 [Min Grade D] or MEM 210 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 311": {
         "shortName": "MEM 311",
@@ -129,7 +140,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D] and MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 320": {
         "shortName": "MEM 320",
@@ -140,7 +152,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 321": {
         "shortName": "MEM 321",
@@ -151,7 +164,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 330": {
         "shortName": "MEM 330",
@@ -162,7 +176,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 331": {
         "shortName": "MEM 331",
@@ -173,7 +188,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D] (Can be taken Concurrently) and MEM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 333": {
         "shortName": "MEM 333",
@@ -184,7 +200,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 345": {
         "shortName": "MEM 345",
@@ -195,7 +212,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "ENGR 210 [Min Grade D] and (MEM 220 [Min Grade D] or CIVE 320 [Min Grade D]) and (MATH 210 [Min Grade D] or MATH 262 [Min Grade D] or ENGR 232 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 351": {
         "shortName": "MEM 351",
@@ -206,7 +224,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 255 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 355": {
         "shortName": "MEM 355",
@@ -217,7 +236,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 255 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 360": {
         "shortName": "MEM 360",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": "MATH 201 [Min Grade C], MATH 210 [Min Grade C] (Can be taken Concurrently) or (ENGR 131 [Min Grade C] or ENGR 132 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 361": {
         "shortName": "MEM 361",
@@ -239,7 +260,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MATH 290 [Min Grade D] or MATH 201 [Min Grade D] or MATH 261 [Min Grade D] or ENGR 231 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 371": {
         "shortName": "MEM 371",
@@ -250,7 +272,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 201 [Min Grade D] and (ENGR 210 [Min Grade D] or CHE 206 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 373": {
         "shortName": "MEM 373",
@@ -261,7 +284,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D] and MEM 238 [Min Grade D] and MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 374": {
         "shortName": "MEM 374",
@@ -272,7 +296,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 373 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 395": {
         "shortName": "MEM 395",
@@ -283,7 +308,8 @@
         "repeatStatus": "Can be repeated 5 times for 18 credits",
         "prereqs": "MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Spring Summer"
     },
     "MEM 400": {
         "shortName": "MEM 400",
@@ -294,7 +320,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 402": {
         "shortName": "MEM 402",
@@ -305,7 +332,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 403": {
         "shortName": "MEM 403",
@@ -316,7 +344,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D] and MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 405": {
         "shortName": "MEM 405",
@@ -327,7 +356,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 410 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 406": {
         "shortName": "MEM 406",
@@ -338,7 +368,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 405 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 410": {
         "shortName": "MEM 410",
@@ -349,7 +380,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 413": {
         "shortName": "MEM 413",
@@ -360,7 +392,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 345 [Min Grade D] and (MEM 310 [Min Grade D] or AE 220 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MEM 414": {
         "shortName": "MEM 414",
@@ -371,7 +404,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 345 [Min Grade D] and (MEM 310 [Min Grade D] or AE 220 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 415": {
         "shortName": "MEM 415",
@@ -382,7 +416,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "(MEM 220 [Min Grade D] or CHE 302 [Min Grade D] or CIVE 320 [Min Grade D]) and MEM 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 417": {
         "shortName": "MEM 417",
@@ -393,7 +428,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MEM 419": {
         "shortName": "MEM 419",
@@ -404,7 +440,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 417 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 420": {
         "shortName": "MEM 420",
@@ -415,7 +452,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter Summer"
     },
     "MEM 423": {
         "shortName": "MEM 423",
@@ -426,7 +464,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D] and (TDEC 222 [Min Grade D] or ENGR 232 [Min Grade D] or MATH 210 [Min Grade D] or MATH 262 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 424": {
         "shortName": "MEM 424",
@@ -437,7 +476,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 202 [Min Grade D] and MEM 238 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 425": {
         "shortName": "MEM 425",
@@ -448,7 +488,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Summer"
     },
     "MEM 426": {
         "shortName": "MEM 426",
@@ -459,7 +500,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 427": {
         "shortName": "MEM 427",
@@ -470,7 +512,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 428": {
         "shortName": "MEM 428",
@@ -481,7 +524,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 330 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 429": {
         "shortName": "MEM 429",
@@ -492,7 +536,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 428 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 430": {
         "shortName": "MEM 430",
@@ -503,7 +548,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 330 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 431": {
         "shortName": "MEM 431",
@@ -514,7 +560,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 202 [Min Grade D] and MEM 230 [Min Grade D] and MEM 238 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 435": {
         "shortName": "MEM 435",
@@ -525,7 +572,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 436": {
         "shortName": "MEM 436",
@@ -536,7 +584,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 201 [Min Grade D] and MEM 435 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 437": {
         "shortName": "MEM 437",
@@ -547,7 +596,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D] and MEM 230 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 438": {
         "shortName": "MEM 438",
@@ -558,7 +608,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 437 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 440": {
         "shortName": "MEM 440",
@@ -569,7 +620,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 345 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Summer"
     },
     "MEM 444": {
         "shortName": "MEM 444",
@@ -580,7 +632,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 220 [Min Grade D] or BMES 451 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 445": {
         "shortName": "MEM 445",
@@ -591,7 +644,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 345 [Min Grade C] and PHYS 201 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 446": {
         "shortName": "MEM 446",
@@ -602,7 +656,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 201 [Min Grade D] or TDEC 201 [Min Grade D] or PHYS 112 [Min Grade D] or PHYS 187 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 447": {
         "shortName": "MEM 447",
@@ -613,7 +668,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 446 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 448": {
         "shortName": "MEM 448",
@@ -624,7 +680,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 201 [Min Grade D] or TDEC 201 [Min Grade D] or PHYS 112 [Min Grade D] or PHYS 187 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 449": {
         "shortName": "MEM 449",
@@ -635,7 +692,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "PHYS 201 [Min Grade D] or TDEC 201 [Min Grade D] or PHYS 112 [Min Grade D] or PHYS 187 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 451": {
         "shortName": "MEM 451",
@@ -646,7 +704,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "MEM 453": {
         "shortName": "MEM 453",
@@ -657,7 +716,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 355 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 454": {
         "shortName": "MEM 454",
@@ -668,7 +728,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 453 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 455": {
         "shortName": "MEM 455",
@@ -679,7 +740,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D] and MEM 255 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Spring "
     },
     "MEM 456": {
         "shortName": "MEM 456",
@@ -690,7 +752,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 455 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 457": {
         "shortName": "MEM 457",
@@ -701,7 +764,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 456 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 458": {
         "shortName": "MEM 458",
@@ -712,7 +776,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 355 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 459": {
         "shortName": "MEM 459",
@@ -723,7 +788,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 458 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 462": {
         "shortName": "MEM 462",
@@ -734,7 +800,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 475": {
         "shortName": "MEM 475",
@@ -745,7 +812,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 476": {
         "shortName": "MEM 476",
@@ -756,7 +824,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 475 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 477": {
         "shortName": "MEM 477",
@@ -767,7 +836,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 238 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 478": {
         "shortName": "MEM 478",
@@ -778,7 +848,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM 491": {
         "shortName": "MEM 491",
@@ -789,7 +860,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 435 [Min Grade D] and (MEM 331 [Min Grade D] or MEM 351 [Min Grade D] or MEM 311 [Min Grade D])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "MEM 492": {
         "shortName": "MEM 492",
@@ -800,7 +872,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 491 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "MEM 493": {
         "shortName": "MEM 493",
@@ -811,7 +884,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "MEM 492 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "MEM I199": {
         "shortName": "MEM I199",
@@ -822,7 +896,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM I299": {
         "shortName": "MEM I299",
@@ -833,7 +908,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM I399": {
         "shortName": "MEM I399",
@@ -844,7 +920,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM I499": {
         "shortName": "MEM I499",
@@ -855,7 +932,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM T180": {
         "shortName": "MEM T180",
@@ -866,7 +944,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM T280": {
         "shortName": "MEM T280",
@@ -877,7 +956,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "MEM T380": {
         "shortName": "MEM T380",
@@ -888,7 +968,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall Winter "
     },
     "MEM T480": {
         "shortName": "MEM T480",
@@ -899,6 +980,7 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

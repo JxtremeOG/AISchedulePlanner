@@ -8,7 +8,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "APGX N or APWGR 0",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "GER 102": {
         "shortName": "GER 102",
@@ -19,7 +20,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "GER 101 [Min Grade D] or APWGR 231",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "GER 103": {
         "shortName": "GER 103",
@@ -30,7 +32,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "GER 102 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 201": {
         "shortName": "GER 201",
@@ -41,7 +44,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "GER 103 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 202": {
         "shortName": "GER 202",
@@ -52,7 +56,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "GER 201 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Spring "
     },
     "GER 310": {
         "shortName": "GER 310",
@@ -63,7 +68,8 @@
         "repeatStatus": "Not repeatable for credit",
         "prereqs": "GER 202 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Winter "
     },
     "GER 320": {
         "shortName": "GER 320",
@@ -74,7 +80,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 330": {
         "shortName": "GER 330",
@@ -85,7 +92,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 340": {
         "shortName": "GER 340",
@@ -96,7 +104,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 350": {
         "shortName": "GER 350",
@@ -107,7 +116,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade C]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": "Fall "
     },
     "GER 410": {
         "shortName": "GER 410",
@@ -118,7 +128,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade C] and (GER 320 [Min Grade C] or GER 330 [Min Grade C] or GER 340 [Min Grade C] or GER 350 [Min Grade C])",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 420": {
         "shortName": "GER 420",
@@ -129,7 +140,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 430": {
         "shortName": "GER 430",
@@ -140,7 +152,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 440": {
         "shortName": "GER 440",
@@ -151,7 +164,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER 450": {
         "shortName": "GER 450",
@@ -162,7 +176,8 @@
         "repeatStatus": "Can be repeated 8 times for 27 credits",
         "prereqs": "GER 310 [Min Grade D]",
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER I199": {
         "shortName": "GER I199",
@@ -173,7 +188,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER I299": {
         "shortName": "GER I299",
@@ -184,7 +200,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER I399": {
         "shortName": "GER I399",
@@ -195,7 +212,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER I499": {
         "shortName": "GER I499",
@@ -206,7 +224,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER T180": {
         "shortName": "GER T180",
@@ -217,7 +236,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER T280": {
         "shortName": "GER T280",
@@ -228,7 +248,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER T380": {
         "shortName": "GER T380",
@@ -239,7 +260,8 @@
         "repeatStatus": "Can be repeated multiple times for credit",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "GER T480": {
         "shortName": "GER T480",
@@ -250,6 +272,7 @@
         "repeatStatus": "Can be repeated 8 times for 24 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

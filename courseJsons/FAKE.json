@@ -8,7 +8,8 @@
         "repeatStatus": "",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": null
     },
     "FAKE 001": {
         "shortName": "FAKE 001",
@@ -19,6 +20,7 @@
         "repeatStatus": "",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": null
     }
 }

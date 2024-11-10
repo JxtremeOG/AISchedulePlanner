@@ -8,7 +8,8 @@
         "repeatStatus": "Can be repeated 8 times for 108 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     },
     "RELS T380": {
         "shortName": "RELS T380",
@@ -19,6 +20,7 @@
         "repeatStatus": "Can be repeated 8 times for 108 credits",
         "prereqs": null,
         "coreqs": null,
-        "restrictions": null
+        "restrictions": null,
+        "offered": ""
     }
 }

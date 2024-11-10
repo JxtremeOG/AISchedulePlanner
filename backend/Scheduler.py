@@ -44,7 +44,7 @@ class Scheduler():
         
     def createCourseFromShortName(shortName: str):
         courseInfo = Scheduler.getCourseInfo(shortName)
-        newCourse = Course(courseInfo["shortName"], courseInfo["fullName"], courseInfo["courseCredits"], courseInfo["courseDesc"], courseInfo["courseDepartment"], courseInfo["repeatStatus"], courseInfo["prereqs"], courseInfo["coreqs"], courseInfo["restrictions"])
+        newCourse = Course(courseInfo["shortName"], courseInfo["fullName"], courseInfo["courseCredits"], courseInfo["courseDesc"], courseInfo["courseDepartment"], courseInfo["repeatStatus"], courseInfo["prereqs"], courseInfo["coreqs"], courseInfo["restrictions"], courseInfo["offered"])
         return newCourse
         
     
