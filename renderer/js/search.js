@@ -57,12 +57,6 @@ var courseCardList = []
           dialogDiv.querySelector('.course-coreqs').textContent = "Corequisites: " + courseDetails.coreqs;
           dialogDiv.querySelector('.course-offered').textContent = "Offered Terms: " + courseDetails.offered;
           changeStatusIcon(courseDetailStatus, dialogDiv.querySelector('.course-status'));
-
-          const courseData = {
-              shortName: searchResultItemDiv.querySelector('.course-name').textContent,
-              credits: searchResultItemDiv.querySelector('.course-credits').textContent,
-              // You can add more properties if needed
-          };
   
           // Send the course data to the main process to open a new window
           document.querySelector('.course-dialog').showModal()

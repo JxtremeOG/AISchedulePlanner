@@ -323,6 +323,14 @@ body.modal-open {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
 }
 
+.managing-buttons {
+  background-color: var(--accent-color);
+  align-items: center;
+  border-radius: 5%;
+  height: 30px;
+  width: 125px;
+}
+
 #search-bar {
   width: 100%;
   padding: 10px;

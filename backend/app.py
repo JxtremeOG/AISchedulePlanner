@@ -65,6 +65,33 @@ def getCourseStatus():
         'courseList': [course.shortName for course in mainSchedule.courses.values()]
     })
     
+@app.route('/getScheduleBack', methods=['POST'])
+def getScheduleBack():
+    courseDict = {}
+    # print(mainSchedule.courses.values())
+    for term in mainSchedule.termList:
+        for course in term.courseList:
+            courseDict[course.shortName] = mainSchedule.findCourseTermIndex(course)
+            
+    # print(courseDict)
+        
+    return jsonify({
+        'courseInfo': courseDict
+    }) 
+    
+@app.route('/setScheduleBack', methods=['POST'])
+def setScheduleBack():
+    data = request.get_json()  # This will retrieve the JSON sent by axios
+    fileSchedule = data.get('scheduleLoaded')
+    for course, term in fileSchedule.items():
+        courseObject = Scheduler.createCourseFromShortName(course)
+        mainSchedule.addCourseToTerm(courseObject, term)
+        
+    return jsonify({
+        'result': True
+    }) 
+    
+    
 @app.route('/removeCourse', methods=['POST'])
 def removeCourseFromSchedule():
     data = request.get_json()  # This will retrieve the JSON sent by axios
@@ -90,4 +117,6 @@ def getCourseDetails():
     })
     
 if __name__ == '__main__':
+    # mainSchedule.addCourseToTerm(Scheduler.createCourseFromShortName("CS 101"), 0)
+    # getScheduleBack()
     socketio.run(app, port=5000, allow_unsafe_werkzeug=True)

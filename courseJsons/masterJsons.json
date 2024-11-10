@@ -51959,6 +51959,18 @@
         "restrictions": null,
         "offered": ""
     },
+    "UNIV 101": {
+        "shortName": "UNIV 101",
+        "fullName": "The Drexel Experience",
+        "courseCredits": "1.0",
+        "courseDesc": "IDK man they didn't add it themselves this is me.",
+        "courseDepartment": "UNIV is just weird",
+        "repeatStatus": "Not repeatable for credit",
+        "prereqs": null,
+        "coreqs": null,
+        "restrictions": null,
+        "offered": "Fall Winter Spring Summer"
+    },
     "VRIM 100": {
         "shortName": "VRIM 100",
         "fullName": "Digital Tools for Immersive Media",
