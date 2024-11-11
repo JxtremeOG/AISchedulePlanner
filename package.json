@@ -10,6 +10,8 @@
   "author": "Zak Oldweiler",
   "license": "MIT",
   "dependencies": {
+    "Flask": "3.0.3",
+    "Flask-SocketIO": "5.4.1",
     "axios": "^1.7.2",
     "electron": "^31.0.1",
     "markdown-it": "^14.1.0",
